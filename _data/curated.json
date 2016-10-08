@@ -1,9 +1,41 @@
 [
 	{
+		"curated_id": "Etw09b7nUkU1RQK4OhwkZ1zeKqgZz7XIFNwAGhI71XY2UThtBJpCWNcbp697HLpdXyNC3gAoPeRRjouRr0z8IA117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "FCC Helped Create the Stingray Problem Now it Needs to Fix It",
+		"url": "https://www.eff.org/deeplinks/2016/08/fcc-created-stingray-problem-now-it-needs-fix-it",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "sxw3eEl3k116KynR7F9XMTXN4htAL9CDWwqkG77VT1ycQz49mRz8jwL0lMVCV1ALVtwh9Lv116LXUgG3hPCv8a6NmA117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Attackers Can Use Legit Webcam Sessions To Spy On Mac Users Researcher Warns",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/attackers-can-use-legit-webcam-sessions-to-spy-on-mac-users-researcher-warns/d/d-id/1327122?_mc=RSS_DR_EDT",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UamIyvZ3EuF1238S2116Cvw196L9MLLurrRqmyQ5ANupQHHujEJMfq9116mDIPNdIlgyJnB7uJ27VOY7wxjSTgNKhgnQ117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "The Next Challenge for Video Surveillance as a Service",
+		"url": "http://www.remotemagazine.com/main/news/the-next-challenge-for-video-surveillance-as-a-service/?utm_source=rss&utm_medium=rss&utm_campaign=the-next-challenge-for-video-surveillance-as-a-service",
+		"domain": "www.remotemagazine.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LoW3NqHL26QHQWNteZsymt3ToTX0ABu1E2RDVoPmaDlxQLPd4qJOu8qzng6116eVUUBQNaFt3hX7H1cryWJhUIjw117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Mac researcher solves camera hijacking woes",
+		"url": "http://thehill.com/policy/cybersecurity/299698-mac-researcher-solves-camera-hijacking-woesn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
 		"curated_id": "l51166G116cUaV93dM1OPh116b123QhAydYSYV1239A1230mYvXI5WY4GddoWZlZw8KN13MP0pBqb9tJJeNdy2DXPkZEmebjPw117117",
 		"item_date": "2016-10-03 12:16:04",
 		"title": "A Docker Container To Capture All Traffic From Host",
-		"url": "http://jerrygamblin.com/2016/05/28/a-docker-container-to-capture-all-traffic-from-host/?hootPostID=dbfeb195b7d98e4385ebdd31ce907af3",
+		"url": "http://jerrygamblin.com/2016/05/28/a-docker-container-to-capture-all-traffic-from-host/",
 		"domain": "jerrygamblin.com",
 		"image": ""
 	},
@@ -11,7 +43,7 @@
 		"curated_id": "QvVRUEgaDmVulCxwHF9GiII43Deum8OhtLgjvZyqqJ5cCLt6wk0UNJ87W4FA6aa5cTu0E123N1ZdSEjMXWOd8VsA117117",
 		"item_date": "2016-10-05 07:50:16",
 		"title": "Tweet RT BMeson In about a week we should know more about how CPD is using cell site simulators in Chicago FOIA  httpstco7Zp94bHGh1",
-		"url": "https://twitter.com/MuckRock/statuses/783680711349993472",
+		"url": "https://twitter.com/B_Meson/status/783669554799140865",
 		"domain": "twitter.com",
 		"image": ""
 	},
@@ -59,8 +91,8 @@
 		"curated_id": "Vwjj5jGbzbghbLgUKMZOesYR116UIZmDcceGVAdjMgc0qtnUmG4PIfxbD1zFTwxNYphnllQQSV123lqN3YmFFCxp9Q117117",
 		"item_date": "2016-10-04 00:00:00",
 		"title": "Signal messaging app turns over minimal data in first subpoena",
-		"url": "http://feeds.reuters.com/~r/reuters/companyNews/~3/J8nVeiSjAU8/usa-cyber-signal-idUSL2N1CA006",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-usa-cyber-signal-idUSKCN1241JM",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
