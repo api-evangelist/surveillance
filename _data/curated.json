@@ -1,10 +1,58 @@
 [
 	{
+		"curated_id": "4Qgyhf77p99fswFGgZtKhcfwkUHGp6uTJmI2rcn6WG293Wrh1IMT1Go1167ZTq5qAi13F9NTnSIokIeVMJhsOCVg117117",
+		"item_date": "2016-11-11 16:35:35",
+		"title": "Accessorize to a Crime Real and Stealthy Attacks on StateoftheArt Face Recognition",
+		"url": "https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf",
+		"domain": "www.cs.cmu.edu",
+		"image": ""
+	},
+	{
+		"curated_id": "o6abPkpU9iUcXMdA7o3ziDKRrJv0O76tBneKVuLxsaa1uFMxevQ7W8RBl1p5weDIsgkpmVNcDIdKRJEjVDxzOA117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Surveillance encryption concerns in the wake of Donald Trumps victory",
+		"url": "http://www.siliconbeat.com/2016/11/10/surveillance-encryption-concerns-wake-donald-trumps-victory/",
+		"domain": "www.siliconbeat.com",
+		"image": ""
+	},
+	{
 		"curated_id": "qGO6pgxYdPLYZvaJSJkQkKo5WtFiz1jXk7b2KI54tu1162KzD82Y1IoOg8u8INGNfLqvD8lPKHXvzHS18lnqUWPA117117",
 		"item_date": "2016-11-11 00:00:00",
 		"title": "Fooling Facial Recognition Systems",
 		"url": "https://www.schneier.com/blog/archives/2016/11/fooling_facial_.html",
 		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Tho1UUR3ETTi6Rr4123123tfJgNHTmNVYE5ui7VpsDj0gqe9VYq3OpsnClEsbmOdQRV8jd123V6OOvA5xcr69cICYONg117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "AI that lipreads better than humans",
+		"url": "http://www.bbc.co.uk/news/technology-37911135",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "ECQexmQ1uu1160TzJFY3fuNpeNPADq7RjYtuk6JLgG4cKz123ZU1169lxn665Opp4n4ilIrdk3Y9t5TXyx7Kzbn2jKKw117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "The Social Impacts of Biometric Technology",
+		"url": "http://resources.infosecinstitute.com/the-social-impacts-of-biometric-technology/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9jszbv6KpDsywwQjMqFOFT9zXbj7mDoVGSHFhj5PBL6S0keF11160HxqtITEtiCU116116OfZEsFWgQQl2tg5wJ6CnPg117117",
+		"item_date": "2016-11-09 00:00:00",
+		"title": "The Spy Who Loved Me The Slippery Slope of Digital Surveillance",
+		"url": "http://www.nytimes.com/2016/11/10/style/family-digital-surveillance-tracking-smartphones.html",
+		"domain": "www.nytimes.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lggCsnkAoP116rOwYIVg1PMSNpp5hKgO1123jxlcvFA18OyPyng1qHvzaMcEDLUMLaWJn0Sr123qK8KAXFf4cv5ETHhQ117117",
+		"item_date": "2016-11-07 00:00:00",
+		"title": "3D Printing May Foil Facial Recognition Systems",
+		"url": "http://www.fabbaloo.com/blog/2016/11/7/3d-printing-may-foil-facial-recognition-systems",
+		"domain": "www.fabbaloo.com",
 		"image": ""
 	},
 	{
@@ -282,7 +330,7 @@
 	{
 		"curated_id": "1232XQvW2vTD75IiE123bFLu32guRUO0MaX9ajeHkBUZjrkx116zIP28KXWH1iYU116CbM6whWLWoc123uN8123LPKU51J6lGw117117",
 		"item_date": "2016-10-12 00:00:00",
-		"title": "British Transport Police Spent 40000 on Social Media Surveillance Software",
+		"title": "",
 		"url": "http://motherboard.vice.com/read/british-transport-police-spent-40000-on-social-media-surveillance-software",
 		"domain": "motherboard.vice.com",
 		"image": ""
@@ -562,7 +610,7 @@
 	{
 		"curated_id": "uaxkq1KJ9jMqWZhznvOL8JEJZyRHz7w8HBW0mxfY2BHVFRh1WQZkx20KzUTmDV4Dzv7WHeaUBRl3Xa8U0RUEjg117117",
 		"item_date": "2016-09-29 00:00:00",
-		"title": "Pokmon GO Hangover Some Lessons On Surveillance",
+		"title": "",
 		"url": "http://www.cxotoday.com/story/pokmon-go-hangover-some-lessons-on-surveillance/",
 		"domain": "www.cxotoday.com",
 		"image": ""
@@ -1317,14 +1365,6 @@
 		"title": "Schneider Electric Pelco Digital Sentry Video Management System Vulnerability",
 		"url": "https://ics-cert.us-cert.gov/advisories/ICSA-16-196-01",
 		"domain": "ics-cert.us-cert.gov",
-		"image": ""
-	},
-	{
-		"curated_id": "BPYkTlJQfavCRAvdRB9D9ImkNGmFG3Kq02rnlpoRk8Kj66EaTUlR0eRKr6123h3kjpICdyjw8JibahTe1XtUNuFA117117",
-		"item_date": "2014-02-05 00:00:00",
-		"title": "New surveillance technology can track everyone in an area for several hours at a time",
-		"url": "https://www.washingtonpost.com/business/technology/new-surveillance-technology-can-track-everyone-in-an-area-for-several-hours-at-a-time/2014/02/05/82f1556e-876f-11e3-a5bd-844629433ba3_story.html",
-		"domain": "www.washingtonpost.com",
 		"image": ""
 	},
 	{
@@ -2266,7 +2306,7 @@
 	{
 		"curated_id": "GO1161234GwH1b8cK820xxKw123Zoxt1nBGP8Ao116K3Ld4qcJKTYyNx94hLLNfuqoyereIAKuVw2csUPC5SzZBkz2uXLA117117",
 		"item_date": "2016-01-14 00:00:00",
-		"title": "Intel Hardwarebased Security Technologies Bring Differentiation to Biometrics Recognition Applications Part 1",
+		"title": "",
 		"url": "http://www.codeproject.com/Articles/1071773/Intel-Hardware-based-Security-Technologies-Bring",
 		"domain": "www.codeproject.com",
 		"image": ""
@@ -2834,7 +2874,7 @@
 	{
 		"curated_id": "ohtBTrz8r2VmN3bzMWIY9GMVTq4MM0IF4fzdO886E116SuDzGzSG6zjlBg5ABe82xpZQjrTVQRgdfA6kP6TXyb7w117117",
 		"item_date": "2015-05-13 00:00:00",
-		"title": "Face and Head Tracking using the Intel RealSense SDK",
+		"title": "",
 		"url": "http://www.codeproject.com/Articles/991154/Face-and-Head-Tracking-using-the-Intel-RealSense-S",
 		"domain": "www.codeproject.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-codeproject-comarticles991154face-and-head-tracking-using-the-intel-realsense-s.png"
@@ -2930,7 +2970,7 @@
 	{
 		"curated_id": "29lTE116MApGWVs4LPmNiGm2eIGVRmyJLiKTxFZTVobu9F8ttxrjRndG5c8oRApUYjnbi4bOgV3loW0x116PoDseMg117117",
 		"item_date": "2015-04-16 15:11:05",
-		"title": "Cest confirm la France adopte la surveillance de masse",
+		"title": "",
 		"url": "http://korben.info/cest-confirme-la-france-adopte-la-surveillance-de-masse.html",
 		"domain": "korben.info",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/korben-infocest-confirme-la-france-adopte-la-surveillance-de-masse-html.png"
@@ -3134,141 +3174,5 @@
 		"url": "https://gigaom.com/2015/01/07/uk-watchdog-public-should-wise-up-about-surveillance-cameras/",
 		"domain": "gigaom.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/gigaom-com20150107uk-watchdog-public-should-wise-up-about-surveillance-cameras.png"
-	},
-	{
-		"curated_id": "O123Nn8imnWMBQdpOiPfj5BSqEsHg4bTSemk6cMHVll9Z0qGVRR116p7Rc5LNpHIACmUiZ0Zry3BIOOp29VZmAoBcA117117",
-		"item_date": "2014-12-19 12:06:05",
-		"title": "How cookies can be used for global surveillance",
-		"url": "https://freedom-to-tinker.com/blog/englehardt/how-cookies-can-be-used-for-global-surveillance/",
-		"domain": "freedom-to-tinker.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/freedom-to-tinker-comblogenglehardthow-cookies-can-be-used-for-global-surveillance.png"
-	},
-	{
-		"curated_id": "dcbtceukiXYQBJQvUppLDlT3LxtkX4wPaQo6nBpVmD0USU5pSmXoryVqSAvSkfvmTxc1EyQx1VZxy8aS8b7jcg117117",
-		"item_date": "2014-08-15 23:00:44",
-		"title": "Surveillance Society  bavatuesdays",
-		"url": "http://bavatuesdays.com/surveillance-society/",
-		"domain": "bavatuesdays.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/bavatuesdays-comsurveillance-society.png"
-	},
-	{
-		"curated_id": "HUcOpQxQ0yAr3Df4e4bn5C8H9AUp2SKwBdGCXLZIgE8tEGUE9Zk4cwVnhQ123X2AEgWrwtHGTCNgF7116ElBqMptRA117117",
-		"item_date": "2014-08-14 00:00:00",
-		"title": "FullContact Person API Gets Improved Location Data",
-		"url": "https://www.fullcontact.com/blog/person-api-deduced-location/",
-		"domain": "www.fullcontact.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-fullcontact-comblogperson-api-deduced-location.png"
-	},
-	{
-		"curated_id": "gFX179oy9Mm4X5wD09VxD10yYCJLS9X9o7oNch4V1237Buqm8V2S3HcgNmUWXvnfsXBsbhlUoaEb5YlXA11696YzQg117117",
-		"item_date": "2014-08-11 19:50:21",
-		"title": "DEA paid Amtrak worker 854K for customer data it could have obtained for free  Boing Boing",
-		"url": "http://boingboing.net/2014/08/11/dea-paid-amtrak-worker-854k-f.html",
-		"domain": "boingboing.net",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/boingboing-net20140811dea-paid-amtrak-worker-854k-f-html.png"
-	},
-	{
-		"curated_id": "frRvXBNzWW9Pd4RMIgfzVOO116UgwO36PvEPuzlJ6MGNRhRuVvHZsRtwYSwq57sIa0DyW42b2AI3ZAPDPcOrgXDw117117",
-		"item_date": "2014-07-31 03:03:29",
-		"title": "Digital Surveillance  Like clueless guinea pigs  The Digital Debate  FAZ",
-		"url": "http://www.faz.net/aktuell/feuilleton/debatten/the-digital-debate/digital-surveillance-like-clueless-guinea-pigs-13070758.html",
-		"domain": "www.faz.net",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-faz-netaktuellfeuilletondebattenthe-digital-debatedigital-surveillance-like-clueless-guinea-pigs-13070758-html.png"
-	},
-	{
-		"curated_id": "zI0u5116SmMsvfvOeJaKYqqFim123gSok0rfrK99nbJVVD116YVZbrB3guWvtwavI2MkNm8WKP116JL9pSfHmn4X7OVNHA117117",
-		"item_date": "2014-07-31 00:00:00",
-		"title": "How to setup the Linksys WirelessN Camera with Cloud recording",
-		"url": "http://sensr.net/blog/2014/07/31/how-to-setup-the-linksys-wireless-n-camera-with-cloud-recording/",
-		"domain": "sensr.net",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/sensr-netblog20140731how-to-setup-the-linksys-wireless-n-camera-with-cloud-recording.png"
-	},
-	{
-		"curated_id": "t1SZxhu2jATeylQRhuhqXX123NSXBMzBPjrWQv762xzyClDPy2VShqcVXJhGqxfJy8M123uCYxgT4zvZODF5SBb4Sg117117",
-		"item_date": "2014-07-16 00:00:00",
-		"title": "How to setup all Hikivision Cameras with Cloud Recording",
-		"url": "http://sensr.net/blog/2014/07/16/how-to-setup-all-hikivision-cameras-with-cloud-recording/",
-		"domain": "sensr.net",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/sensr-netblog20140716how-to-setup-all-hikivision-cameras-with-cloud-recording.png"
-	},
-	{
-		"curated_id": "jSJtAJ8XcpXJGcb7QBuMnue6yD4123hyLswOq5qKe2yWEaL0P5VeWj8Jjud8kY3IDmE123UIzfXtxYgIdW8EGdekqA117117",
-		"item_date": "2014-05-29 00:00:00",
-		"title": "Vulnerabilities Found in Law Enforcement Surveillance System",
-		"url": "https://www.schneier.com/blog/archives/2014/05/vulnerabilities_3.html",
-		"domain": "www.schneier.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-schneier-comblogarchives201405vulnerabilities_3-html.png"
-	},
-	{
-		"curated_id": "M6KzK4qi8TS123u72EtHiZS116ztChtEY2g1237g2HRgguiISD123eW8b5Ig1SjynKMzft1EQbJcfN123HrlKhh1233Zc7O08A117117",
-		"item_date": "2014-06-05 19:41:47",
-		"title": "Reform Government Surveillance",
-		"url": "https://www.reformgovernmentsurveillance.com/USAFreedomAct",
-		"domain": "www.reformgovernmentsurveillance.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-reformgovernmentsurveillance-comusafreedomact.png"
-	},
-	{
-		"curated_id": "tHCSyy116uVn614IZMyObqtcg1sHgmIX123hMwfX2R9JjPmeBC2gfOkA0q1gRzsxb9S9CGBB9yPnuOWvnAhA0Z2zSA117117",
-		"item_date": "2014-05-24 06:01:15",
-		"title": "Police use cellphone spying device  New York News",
-		"url": "http://www.fox5ny.com/story/25597191/police-use-cellphone-spying-device",
-		"domain": "www.fox5ny.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-myfoxny-comstory25597191police-use-cellphone-spying-device.png"
-	},
-	{
-		"curated_id": "Gl6teSZ4AU1TzCxVSezWpzQMAnWsqkFqwQhskyfux3WKudoMKPNas3SIkpLJ7XBDa5bnmmdS95lRzouxlLzlog117117",
-		"item_date": "2014-03-05 00:00:00",
-		"title": "Surveillance by Algorithm",
-		"url": "https://www.schneier.com/blog/archives/2014/03/surveillance_by.html",
-		"domain": "www.schneier.com",
-		"image": ""
-	},
-	{
-		"curated_id": "DKWFEdBKG1fmRI123dEdnpgzG123Ibk752K9DQkqjFCXcSLIjDy5Gv0PhH4e2IJsMzvhGTDU0Dc3KhRSPi6RmULAgg117117",
-		"item_date": "2013-12-09 18:46:44",
-		"title": "International agreement reached controlling export of mass and intrusive surveillance technology  Privacy International",
-		"url": "https://www.privacyinternational.org/blog/international-agreement-reached-controlling-export-of-mass-and-intrusive-surveillance",
-		"domain": "www.privacyinternational.org",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-privacyinternational-orgbloginternational-agreement-reached-controlling-export-of-mass-and-intrusive-surveillance.png"
-	},
-	{
-		"curated_id": "HRxOVtIJqyk9qMk0116OTLVD1sTKDi123116vQ03x94A3UYFUIcyz1bR7EVndf9gvJB4HekPbAVEJMTAbNG6qJpfKXyw117117",
-		"item_date": "2013-08-05 00:00:00",
-		"title": "Axis Communications Uses APIs and LowLight Tech to Differentiate",
-		"url": "http://blog.tmcnet.com/blog/rich-tehrani/video/axis-communications-uses-its-apis-and-low-light-tech-to-differentiate.html",
-		"domain": "blog.tmcnet.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/blog-tmcnet-comblogrich-tehranivideoaxis-communications-uses-its-apis-and-low-light-tech-to-differentiate-html.png"
-	},
-	{
-		"curated_id": "svxh116eMNSYiOoRHL1236R582BeN5hKkGW116IyqM4qBLzmXvHwqbh63O7peB1LKHuXg5RT9QAd7au5LwDwLlCEBlRA117117",
-		"item_date": "2013-07-04 17:03:53",
-		"title": "ATT Invents Programming Language for Mass Surveillance  Threat Level  Wiredcom",
-		"url": "http://www.wired.com/threatlevel/2007/10/att-invents-pro/",
-		"domain": "www.wired.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/www-wired-comthreatlevel200710att-invents-pro.png"
-	},
-	{
-		"curated_id": "8IO4z6qjGSaEfjApConsHISKQLenMlhR116116Bsb0Nj116BkkPXw5GZqPJwn44jo0WokQ6sw7v3ZEDF38oUUAt123rfxg117117",
-		"item_date": "2013-04-20 00:00:00",
-		"title": "OK Glass RIP Privacy The Democratization Of Surveillance",
-		"url": "https://techcrunch.com/2013/04/20/ok-glass-rip-privacy-the-democratization-of-surveillance/",
-		"domain": "techcrunch.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7582_techcrunch_com.png"
-	},
-	{
-		"curated_id": "sCVmcY5YVa1Mhy6eWr2ciQPpp31160jze5aOS8C3QBkIqMMACnZYMJ6EwM123JBHBQX2UuSzBfMufm8hgq116un89jPw117117",
-		"item_date": "2013-04-16 00:00:00",
-		"title": "IRS Promises To Abandon Warrantless Email Spying After Public Outcry",
-		"url": "https://techcrunch.com/2013/04/16/irs-promises-to-abandon-warrantless-email-spying-after-public-outcry/",
-		"domain": "techcrunch.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/7555_feedproxy_google_com.png"
-	},
-	{
-		"curated_id": "E116WNdUGqnVlzwvbOy5VDFSsOyhpp123q50bfuuvgkhzQ0TiSSDE6z0UIOZvSAkucjWGpRWU0Dxb1167xV9paztLQBA117117",
-		"item_date": "2013-01-24 09:17:49",
-		"title": "Surveillance a la Skype EFF others seek answers",
-		"url": "http://www.cnet.com/news/surveillance-a-la-skype-eff-others-seek-answers/",
-		"domain": "www.cnet.com",
-		"image": "http://kinlane-productions.s3.amazonaws.com/ap-evangelist-site/curated/screenshots/9352_api500_com.png"
 	}
 ]
