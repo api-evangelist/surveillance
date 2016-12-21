@@ -19,8 +19,16 @@
 		"curated_id": "cVYNcomVhvbMamvJcXuw0pfJ8mjDDV6hA9BDF3lLfzT8KV116V5LnREGGEBi8T9FBjXuvxkCoOlMYRdI1igHc2rA117117",
 		"item_date": "2016-12-16 00:00:00",
 		"title": "UPDATE 1US to disclose estimate of number of Americans under surveillance",
-		"url": "http://feeds.reuters.com/~r/reuters/technologysectorNews/~3/VZmfAL3WFm0/usa-cyber-surveillance-idUSL1N1EB1SU",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-usa-cyber-surveillance-idUSKBN1452FX",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4m6116ehLwtUCUOxEAI1fL4BJERal5QCjByQ0Xy2123P3SHTCFraBhbJx116ULV123G19SwN4CyW6iCALghm6o7A0X3Wyw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Russia launches facial recognition programme to find anyones face on",
+		"url": "http://infloria.com/canada/russia-launches-facial-recognition-programme-to-find-anyones-face-on-twitter/",
+		"domain": "infloria.com",
 		"image": ""
 	},
 	{
@@ -40,11 +48,35 @@
 		"image": ""
 	},
 	{
+		"curated_id": "VD1wfn4Grjont9r2NjztVwdDzmTVuu4C123g4G123KavFGJWWHnea4fQrWi2txAfquRZJQdzD116A0sZamCzI3116Ysihw117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Twitter cuts off geospatial data access for police intelligence centers",
+		"url": "http://www.theverge.com/2016/12/15/13969110/twitter-dataminr-fusion-center-geospatial-data-surveillance",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
 		"curated_id": "116Y1MVS2gQbb6igL2XsVBm7QJ1y4im7CiYIdD8IFGeho3fU58RKG2zslmS3MzPnSWlavjqNf2IHQN17sbj7413g117117",
 		"item_date": "2016-12-15 00:00:00",
 		"title": "Access Now issues a menu of options to reform warrantless mass surveillance",
 		"url": "https://www.accessnow.org/access-now-issues-menu-options-reform-warrantless-mass-surveillance/",
 		"domain": "www.accessnow.org",
+		"image": ""
+	},
+	{
+		"curated_id": "6cxInqcV123ONDBVRVlWUmVBSPnmwq116x123beAavEDgutVCxyRh9S1n6RCUnATtw7clfd8zhsEEKWmcjcYpwKiN6MQ117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Twitter Cuts Off Fusion Spy Centers Access to Social Media Surveillance Tool",
+		"url": "https://www.aclu.org/blog/free-future/twitter-cuts-fusion-spy-centers-access-social-media-surveillance-tool",
+		"domain": "www.aclu.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Mk9fGbX9YFDq9amhY60ObFXYuMbgFJt5uCL4116it8nsbN1D116Sz3vIVBh1AluawttoLLdYKn1gRDXAYlBEal0odQ117117",
+		"item_date": "2016-12-14 00:00:00",
+		"title": "Expanded Government Hacking Powers Need Accompanying Safeguards",
+		"url": "https://www.eff.org/deeplinks/2016/12/expanded-government-hacking-powers-need-accompanying-safeguards",
+		"domain": "www.eff.org",
 		"image": ""
 	},
 	{
