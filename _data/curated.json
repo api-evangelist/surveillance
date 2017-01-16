@@ -59,8 +59,8 @@
 		"curated_id": "KKkfZQll7tYxUDBaRolNFcpTyeD4roJ4pInO2rPf8JugkpoyMea10VMjbXZ1j58k63AO59nlZoirXtUlvpbkfA117117",
 		"item_date": "2017-01-13 00:00:00",
 		"title": "Startup investors fret over risks of mass data collection",
-		"url": "http://feeds.reuters.com/~r/reuters/technologyNews/~3/En0E5_7G7J8/us-venturecapital-bigdata-idUSKBN14X24C",
-		"domain": "feeds.reuters.com",
+		"url": "http://www.reuters.com/article/us-venturecapital-bigdata-idUSKBN14X24C",
+		"domain": "www.reuters.com",
 		"image": ""
 	},
 	{
@@ -83,8 +83,8 @@
 		"curated_id": "sdILlU9QwaF2xvrnQLe05oZSXJOzkhfkVXDwIcca123IxAfR1160ZHXGuQZwh71yf6rezdA2O5sTJ6JGIl7oM5Tzlw117117",
 		"item_date": "2017-01-13 00:00:00",
 		"title": "Top security expert There is no WhatsApp backdoor FB",
-		"url": "http://feedproxy.google.com/~r/typepad/alleyinsider/silicon_alley_insider/~3/K1ni0FQKL38/top-security-expert-there-is-no-whatsapp-backdoor-2017-1",
-		"domain": "feedproxy.google.com",
+		"url": "http://www.businessinsider.com/top-security-expert-there-is-no-whatsapp-backdoor-2017-1",
+		"domain": "www.businessinsider.com",
 		"image": ""
 	},
 	{
@@ -152,11 +152,27 @@
 		"image": ""
 	},
 	{
+		"curated_id": "k4t6HdOSgtCPl8lbYFM123K1g8lZBttsObR2CT2ppaSv7DCm34q1tyQ6nRzjX7RQPjjrtNpEoXbY9G116Lu5JPKi2w117117",
+		"item_date": "2017-01-11 00:00:00",
+		"title": "House Intelligence votes to give all members access to classified Russian hacking report",
+		"url": "http://thehill.com/policy/cybersecurity/313867-intel-committee-votes-whole-house-can-see-full-hacking-reportn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
 		"curated_id": "2Thio3EdVPcVswdfECfO7j2vmoZzwli3pKcwLXzSsbwbHmbWnseM116kFLxNrhefMP786y97VrMPpCTgytS9gDFg117117",
 		"item_date": "2017-01-11 00:00:00",
 		"title": "FBI row over Geek Squad child abuse find",
 		"url": "http://www.bbc.co.uk/news/technology-38583351",
 		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "bpnPT5g1165B84PuU2jua7NNL9E1HUuKtm3sVzLEjKebiTY5jiMygBYRFSfc0FiMYExs46F6FxBrwZn123PL2TtmsA117117",
+		"item_date": "2017-01-10 00:00:00",
+		"title": "Finally Revealed Cloudflare Has Been Fighting NSL for Years",
+		"url": "https://www.eff.org/deeplinks/2017/01/finally-revealed-cloudflare-has-been-fighting-nsls-years",
+		"domain": "www.eff.org",
 		"image": ""
 	},
 	{
