@@ -1,5 +1,77 @@
 [
 	{
+		"curated_id": "nUisdZ44K5hz4IJmJUXWKbit4eiNfKmoz3XqJ123IahMnMyH62cUM76p5G2Yz8ix1Z7O7utrCfk6zVI5D5ZrV123HQ117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "Judge Rejects Warrant Seeking To Force Everyone At A Searched Location To Unlock Seized Electronic Devices",
+		"url": "https://www.techdirt.com/articles/20170222/13234436769/judge-rejects-warrant-seeking-to-force-everyone-searched-location-to-unlock-seized-electronic-devices.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ogIooeTCFb123SUy6u4XnQv9xXAKWctpKQWWtDPfGmNV5lZPbRX116uqLhRhxEumCGjpRhZzkrhIwcfZE9R7VXZxtQ117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "Federal magistrate judge in Illinois rules that being forced to unlock your phone with a fingerprint could violate your rights",
+		"url": "http://boingboing.net/2017/02/24/something-you-have.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "2PLU3ZnEa4vBD57xh6WNJfwE0123116jEzABoo2boPsOwxwsEM30h116ReB116NVpyd116EW4leQmrzboVdoCcylnePJlrsg117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "Customs officials refuse to allow passengers to debark a domestic flight unless they show ID",
+		"url": "http://boingboing.net/2017/02/24/papers-please.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "5czg3Fhi4i12VPS6Ff7KDWZQPbCJoWBI1233ZgwN97QvclZ51tXee278Ck27wSBMQasne5C8GVPdRmej0xUNUmVQ117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Judge says police cant force room of people to unlock an iPhone with their fingerprints",
+		"url": "http://thehill.com/policy/cybersecurity/320806-federal-judge-says-police-cant-force-entire-room-of-people-to-unlock-ann",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rAVvt5Da0ofrXRr1FKh0B5Hk85U123655yzq9avsZokfD5116BCh2TEn7SZD66uhDZ3ko6ueajiM6xotdSK0h7mlUA117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "House panel to hold hearing on foreign surveillance law",
+		"url": "http://thehill.com/policy/cybersecurity/320841-house-panel-to-hold-hearing-on-controversial-foreign-surveillance-lawn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116IExFrzDAE25d4HFAbhHsZc98clSPYlsnNKc80LV116vxiKYD58oJ7Wc123uByPwKFVt3fpJS7bPJAh8DYsm30EDYg117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Politwoops adds realtime stats for politicians deleted tweets across 54 countries",
+		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/OVSvmqlMmnw/",
+		"domain": "feedproxy.google.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JLJ4pa1v64vimoOYH9O0lHDjPjlg123mQdpsKOcwU9j7yizV4Ho8ym7iJeXoypO6lQYKKd7J2emvLMVHMQVzLnwQ117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Protect Biometric Privacy in Montana",
+		"url": "https://www.eff.org/deeplinks/2017/02/protect-biometric-privacy-montana",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "KbtS5bqkP123sAbvKU8bp9SH0v4XHLvLszROAQ10ort3Q4yWdjxos4bWIcnMJCQ2XywWJ5EP1Y3FuKUvQxOytGTw117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Netherlands Looks To Join The SuperSnooper Club With New Mass Surveillance Law",
+		"url": "https://www.techdirt.com/articles/20170220/02061736748/netherlands-looks-to-join-super-snooper-club-with-new-mass-surveillance-law.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9N2Vd8ujtEZYJuBtyU116q0Aw714KpN4VR0kYCqdSC1Xw9imOx7954oG2TohQyHZSJYkuE2V123TBPwpNUHhQ3IH6Q117117",
+		"item_date": "2017-02-23 00:00:00",
+		"title": "Sen Wyden Wants Answers From New DHS Head Introducing Legislation To Create Warrant Requirement For Border Phone Searches",
+		"url": "https://www.techdirt.com/articles/20170222/11492136768/sen-wyden-wants-answers-new-dhs-head-introducing-legislation-to-create-warrant-requirement-border-phone-searches.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
 		"curated_id": "h5H8tCmW0aYHwZCnXf116BH3hFrMXF5JIZeXMVC8yrD123xPqR123K3123YFe2Lo47P5ATUMqaV6m8UZnt1trVRO8AHwsw117117",
 		"item_date": "2017-02-17 17:27:43",
 		"title": "Local Police Departments Invest In Cell Phone Spy Tools",
