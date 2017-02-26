@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "B3MC1116S393116tzFqkghFVWTgIP5gpngkVK5c5DjdwR4Vi1ECTHP123nVGiwA8l3WMSLBMh2l116aYdqPNTQtg9cY4Mw117117",
+		"item_date": "2017-02-25 09:39:55",
+		"title": "How Peter Thiels Palantir Helped the NSA Spy on the Whole World",
+		"url": "https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/",
+		"domain": "theintercept.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pDtm9RqkSthtNbeVPnh7HEy6j3VmJDrPpMp7t9WtCEb116diYsT3sPoBk7P6WUxmNLCBiQP3DpV7SYeExqFXTPdA117117",
+		"item_date": "2017-02-24 00:00:00",
+		"title": "Using Cloud to Avoid Traffic",
+		"url": "https://www.eagleeyenetworks.com/using-cloud-avoid-traffic/",
+		"domain": "www.eagleeyenetworks.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7Suwvu123KHtnMel53Huw217NcGsXcOcKfjh116S0p0rE123IwJK123ZYD3Mrbvaq06zW8w5gtPkZoqee0WkFkPzG8Uh123g117117",
+		"item_date": "2017-02-25 00:00:00",
+		"title": "Palantir and the NSA",
+		"url": "https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/",
+		"domain": "theintercept.com",
+		"image": ""
+	},
+	{
 		"curated_id": "nUisdZ44K5hz4IJmJUXWKbit4eiNfKmoz3XqJ123IahMnMyH62cUM76p5G2Yz8ix1Z7O7utrCfk6zVI5D5ZrV123HQ117117",
 		"item_date": "2017-02-24 00:00:00",
 		"title": "Judge Rejects Warrant Seeking To Force Everyone At A Searched Location To Unlock Seized Electronic Devices",
@@ -24,6 +48,38 @@
 		"image": ""
 	},
 	{
+		"curated_id": "b2ILa2L123OnEExKTy89TeFTOjr9z0TUVRe116VbnYebuCdVGsSblZi68mu116AZYz123m9lr1ZTczQqkKs8YHVYmelVBQ117117",
+		"item_date": "2017-02-20 00:00:00",
+		"title": "Eagle Eye Networks Launches Camera Cyber Lockdown",
+		"url": "https://www.eagleeyenetworks.com/eagle-eye-networks-launches-camera-cyber-lockdown/",
+		"domain": "www.eagleeyenetworks.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8fapKs123hfGJIxzYwC7yTnRNtrHl856VomzFH3592FxrMfNzDcvHVJLY9A116zyKC2RQfyjsdht123RXWCsIUvsyyYg117117",
+		"item_date": "2017-02-20 00:00:00",
+		"title": "Neural Nets And Game Boy Cameras",
+		"url": "https://hackaday.com/2017/02/20/neural-nets-and-game-boy-cameras/",
+		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "alBrv5ZKzZdGe123RwuZzyOb4RgemqQzfcduw0GT4evbrQ76LnNlAqCiD0HOdMnG58116kXranGJSxCRzq4137fIUw117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "Dem bill would force Border Patrol agents to get warrants before searching devices",
+		"url": "http://thehill.com/policy/cybersecurity/320427-senator-to-introduce-legislation-requiring-warrants-for-device-searchesn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IElYAWI9JZas2VobJM0Yo2OkOHfINrVX1UIe65xfsa1237i123YIgov1236VZ7ABAmr3QZf6bDPC5HnHDk2986tCTzhA117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "FBI pressured on cost of iPhone hack tool",
+		"url": "http://www.bbc.co.uk/news/technology-39038936",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
 		"curated_id": "5czg3Fhi4i12VPS6Ff7KDWZQPbCJoWBI1233ZgwN97QvclZ51tXee278Ck27wSBMQasne5C8GVPdRmej0xUNUmVQ117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Judge says police cant force room of people to unlock an iPhone with their fingerprints",
@@ -43,8 +99,8 @@
 		"curated_id": "116IExFrzDAE25d4HFAbhHsZc98clSPYlsnNKc80LV116vxiKYD58oJ7Wc123uByPwKFVt3fpJS7bPJAh8DYsm30EDYg117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Politwoops adds realtime stats for politicians deleted tweets across 54 countries",
-		"url": "http://feedproxy.google.com/~r/Techcrunch/~3/OVSvmqlMmnw/",
-		"domain": "feedproxy.google.com",
+		"url": "https://techcrunch.com/2017/02/23/politwoops-adds-realtime-stats-for-politicians-deleted-tweets-across-54-countries/",
+		"domain": "techcrunch.com",
 		"image": ""
 	},
 	{
@@ -69,6 +125,46 @@
 		"title": "Sen Wyden Wants Answers From New DHS Head Introducing Legislation To Create Warrant Requirement For Border Phone Searches",
 		"url": "https://www.techdirt.com/articles/20170222/11492136768/sen-wyden-wants-answers-new-dhs-head-introducing-legislation-to-create-warrant-requirement-border-phone-searches.shtml",
 		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "45YC1232s2MV116gp3bxNdaVleYolW5nK8YvjetCws8QYYCdPgmu2mlNBWDvI2AHtTjQKnyK116X0OzHMZEeBjqQWa3g117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Coalition Slams DHS Plans To Demand Social Media Passwords",
+		"url": "https://www.techdirt.com/articles/20170221/11135336758/coalition-slams-dhs-plans-to-demand-social-media-passwords.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MgCt4TZqXUj6NMGgvHM2bc3ROOIKg1hTnUg6pAs5lWDTZqiSnB28Q1LVxY4geL08z5123lkASucSy0N8ENa96Eqg117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Tech coalition slams Homeland Security proposal to collect social media passwords",
+		"url": "https://techcrunch.com/2017/02/22/tech-coalition-slams-homeland-security-proposal-to-collect-social-media-passwords/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qcEncW2FGeU8NS116NcySopDDfjlpe8yx4XNQ1239AaV3YeqLuX0t0OqIJqMwR7xJYcHLx6KE4PB3KDicTmrLTPH9Q117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Federal Judge Denies Warrant to Fingerprint Unlock Random Apple Devices in Illinois Building",
+		"url": "https://motherboard.vice.com/en_us/article/federal-judge-denies-warrant-to-fingerprint-unlock-random-apple-devices-in-illinois-building",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RkW17mQnPCpvICspWPJ116BaqhTGP73Rwg3RHi64XETvDXj116GalJd4jxS7QEPKvw8Q11633Id64T6TlR7AuHFAOc9Q117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Meet Securitybot Open Sourcing Automated Security at Scale",
+		"url": "https://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/",
+		"domain": "blogs.dropbox.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YUmZLVeELbF5Fy7uUT1238M9up5Bd7IKxoJe8qqxG3IPpYIapsJZ116123M116jzBNYXcyBYrT3LUJ9dp3V9glE5dgfBvQ117117",
+		"item_date": "2017-02-22 00:00:00",
+		"title": "Border Digital Safety for Journalists",
+		"url": "http://blog.erratasec.com/2017/02/border-digital-safety-for-journalists.html",
+		"domain": "blog.erratasec.com",
 		"image": ""
 	},
 	{
@@ -157,6 +253,14 @@
 		"title": "Give us your Twitter your Facebook your passwords guarding your free expression",
 		"url": "https://www.accessnow.org/give-us-twitter-facebook-passwords-guarding-free-expression/",
 		"domain": "www.accessnow.org",
+		"image": ""
+	},
+	{
+		"curated_id": "uvgEfn2zKt9ap4E6TVd8iB123njXWrQM68bYKEPtLgJOh1O2SzlMWTV123y9lmnukcHLB4pk9fJDj84FgXzrY3MnSw117117",
+		"item_date": "2017-02-13 00:00:00",
+		"title": "Trevor Paglen Is Making Art Out of the Surveillance State",
+		"url": "https://motherboard.vice.com/en_us/article/trevor-paglen-is-making-art-out-of-the-surveillance-state",
+		"domain": "motherboard.vice.com",
 		"image": ""
 	},
 	{
