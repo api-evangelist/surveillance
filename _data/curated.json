@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "eRPBpmyfYeZhZnY7r123HysHFnADOsqUibNJwNo0En6GFWRmcq3sIB1PDaiEDEBLeyLYPwda40Ke3jWZLk8yhdzA117117",
+		"item_date": "2017-03-11 00:00:00",
+		"title": "Uberdriving lawyer explains to cop why he doesnt have to stop video recording him",
+		"url": "http://boingboing.net/2017/03/11/you-goin-need-a-warrant-for-th.html",
+		"domain": "boingboing.net",
+		"image": ""
+	},
+	{
+		"curated_id": "AjKIOe0116cgP73U4yUWO3ITbP7wUjo8GWPw116123PEJs2Zo3Eku6116kbGLeOf7pvuQc4X0Qyyy4D8pK6TU8drT8bwhQ117117",
+		"item_date": "2017-03-07 00:00:00",
+		"title": "Secret Court Orders Arent Blank Checks for General Electronic Searches",
+		"url": "https://www.eff.org/deeplinks/2017/03/gartenlaub",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "6QRxjW7713G34Qdzsll60wgkynGP4B3KxYZ3gCBJLEQFNl5VR7IGQLkon116rkJSSCPqL67PgasmFk73I1rO65zg117117",
+		"item_date": "2017-03-09 00:00:00",
+		"title": "ACLU challenges warrant to search Facebook page of Dakota Access opponents",
+		"url": "http://thehill.com/policy/cybersecurity/323131-aclu-challenges-police-effort-to-search-facebook-page-of-dakota-accessn",
+		"domain": "thehill.com",
+		"image": ""
+	},
+	{
+		"curated_id": "pEfy123a2HhAuLW4HPe9ms116X2QZZjs0REQYvyrKomVj8OnsprUIhaDoMmnaiKAbG9YzhjrRzk32IIFt123y4FiTwrg117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "The smart button controlled by your fingerprints",
+		"url": "http://www.bbc.co.uk/news/technology-39229217",
+		"domain": "www.bbc.co.uk",
+		"image": ""
+	},
+	{
+		"curated_id": "NfrAI93ItLWH4HU0mFW123Lm116DUVBeP1166YbaVi0PhQdlGd0qmSh3WP5NROfKxTUcd116q6qzkYgS9R2RXRmUDyxrkw117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "New Accountability AddOn Triggers Cameras When Police Officers Unholster Their Guns",
+		"url": "https://www.techdirt.com/articles/20170303/12152936833/new-accountability-add-on-triggers-cameras-when-police-officers-unholster-their-guns.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Tvf46trV30cCVD6e7uO6uGt0vWRV116iJWw4Xy77mn84fFjXgbOheov12Gcy1bmn6YLKVNgo00n6Cnm02BLp3h123Q117117",
+		"item_date": "2017-03-10 00:00:00",
+		"title": "Republicans Are Dismantling the Law That Protects Your DNA From Your Boss",
+		"url": "https://motherboard.vice.com/en_us/article/republicans-are-dismantling-the-law-that-protects-your-dna-from-your-boss",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "A0Se123Fu9cYmEZ5XPOpGLQIe9a116zmKuP2Oncg9SrYem1hEqAXFk63v123Jy116Nrtc1164kBfeRfZCe12Sa9PWfSJLBZQ117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "EFF to Court Forcing Someone to Unlock and Decrypt Their Phone Violates the Constitution",
+		"url": "https://www.eff.org/deeplinks/2017/03/eff-court-forcing-someone-unlock-and-decrypt-their-phone-violates-constitution",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "bVeaU9EAjI0Khzd116qDeRjl0C0QlHCHtidmeszqrbfNmDBAd3rC4Z56aQU716xhnAt116QHoZ8hWezShS7EJE0YAQ117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Uber Uses Ubiquitous Surveillance to Identify and Block Regulators",
+		"url": "https://www.schneier.com/blog/archives/2017/03/uber_uses_ubiqu.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
 		"curated_id": "iv3L7HoaUI3123EF2tnd2T1VZvfpoDh123faeAomLKAvpqwEh48yLYxhhn5EAOakvakSuIUO3Bf0t6Em5BFHZ0tL8A117117",
 		"item_date": "2017-02-28 00:00:00",
 		"title": "How This Internet of Things Stuffed Animal Can Be Remotely Turned Into a Spy Device",
