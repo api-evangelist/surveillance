@@ -1,10 +1,106 @@
 [
 	{
+		"curated_id": "116123cMapwlCp1XIBRdO87123RgkpcP2P8Q116iHYFLv4WJvW7TVYsW116Y116p9Q9g4vNqeWUu97vdc6Sgwx5CoWcAdaL2pQ117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Tiered Storage Enables More Sophisticated Surveillance",
+		"url": "http://blog.quantum.com/tiered-storage-enables-more-sophisticated-surveillance/",
+		"domain": "blog.quantum.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9Zd116AEzYhQhK5V07KsVKnVGRgRJcw7pAzcDgrKdZIv5bRqY8n116prpLszSUvjhTJrB04oTmEnFMuJIcoOrCEk123A117117",
+		"item_date": "2017-04-12 07:44:14",
+		"title": "Tweet Denver police add facial recognition software and powerful cellphone cracking device to arsenalhellip httpstcoChjyGk7vY9",
+		"url": "https://twitter.com/MuckRock/statuses/852170501069975554",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
 		"curated_id": "mjUVI90JtoR62U6XykId2hfodk4TUKwok5OUTa116evbVAiifr116IEvUczypHMoMpamRuoNvy2dF8af6v4V8fzMFA117117",
 		"item_date": "2017-04-14 00:00:00",
 		"title": "Eagle Eye Bridge 303403",
-		"url": "http://www.eagleeyenetworks.com/eagle-eye-bridge-303-403/",
+		"url": "https://www.eagleeyenetworks.com/eagle-eye-bridge-303-403/",
 		"domain": "www.eagleeyenetworks.com",
+		"image": ""
+	},
+	{
+		"curated_id": "okRaRGKUsYsYm7YMrrj9ovm123LqJZWf4s1qEqzpSpIQ4EPxNE6ZgC123reRYgnMBrDrhHH1VP6LZJl8zSziuRP8FQ117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "EFF Releases Spying on Students Ed Tech Report",
+		"url": "https://www.eff.org/deeplinks/2017/04/eff-releases-spying-students-ed-tech-report",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
+		"curated_id": "q11690K5isY757FVhVc75KXNofejMJKU0DaDIC2P5a9Aliexhg4lX1zw0pwiepUbqp6wKrbXtwFE5X0e123HI9t0vg117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Microsoft says US foreign intelligence surveillance requests more than doubled",
+		"url": "http://www.reuters.com/article/us-microsoft-surveillance-idUSKBN17F2G7",
+		"domain": "www.reuters.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TAKKAJi9ZbG6jG123gXHgI34wSL1TcWE2f26Vo116nDGB9L123Nlsa7y116U2XfFNwt9ck24S2qBw4Y8JeF116FLfWP2R8lA117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "The company behind the Galaxy S8s iris recognition says its superior to the FBIs fingerprint tech",
+		"url": "http://www.businessinsider.com/samsung-galaxy-s8-iris-scanner-fbi-fingerprint-tech-princeton-identity-2017-4",
+		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Bw8mY7qIcDZXnAGBUrTeATv116K3eH2yNWIuwZBuEhvufbIaw5Fl3DSiILVXlZrmG4FQZzULt9aqrG3IL5DTj32w117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "We know What Youre Watching Even If Its Encrypted",
+		"url": "http://spectrum.ieee.org/tech-talk/telecom/security/we-know-what-youre-watching-even-if-its-encrypted",
+		"domain": "spectrum.ieee.org",
+		"image": ""
+	},
+	{
+		"curated_id": "HtGlaQHeEsciT2fWN27I4wokhjAi9v2de8116FB7zswSVK1u6123j6Wl5Fp64ZpmRqeXNLdxz123mGS123123KQWrHgVMQ4Q117117",
+		"item_date": "2017-04-10 00:00:00",
+		"title": "Canadas National Police Force Officially Confirms Ownership Use Of Stingray Devices",
+		"url": "https://www.techdirt.com/articles/20170406/10435737097/canadas-national-police-force-officially-confirms-ownership-use-stingray-devices.shtml",
+		"domain": "www.techdirt.com",
+		"image": ""
+	},
+	{
+		"curated_id": "wcw1f75GkcGzN6KICQF123jUYGq2XiNjQshUs9tHfiHW0yLb6Fp2d0g7zrUjNLLmId9F3oJcZCOjbL0116vKzdm9mg117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "Its Not Chill At All That Canadian Police Misled the Public For Years About Stingrays",
+		"url": "https://motherboard.vice.com/en_us/article/its-not-chill-at-all-that-canadian-police-misled-the-public-for-years-about-stingrays",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "m2xRnjxPteov116iw3m0xbndl3J1oakwaUj4ECbjMzNYc4prQhxXHmdN4It9zwvo1yV3LJEwgwaDcTAjLGD123Jz3g117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "Salesforce Lite a free Chrome Extension",
+		"url": "http://blog.clearbit.com/free-salesforce-chrome-extension/",
+		"domain": "blog.clearbit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "RgWTH2t8ohZdsWnBEU1Z116fbjykJoDTypLZAVcba4y9116pmJ10d1sdbEdwKVcRllplCxcR0U0gb4t6TyRsZFmgIQ117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "How the Denver Police Crack and Search Cell Phones",
+		"url": "https://motherboard.vice.com/en_us/article/how-the-denver-police-crack-and-search-cell-phones",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cvjEVsod0zhI0GPw3nQKfvHVAYzBUT270CVLSQCWbgCRRwqx5kgo4Jjune123Sq3NXv19DIg9U9TMD2GzxQrCmPg117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "Your phones fingerprint lock has a weakness",
+		"url": "http://www.futurity.org/fingerprint-phone-security-1398662/",
+		"domain": "www.futurity.org",
+		"image": ""
+	},
+	{
+		"curated_id": "NBQqznAszlbtPLELtyxHm7yYE2ZWk2116KCzGgZ0mbt9r8xnitqr2X26tum116wlKKLTBE1arF9HBAB6ZfekYFyVaA117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "TCPIP headers leak info about what youre watching on Netflix",
+		"url": "http://www.itsecurityguru.org/2017/04/12/tcpip-headers-leak-info-youre-watching-netflix/",
+		"domain": "www.itsecurityguru.org",
 		"image": ""
 	},
 	{
