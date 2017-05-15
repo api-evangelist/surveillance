@@ -1,5 +1,69 @@
 [
 	{
+		"curated_id": "j1mj55i4D7d123NbhLK7MLlp116U0skCUU3SMdjrZlIeKkcauADTJPN123xjbKg3zmCHpK7AGkkCVxcj81gudro6h4TA117117",
+		"item_date": "2017-05-09 14:30:21",
+		"title": "Tweet Intel039s Management Engine is a secret DRM chip in your CPU It has security vulns but no off switch httpstcoIDGdpDTY5n",
+		"url": "https://twitter.com/EFF/statuses/862057177262850048",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "AXYrLtN4GZ0vvzgCxSiJJ7nNCi89GXSm9vl6wNWLovruL8CFnYT3RQEE0bnpVckkVRVi55q3HtrbzpADVmilVQ117117",
+		"item_date": "2017-05-11 20:28:52",
+		"title": "Tweet Municipal reforms seeking transparency and oversight of local police surveillance move forward in Oakland httpstcoUlqckf7w67",
+		"url": "https://twitter.com/EFF/statuses/862872173483925504",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8U0xyN0clQY9RqNbVOC116lso2qLa9Ai12381BKY1116y34faWeEeW2GcZo123mFbeBBjcDI4wLTALOsqipZIk0zqY4116DA117117",
+		"item_date": "2017-05-08 00:00:00",
+		"title": "NYC adopts StreetSmart to track the homeless",
+		"url": "http://www.zdnet.com/article/nyc-adopts-streetsmart-to-track-the-homeless/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GufFKIVNXwoVDcBCiGvDzHNH26FnTGLfqdZAIZqoGdcTWTM1yjrNPQ8Mt2CfhxyCyaPnls5MDlooVsAMVHe37A117117",
+		"item_date": "2017-05-08 00:00:00",
+		"title": "Eagle Eye History Browser",
+		"url": "https://www.eagleeyenetworks.com/eagle-eye-history-browser/",
+		"domain": "www.eagleeyenetworks.com",
+		"image": ""
+	},
+	{
+		"curated_id": "KwKwUlntXPDU4123DbgGYk47zZUhKNuuHR1DJxmH52vcWDMe66AeL4l8bNWLHkPhGvsBkpatAmrDSo5OdxyG7YbA117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "This Is the Secret Court Order That Forced the NSA to Delete the Data It Collected About You",
+		"url": "https://motherboard.vice.com/en_us/article/this-is-the-secret-court-order-that-forced-the-nsa-to-delete-the-data-it-collected-about-you",
+		"domain": "motherboard.vice.com",
+		"image": ""
+	},
+	{
+		"curated_id": "O116h96eG5JWYFU9FZHx16m7vGWg116KvTgwOzWaRJTYHx0qIozVrWkBWdbd5EKxRrknDL68yrK4kF6vi7MQ3GXK8g117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Keylogger Discovered in Some HP Laptops",
+		"url": "http://www.darkreading.com/vulnerabilities---threats/keylogger-discovered-in-some-hp-laptops/d/d-id/1328857",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "0P856116DhZN9QvOcmosFI41116ahavKuvaADwMuDW116k9uhCGlkeBDtFPMWe5O1utMi9GcSn9RzYkEuDfVHjHyI27w117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Keylogger Discovered in HP Audio Driver",
+		"url": "http://www.pcmag.com/news/353606/keylogger-discovered-in-hp-audio-driver",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "25leWHGfPxh3qN4123qhpO116B123qjj6hk4bBXNV9ImON8dFudxIQ5gv123sq3n84C9F32g123NmBpCUC3zDR123yVifs123kNA117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Oakland City Council Committee Advances Measure to Require Transparency and Public Process for Surveillance Tech",
+		"url": "https://www.eff.org/deeplinks/2017/05/oakland-city-council-committee-advances-measure-require-transparency-and-public",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
 		"curated_id": "IZAV9avLGLK7GKy6zDzjWbtA1t7C0qjWFlT9T4wT8TQwpg8KuB6123zy469MIG1168bpKcr4opKThEfLecOy22XqoQ117117",
 		"item_date": "2017-05-01 00:00:00",
 		"title": "Facebook research targeting insecure teens sparks privacy concerns",
