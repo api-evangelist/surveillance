@@ -36,17 +36,17 @@
   url: http://www.techrepublic.com/article/the-right-to-record-is-not-a-question-of-technology-but-rather-power-and-policy/
   domain: www.techrepublic.com
   image: ""
-- curated_id: bd547ad03d199037718350f666cd5f18
-  item_date: "2015-02-24 00:00:00"
-  title: This company wants to use drones to track your location through WiFi
-  url: https://pando.com/2015/02/24/this-company-wants-to-use-drones-to-track-your-location-through-wifi/
-  domain: pando.com
-  image: ""
 - curated_id: 411005ae60ff34c30d2960ada2424f63
   item_date: "2015-02-24 00:00:00"
   title: The Code-Black HD-camera drone captures video footage mid-flight [55% off]
   url: http://www.businessinsider.com/limited-edition-code-black-hd-camera-drone-2015-2
   domain: www.businessinsider.com
+  image: ""
+- curated_id: bd547ad03d199037718350f666cd5f18
+  item_date: "2015-02-24 00:00:00"
+  title: This company wants to use drones to track your location through WiFi
+  url: https://pando.com/2015/02/24/this-company-wants-to-use-drones-to-track-your-location-through-wifi/
+  domain: pando.com
   image: ""
 - curated_id: 711cc83724eb22351e2d7c492abe5f9f
   item_date: "2015-02-27 12:56:35"
@@ -79,17 +79,17 @@
   url: https://www.schneier.com/blog/archives/2015/03/the_changing_ec.html
   domain: www.schneier.com
   image: ""
-- curated_id: 62c79c460a56a9ea7dcaa5f89ff2d8a4
-  item_date: "2015-03-18 00:00:00"
-  title: Diebold, Eagle Eye Networks Team Up To Advance Cloud-based Video Services
-  url: https://aveasia.wordpress.com/2015/03/19/diebold-eagle-eye-networks-team-up-to-advance-cloud-based-video-services/
-  domain: aveasia.wordpress.com
-  image: ""
 - curated_id: cbd92afa470ee7dacfe781f933ccbd35
   item_date: "2015-03-18 00:00:00"
   title: Now, use your eye as a key
   url: http://www.mid-day.com/articles/now-use-your-eye-as-a-key/16074170
   domain: www.mid-day.com
+  image: ""
+- curated_id: 62c79c460a56a9ea7dcaa5f89ff2d8a4
+  item_date: "2015-03-18 00:00:00"
+  title: Diebold, Eagle Eye Networks Team Up To Advance Cloud-based Video Services
+  url: https://aveasia.wordpress.com/2015/03/19/diebold-eagle-eye-networks-team-up-to-advance-cloud-based-video-services/
+  domain: aveasia.wordpress.com
   image: ""
 - curated_id: 27212498ae486cb7658f5b4c9492de06
   item_date: "2015-03-19 23:12:51"
@@ -104,17 +104,17 @@
   url: https://blog.ouseful.info/2015/03/23/geographical-rights-management-mesh-based-surveillance-trickle-down-and-over-reach/
   domain: blog.ouseful.info
   image: ""
-- curated_id: 86089b90c0fb2740968824d4b402f03f
-  item_date: "2015-03-24 00:00:00"
-  title: Dynamsoft SDK Adds Webcam Image Capture
-  url: http://www.programmableweb.com/news/dynamsoft-sdk-adds-webcam-image-capture/2015/03/24
-  domain: www.programmableweb.com
-  image: ""
 - curated_id: 726addac3187f328810515570548004f
   item_date: "2015-03-24 00:00:00"
   title: Dedicated Milestone driver for Vivotek IP cameras
   url: http://www.securityworldhotel.com/int/News/Product-News/a-dedicated-driver-for-vivotek-ip-cameras-in-milestone
   domain: www.securityworldhotel.com
+  image: ""
+- curated_id: 86089b90c0fb2740968824d4b402f03f
+  item_date: "2015-03-24 00:00:00"
+  title: Dynamsoft SDK Adds Webcam Image Capture
+  url: http://www.programmableweb.com/news/dynamsoft-sdk-adds-webcam-image-capture/2015/03/24
+  domain: www.programmableweb.com
   image: ""
 - curated_id: 318202f417cfb1d697c2fe3338eea431
   item_date: "2015-03-25 00:00:00"
@@ -231,17 +231,23 @@
   url: http://sunlightfoundation.com/blog/2015/05/15/stories-from-our-surveillance-transparency-panel/
   domain: sunlightfoundation.com
   image: ""
+- curated_id: ecc2505db4ccedf0c602e6cb8a3e94c7
+  item_date: "2015-05-20 00:00:00"
+  title: 'Bits Daily Report: U.S. Accuses Six Chinese Citizens of Stealing Tech Data'
+  url: http://bits.blogs.nytimes.com/2015/05/20/daily-report-u-s-accuses-six-chinese-citizens-of-stealing-tech-data/
+  domain: bits.blogs.nytimes.com
+  image: ""
 - curated_id: 2d1919df5ecf2673a81c771ee98ea226
   item_date: "2015-05-20 00:00:00"
   title: 9 takeaways from our surveillance transparency panel, Who Watches the Watchers
   url: http://sunlightfoundation.com/blog/2015/05/20/9-takeaways-from-our-surveillance-transparency-panel-who-watches-the-watchers/
   domain: sunlightfoundation.com
   image: ""
-- curated_id: ecc2505db4ccedf0c602e6cb8a3e94c7
-  item_date: "2015-05-20 00:00:00"
-  title: 'Bits Daily Report: U.S. Accuses Six Chinese Citizens of Stealing Tech Data'
-  url: http://bits.blogs.nytimes.com/2015/05/20/daily-report-u-s-accuses-six-chinese-citizens-of-stealing-tech-data/
-  domain: bits.blogs.nytimes.com
+- curated_id: 457e024516f14294acdc0d4188326ab3
+  item_date: "2015-05-21 00:00:00"
+  title: Google Fiber pushes automatic piracy fines to subscribers
+  url: http://www.zdnet.com/article/google-fiber-pushes-automatic-piracy-fines-to-subscribers/#ftag=RSSbaffb68
+  domain: www.zdnet.com
   image: ""
 - curated_id: 4c80ad4e587372afff1ff07511e85fd1
   item_date: "2015-05-21 00:00:00"
@@ -249,12 +255,6 @@
     cropping'
   url: http://cloudinary.com/blog/how_to_control_the_zoom_level_with_automatic_face_detection_based_image_cropping
   domain: cloudinary.com
-  image: ""
-- curated_id: 457e024516f14294acdc0d4188326ab3
-  item_date: "2015-05-21 00:00:00"
-  title: Google Fiber pushes automatic piracy fines to subscribers
-  url: http://www.zdnet.com/article/google-fiber-pushes-automatic-piracy-fines-to-subscribers/#ftag=RSSbaffb68
-  domain: www.zdnet.com
   image: ""
 - curated_id: cf452f93e1a9de1148da35cbd91ad369
   item_date: "2015-05-23 11:13:52"
@@ -268,17 +268,17 @@
   url: http://www.businessinsider.com/three-ways-social-media-is-tracking-you-2015-5
   domain: www.businessinsider.com
   image: ""
-- curated_id: 30e0fc8d0dbb623b6906c6f08a7ddde5
-  item_date: "2015-05-29 00:00:00"
-  title: Obama Warns the Senate to Pass Surveillance Law
-  url: http://www.nytimes.com/2015/05/30/us/politics/obama-warns-the-senate-to-pass-surveillance-law.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 4935f0dd3ce04a42e18daae4914531cb
   item_date: "2015-05-29 00:00:00"
   title: What Americans think about NSA surveillance, national security and privacy
   url: http://www.pewresearch.org/fact-tank/2015/05/29/what-americans-think-about-nsa-surveillance-national-security-and-privacy/
   domain: www.pewresearch.org
+  image: ""
+- curated_id: 30e0fc8d0dbb623b6906c6f08a7ddde5
+  item_date: "2015-05-29 00:00:00"
+  title: Obama Warns the Senate to Pass Surveillance Law
+  url: http://www.nytimes.com/2015/05/30/us/politics/obama-warns-the-senate-to-pass-surveillance-law.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: 11239be357b66a3bca80b285ebcb29d3
   item_date: "2015-06-01 00:00:00"
@@ -336,11 +336,11 @@
   url: http://royal.pingdom.com/2015/06/08/are-you-being-monitored-right-now/
   domain: royal.pingdom.com
   image: ""
-- curated_id: c09148b02d132bc2d1627897c6086711
+- curated_id: 8501a423505c51ba1b52e6605a4438e0
   item_date: "2015-06-09 00:00:00"
-  title: Fake cell towers reportedly used to spy on residents in London
-  url: http://thenextweb.com/uk/2015/06/10/fake-cell-towers-reportedly-used-to-spy-on-residents-in-london/
-  domain: thenextweb.com
+  title: 'Stingrays: The new mobile tool of the surveillance state'
+  url: http://opensignal.com/blog/2015/06/09/stingrays-new-mobile-tool-surveillance-state/
+  domain: opensignal.com
   image: ""
 - curated_id: b875e85855f9e789798e30a110eb179e
   item_date: "2015-06-09 00:00:00"
@@ -349,11 +349,11 @@
   url: http://pando.com/2015/06/09/united-states-of-surveillance-fbi-pushes-for-access-to-secure-messaging-services/
   domain: pando.com
   image: ""
-- curated_id: 8501a423505c51ba1b52e6605a4438e0
+- curated_id: c09148b02d132bc2d1627897c6086711
   item_date: "2015-06-09 00:00:00"
-  title: 'Stingrays: The new mobile tool of the surveillance state'
-  url: http://opensignal.com/blog/2015/06/09/stingrays-new-mobile-tool-surveillance-state/
-  domain: opensignal.com
+  title: Fake cell towers reportedly used to spy on residents in London
+  url: http://thenextweb.com/uk/2015/06/10/fake-cell-towers-reportedly-used-to-spy-on-residents-in-london/
+  domain: thenextweb.com
   image: ""
 - curated_id: 96449e8b2b781e9b173e87aa161aabcc
   item_date: "2015-06-10 00:00:00"
@@ -374,11 +374,11 @@
   url: https://www.eff.org/deeplinks/2015/06/mystery-show-podcast-debunks-license-plate-privacy-myth
   domain: www.eff.org
   image: ""
-- curated_id: d332d35c7b9135ed42834b925cbd6bca
+- curated_id: f20577919113e3babba0bba8603166c2
   item_date: "2015-06-16 00:00:00"
-  title: 88% of New Yorkers want cameras on police
-  url: http://www.futurity.org/police-poll-new-york-942752/
-  domain: www.futurity.org
+  title: Corporations Want to Follow Your Every Move, Whether You Like It Or Not
+  url: http://www.motherjones.com/kevin-drum/2015/06/corporations-want-follow-your-every-move-whether-you-it-or-not
+  domain: www.motherjones.com
   image: ""
 - curated_id: b806ea6dee8415f6195614204b3e2aca
   item_date: "2015-06-16 00:00:00"
@@ -386,11 +386,11 @@
   url: https://www.schneier.com/blog/archives/2015/06/peter_swire_on_.html
   domain: www.schneier.com
   image: ""
-- curated_id: f20577919113e3babba0bba8603166c2
+- curated_id: d332d35c7b9135ed42834b925cbd6bca
   item_date: "2015-06-16 00:00:00"
-  title: Corporations Want to Follow Your Every Move, Whether You Like It Or Not
-  url: http://www.motherjones.com/kevin-drum/2015/06/corporations-want-follow-your-every-move-whether-you-it-or-not
-  domain: www.motherjones.com
+  title: 88% of New Yorkers want cameras on police
+  url: http://www.futurity.org/police-poll-new-york-942752/
+  domain: www.futurity.org
   image: ""
 - curated_id: e095248d1c32ed5921c288b41f7d01b8
   item_date: "2015-06-22 00:00:00"
@@ -560,12 +560,6 @@
   url: http://motherboard.vice.com/read/the-fbi-refused-our-foia-request-for-information-about-its-attack-on-tor
   domain: motherboard.vice.com
   image: ""
-- curated_id: 0610e99fad1a4041e81aa0f2d543a1f5
-  item_date: "2015-11-29 00:00:00"
-  title: NSA shuts down bulk phone surveillance program
-  url: http://disruptiveviews.com/7716-2/
-  domain: disruptiveviews.com
-  image: ""
 - curated_id: b29e483638569ca9ed71b840857b0916
   item_date: "2015-11-29 00:00:00"
   title: NSA shuts down bulk phone surveillance program
@@ -578,6 +572,12 @@
     it?s not enough
   url: http://thenextweb.com/insider/2015/11/29/nsa-stopped-from-indiscriminately-collecting-millions-of-phone-records-but-its-not-enough/
   domain: thenextweb.com
+  image: ""
+- curated_id: 0610e99fad1a4041e81aa0f2d543a1f5
+  item_date: "2015-11-29 00:00:00"
+  title: NSA shuts down bulk phone surveillance program
+  url: http://disruptiveviews.com/7716-2/
+  domain: disruptiveviews.com
   image: ""
 - curated_id: 07989823f71f7eb773131556433a7c4b
   item_date: "2015-12-07 00:00:00"
@@ -652,17 +652,17 @@
   url: http://www.securityweek.com/us-spy-chiefs-personal-accounts-hacked
   domain: www.securityweek.com
   image: ""
-- curated_id: e37418229e2707b2c748e140e37ec574
-  item_date: "2016-01-14 00:00:00"
-  title: ""
-  url: http://www.codeproject.com/Articles/1071773/Intel-Hardware-based-Security-Technologies-Bring
-  domain: www.codeproject.com
-  image: ""
 - curated_id: fb38be23b832290a55de18a2f51ec2f9
   item_date: "2016-01-14 00:00:00"
   title: Americans want privacy at home, but are more open to surveillance at work
   url: http://www.theverge.com/2016/1/14/10767570/pew-research-center-data-sharing-privacy
   domain: www.theverge.com
+  image: ""
+- curated_id: e37418229e2707b2c748e140e37ec574
+  item_date: "2016-01-14 00:00:00"
+  title: ""
+  url: http://www.codeproject.com/Articles/1071773/Intel-Hardware-based-Security-Technologies-Bring
+  domain: www.codeproject.com
   image: ""
 - curated_id: c74f5847974a02dae95f89c98a8aa825
   item_date: "2016-01-14 12:35:31"
@@ -757,6 +757,18 @@
   url: http://blog.algorithmia.com/2016/02/hackpoly-spotlight-helping-hand-uses-facial-recognition-automate-tasks/
   domain: blog.algorithmia.com
   image: ""
+- curated_id: 08937a28438e1542e5ec0a0216b44590
+  item_date: "2016-02-17 00:00:00"
+  title: Judge Orders Apple to Help FBI Crack San Bernardino iPhone
+  url: http://www.motherjones.com/kevin-drum/2016/02/judge-orders-apple-help-fbi-crack-san-bernardino-iphone
+  domain: www.motherjones.com
+  image: ""
+- curated_id: 4635244443ec1a3c623a26c3080bc912
+  item_date: "2016-02-17 00:00:00"
+  title: The FBI is striking at the heart of Apple?s security system
+  url: http://www.theverge.com/2016/2/17/11035296/apple-iphone-encryption-fight-security-fbi
+  domain: www.theverge.com
+  image: ""
 - curated_id: 6e786f71f4c7c91d71f6e917f8142b3c
   item_date: "2016-02-17 00:00:00"
   title: Explaining Apple?s Fight With the F.B.I.
@@ -768,18 +780,6 @@
   title: Should the Authorities Be Able to Access Your iPhone?
   url: http://www.nytimes.com/2016/02/18/us/politics/whether-phones-should-lock-out-the-fbi.html
   domain: www.nytimes.com
-  image: ""
-- curated_id: 4635244443ec1a3c623a26c3080bc912
-  item_date: "2016-02-17 00:00:00"
-  title: The FBI is striking at the heart of Apple?s security system
-  url: http://www.theverge.com/2016/2/17/11035296/apple-iphone-encryption-fight-security-fbi
-  domain: www.theverge.com
-  image: ""
-- curated_id: 08937a28438e1542e5ec0a0216b44590
-  item_date: "2016-02-17 00:00:00"
-  title: Judge Orders Apple to Help FBI Crack San Bernardino iPhone
-  url: http://www.motherjones.com/kevin-drum/2016/02/judge-orders-apple-help-fbi-crack-san-bernardino-iphone
-  domain: www.motherjones.com
   image: ""
 - curated_id: 97c6f2a93690233c3aa6f9ed2ccc1942
   item_date: "2016-02-18 00:00:00"
@@ -794,16 +794,16 @@
   url: http://www.businessinsider.com/hsbc-introduces-biometrics-log-ins-fingerprint-scanners-and-voice-recognition-2016-2
   domain: www.businessinsider.com
   image: ""
-- curated_id: 7a13997b721e38ee42d193a21fea9f38
-  item_date: "2016-02-24 00:00:00"
-  title: Eavesdropping by the Foscam Security Camera
-  url: https://www.schneier.com/blog/archives/2016/02/eavesdropping_b_1.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: a73c743426d825a17e837ebe9c4b8326
   item_date: "2016-02-24 00:00:00"
   title: Research on Balancing Privacy with Surveillance
   url: https://www.schneier.com/blog/archives/2016/02/research_on_bal.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: 7a13997b721e38ee42d193a21fea9f38
+  item_date: "2016-02-24 00:00:00"
+  title: Eavesdropping by the Foscam Security Camera
+  url: https://www.schneier.com/blog/archives/2016/02/eavesdropping_b_1.html
   domain: www.schneier.com
   image: ""
 - curated_id: 8d66da694d96fe29aeee2b23268b86b6
@@ -831,18 +831,18 @@
   url: https://www.eagleeyenetworks.com/announces-uk-data-center-for-cloud-video-recording/
   domain: www.eagleeyenetworks.com
   image: ""
+- curated_id: 39cc73a5adf4e06581f11e4ccc2672ec
+  item_date: "2016-03-10 00:00:00"
+  title: B.C. Government Opens Up Traffic Webcam Data to Developers
+  url: https://www.kelownanow.com/watercooler/news/news/Provincial/16/03/10/B_C_Government_Opens_Up_Traffic_Webcam_Data_to_Developers/
+  domain: www.kelownanow.com
+  image: ""
 - curated_id: 43a9bab24b2b91570a6191c809a0c6dc
   item_date: "2016-03-10 00:00:00"
   title: NSA Data Will Soon Routinely Be Used for Domestic Policing That Has Nothing
     to Do With Terrorism
   url: https://www.washingtonpost.com/news/the-watch/wp/2016/03/10/surprise-nsa-data-will-soon-routinely-be-used-for-domestic-policing-that-has-nothing-to-do-with-terrorism/
   domain: www.washingtonpost.com
-  image: ""
-- curated_id: 39cc73a5adf4e06581f11e4ccc2672ec
-  item_date: "2016-03-10 00:00:00"
-  title: B.C. Government Opens Up Traffic Webcam Data to Developers
-  url: https://www.kelownanow.com/watercooler/news/news/Provincial/16/03/10/B_C_Government_Opens_Up_Traffic_Webcam_Data_to_Developers/
-  domain: www.kelownanow.com
   image: ""
 - curated_id: f5b3c528359f9e80a1e517d1be0d2ab4
   item_date: "2016-03-12 00:00:00"
@@ -862,6 +862,12 @@
   url: http://www.theguardian.com/technology/2016/mar/18/redaction-fbi-target-ladar-lavabit-spy-edward-snowden
   domain: www.theguardian.com
   image: ""
+- curated_id: 2806984fd1e83b9ba6f4151197eb0c14
+  item_date: "2016-03-22 00:00:00"
+  title: New York has just opened a massive public spying network
+  url: http://thenextweb.com/us/2016/03/22/new-york-just-opened-massive-public-spying-network/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 6eedf5b31e8d025dc7593a8c92cc61da
   item_date: "2016-03-22 00:00:00"
   title: inboundgeo ? Get physical addresses of website visitors automatically
@@ -874,11 +880,11 @@
   url: http://disruptiveviews.com/third-party-iphone-hacking-option-stall-applefbi-showdown/
   domain: disruptiveviews.com
   image: ""
-- curated_id: 2806984fd1e83b9ba6f4151197eb0c14
-  item_date: "2016-03-22 00:00:00"
-  title: New York has just opened a massive public spying network
-  url: http://thenextweb.com/us/2016/03/22/new-york-just-opened-massive-public-spying-network/
-  domain: thenextweb.com
+- curated_id: 6f21a941f5c931c09c3f206135401d08
+  item_date: "2016-03-23 00:00:00"
+  title: FBI enlists Israeli firm to unlock encrypted iPhone
+  url: http://venturebeat.com/2016/03/23/fbi-enlists-israeli-firm-to-unlock-encrypted-iphone/
+  domain: venturebeat.com
   image: ""
 - curated_id: 33ab82634d7a6864e2780f77ca9c2846
   item_date: "2016-03-23 00:00:00"
@@ -886,12 +892,6 @@
     San Bernardino iPhone
   url: http://thenextweb.com/us/2016/03/23/apple-reportedly-working-israeli-mobile-forensics-company-crack-san-bernardino-iphone/
   domain: thenextweb.com
-  image: ""
-- curated_id: 6f21a941f5c931c09c3f206135401d08
-  item_date: "2016-03-23 00:00:00"
-  title: FBI enlists Israeli firm to unlock encrypted iPhone
-  url: http://venturebeat.com/2016/03/23/fbi-enlists-israeli-firm-to-unlock-encrypted-iphone/
-  domain: venturebeat.com
   image: ""
 - curated_id: 90adfd574d30799f120169e58ae36c45
   item_date: "2016-03-24 22:05:18"
@@ -912,6 +912,18 @@
   url: https://www.eagleeyenetworks.com/study-72-favor-security-cameras-in-schools-up-from-65-in-2015/
   domain: www.eagleeyenetworks.com
   image: ""
+- curated_id: 61aae5931a506feac56d033f70700ff0
+  item_date: "2016-03-28 00:00:00"
+  title: A 1976 Congressional Report on Surveillance
+  url: https://www.schneier.com/blog/archives/2016/03/a_1976_congress.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: 6c2b1f2ebf29d40834369dcdb81d4f58
+  item_date: "2016-03-28 00:00:00"
+  title: New Facial Recognition Technology Aims to Automate Airport Security
+  url: https://dzone.com/articles/new-facial-recognition-technology-aims-to-automate
+  domain: dzone.com
+  image: ""
 - curated_id: 50ce4b56e22df6bd427766211a4e24a1
   item_date: "2016-03-28 00:00:00"
   title: 'American Security Today: Eagle Eye ?First Responder Real-Time Video Access?'
@@ -925,16 +937,10 @@
   url: https://www.eagleeyenetworks.com/government-video-eagle-eye-networks-launches-video-access-tool-for-first-responders/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: 6c2b1f2ebf29d40834369dcdb81d4f58
-  item_date: "2016-03-28 00:00:00"
-  title: New Facial Recognition Technology Aims to Automate Airport Security
-  url: https://dzone.com/articles/new-facial-recognition-technology-aims-to-automate
-  domain: dzone.com
-  image: ""
-- curated_id: 61aae5931a506feac56d033f70700ff0
-  item_date: "2016-03-28 00:00:00"
-  title: A 1976 Congressional Report on Surveillance
-  url: https://www.schneier.com/blog/archives/2016/03/a_1976_congress.html
+- curated_id: 7ad9e6282db0f390e756a0c80b44a783
+  item_date: "2016-03-29 00:00:00"
+  title: Mass Surveillance Silences Minority Opinions
+  url: https://www.schneier.com/blog/archives/2016/03/mass_surveillan_1.html
   domain: www.schneier.com
   image: ""
 - curated_id: fd160fb0eba8814bdbf4992dadac60da
@@ -943,29 +949,11 @@
   url: http://venturebeat.com/2016/03/29/waze-rolls-out-speed-alerts-to-tell-you-when-youre-driving-too-fast/
   domain: venturebeat.com
   image: ""
-- curated_id: 7ad9e6282db0f390e756a0c80b44a783
-  item_date: "2016-03-29 00:00:00"
-  title: Mass Surveillance Silences Minority Opinions
-  url: https://www.schneier.com/blog/archives/2016/03/mass_surveillan_1.html
-  domain: www.schneier.com
-  image: ""
 - curated_id: 59bc5aebd5291505b5943e524b2880cd
   item_date: "2016-03-30 00:00:00"
   title: 'FBI vs Apple: A Postmortem'
   url: https://hackaday.com/2016/03/30/fbi-vs-apple-a-postmortem/
   domain: hackaday.com
-  image: ""
-- curated_id: 1a617b1830a67d2318702b4dfc37e6d4
-  item_date: "2016-04-01 00:00:00"
-  title: Introducing Style Detection for Google Cloud Vision API
-  url: https://cloudplatform.googleblog.com/2016/04/introducing-Style-Detection-for-Google-Cloud-Vision-API.html
-  domain: cloudplatform.googleblog.com
-  image: ""
-- curated_id: 034da51dd44ca41518141d4dfcae3468
-  item_date: "2016-04-01 00:00:00"
-  title: More Recognition/Identification Service APIs ? Microsoft Cognitive Services
-  url: https://blog.ouseful.info/2016/04/01/more-recognitionidentification-service-apis-microsoft-cognitive-services/
-  domain: blog.ouseful.info
   image: ""
 - curated_id: db0c8016269d217e0175f6995d3114ec
   item_date: "2016-04-01 00:00:00"
@@ -973,6 +961,18 @@
     for Schools'
   url: https://www.eagleeyenetworks.com/american-security-today-apply-today-1000000-drako-cloud-security-grant-for-schools/
   domain: www.eagleeyenetworks.com
+  image: ""
+- curated_id: 034da51dd44ca41518141d4dfcae3468
+  item_date: "2016-04-01 00:00:00"
+  title: More Recognition/Identification Service APIs ? Microsoft Cognitive Services
+  url: https://blog.ouseful.info/2016/04/01/more-recognitionidentification-service-apis-microsoft-cognitive-services/
+  domain: blog.ouseful.info
+  image: ""
+- curated_id: 1a617b1830a67d2318702b4dfc37e6d4
+  item_date: "2016-04-01 00:00:00"
+  title: Introducing Style Detection for Google Cloud Vision API
+  url: https://cloudplatform.googleblog.com/2016/04/introducing-Style-Detection-for-Google-Cloud-Vision-API.html
+  domain: cloudplatform.googleblog.com
   image: ""
 - curated_id: 154a5fa9827b82b8f8a764eac56173f7
   item_date: "2016-04-02 00:00:00"
@@ -985,6 +985,13 @@
   title: Your Future Toyota May Know Where You?re Going Before You?ve Told It
   url: https://www.technologyreview.com/s/601192/your-future-toyota-may-know-where-youre-going-before-youve-told-it/
   domain: www.technologyreview.com
+  image: ""
+- curated_id: d4e4407142bad6d57a796e6cab0a6b98
+  item_date: "2016-04-06 00:00:00"
+  title: 'Infotechlead: Video surveillance investment increases due to mounting security
+    concerns'
+  url: https://www.eagleeyenetworks.com/infotechlead-video-surveillance-investment-increases-due-to-mounting-security-concerns/
+  domain: www.eagleeyenetworks.com
   image: ""
 - curated_id: 944a619e416561a78abecbce4e0b08eb
   item_date: "2016-04-06 00:00:00"
@@ -999,18 +1006,17 @@
   url: http://www.securityworldhotel.com/na/News/Product-News/sentry-enter-body-worn-camera-market
   domain: www.securityworldhotel.com
   image: ""
-- curated_id: d4e4407142bad6d57a796e6cab0a6b98
-  item_date: "2016-04-06 00:00:00"
-  title: 'Infotechlead: Video surveillance investment increases due to mounting security
-    concerns'
-  url: https://www.eagleeyenetworks.com/infotechlead-video-surveillance-investment-increases-due-to-mounting-security-concerns/
-  domain: www.eagleeyenetworks.com
-  image: ""
 - curated_id: e3fa62aa8a0ebb7afaa787af7722d836
   item_date: "2016-04-06 19:29:10"
   title: Sentry enter body-worn camera market
   url: http://www.securityworldhotel.com/na/News/Product-News/sentry-enter-body-worn-camera-market#.VwXFuRMrKYU
   domain: www.securityworldhotel.com
+  image: ""
+- curated_id: d108ea848145a072bb2077243947fb0d
+  item_date: "2016-04-07 00:00:00"
+  title: Eagle Eye Networks Launches Eagle Eye Bridge 304w for Wireless Cameras
+  url: https://www.eagleeyenetworks.com/launches-eagle-eye-bridge-304w-for-wireless-cameras/
+  domain: www.eagleeyenetworks.com
   image: ""
 - curated_id: ee718c8233ce522a09b8dc6b94fe92bd
   item_date: "2016-04-07 00:00:00"
@@ -1018,10 +1024,10 @@
   url: http://www.programmableweb.com/news/swipebuster-uses-private-tinder-api-to-let-anyone-spy-tinder-users/brief/2016/04/07
   domain: www.programmableweb.com
   image: ""
-- curated_id: d108ea848145a072bb2077243947fb0d
-  item_date: "2016-04-07 00:00:00"
-  title: Eagle Eye Networks Launches Eagle Eye Bridge 304w for Wireless Cameras
-  url: https://www.eagleeyenetworks.com/launches-eagle-eye-bridge-304w-for-wireless-cameras/
+- curated_id: 4dcf446292a67467771be07e64bb2f6f
+  item_date: "2016-04-08 00:00:00"
+  title: 'SIW Video: The evolution of cloud-based video surveillance services'
+  url: https://www.eagleeyenetworks.com/siw-video-the-evolution-of-cloud-based-video-surveillance-services/
   domain: www.eagleeyenetworks.com
   image: ""
 - curated_id: a8670f610814530cf35a748562f30e0c
@@ -1036,12 +1042,6 @@
   url: http://flowingdata.com/2016/04/08/us-surveillance-flight-paths-for-the-fbi-and-homeland-security/
   domain: flowingdata.com
   image: ""
-- curated_id: 4dcf446292a67467771be07e64bb2f6f
-  item_date: "2016-04-08 00:00:00"
-  title: 'SIW Video: The evolution of cloud-based video surveillance services'
-  url: https://www.eagleeyenetworks.com/siw-video-the-evolution-of-cloud-based-video-surveillance-services/
-  domain: www.eagleeyenetworks.com
-  image: ""
 - curated_id: afe47db0cd927fad5010f1dd39fb3312
   item_date: "2016-04-08 09:49:27"
   title: 'Spies In The Skies: Here?s Where FBI Planes Are Circling U.S. Cities'
@@ -1054,6 +1054,25 @@
     government surveillance
   url: http://blog.wikimedia.org/2016/04/11/new-resource-wikimedia-nsa/
   domain: blog.wikimedia.org
+  image: ""
+- curated_id: 90429b2eb77fbb05028192d8f0c86a73
+  item_date: "2016-04-14 00:00:00"
+  title: Microsoft Wants To Let You Know When The Feds Are Snooping In Your Email
+  url: http://www.huffingtonpost.com/entry/microsoft-sues-government_us_570fc68fe4b0ffa5937e6f5a
+  domain: www.huffingtonpost.com
+  image: ""
+- curated_id: 5b7f9608f03500e8db550e6ce828d633
+  item_date: "2016-04-14 00:00:00"
+  title: Microsoft Sues U.S. Over Orders Barring It From Revealing Surveillance
+  url: http://rss.nytimes.com/c/34625/f/640387/s/4ef17202/sc/13/l/0L0Snytimes0N0C20A160C0A40C150Ctechnology0Cmicrosoft0Esues0Eus0Eover0Eorders0Ebarring0Eit0Efrom0Erevealing0Esurveillance0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm
+  domain: rss.nytimes.com
+  image: ""
+- curated_id: 92386aed3da5449d3597d6553ce86426
+  item_date: "2016-04-14 00:00:00"
+  title: Microsoft sues U.S. government over law banning tech firms from telling customers
+    about search warrants
+  url: http://venturebeat.com/2016/04/14/microsoft-sues-u-s-government-over-law-banning-tech-firms-from-telling-customers-about-search-warrants/
+  domain: venturebeat.com
   image: ""
 - curated_id: c7f52d70a5ee9a1b90ada0529658be05
   item_date: "2016-04-14 00:00:00"
@@ -1073,25 +1092,6 @@
   url: http://www.businessinsider.com/canada-police-have-access-to-blackberrys-global-decryption-key-vice-report-2016-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: 5b7f9608f03500e8db550e6ce828d633
-  item_date: "2016-04-14 00:00:00"
-  title: Microsoft Sues U.S. Over Orders Barring It From Revealing Surveillance
-  url: http://rss.nytimes.com/c/34625/f/640387/s/4ef17202/sc/13/l/0L0Snytimes0N0C20A160C0A40C150Ctechnology0Cmicrosoft0Esues0Eus0Eover0Eorders0Ebarring0Eit0Efrom0Erevealing0Esurveillance0Bhtml0Dpartner0Frss0Gemc0Frss/story01.htm
-  domain: rss.nytimes.com
-  image: ""
-- curated_id: 90429b2eb77fbb05028192d8f0c86a73
-  item_date: "2016-04-14 00:00:00"
-  title: Microsoft Wants To Let You Know When The Feds Are Snooping In Your Email
-  url: http://www.huffingtonpost.com/entry/microsoft-sues-government_us_570fc68fe4b0ffa5937e6f5a
-  domain: www.huffingtonpost.com
-  image: ""
-- curated_id: 92386aed3da5449d3597d6553ce86426
-  item_date: "2016-04-14 00:00:00"
-  title: Microsoft sues U.S. government over law banning tech firms from telling customers
-    about search warrants
-  url: http://venturebeat.com/2016/04/14/microsoft-sues-u-s-government-over-law-banning-tech-firms-from-telling-customers-about-search-warrants/
-  domain: venturebeat.com
-  image: ""
 - curated_id: 2ffbd551f0e44134b71acd6bc07e93cc
   item_date: "2016-04-14 12:11:03"
   title: The CIA Is Investing in Firms That Mine Your Tweets and Instagram Photos
@@ -1110,6 +1110,12 @@
   url: http://thenextweb.com/apps/2016/04/22/uber-facial-recognition-china/
   domain: thenextweb.com
   image: ""
+- curated_id: 1ac65dca64ca3693a64128e6f6188142
+  item_date: "2016-04-25 00:00:00"
+  title: Obama Stresses Need to Monitor Data in Fighting Terrorism
+  url: http://www.nytimes.com/2016/04/26/technology/obama-europe-privacy-terrorism.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: fc5706a7f4661431d1d3c847e5e42ef2
   item_date: "2016-04-25 00:00:00"
   title: Singapore is taking the ?smart city? to a whole new level by tracking bathroom
@@ -1117,23 +1123,11 @@
   url: http://www.businessinsider.com/singapore-bathroom-tracking-2016-4
   domain: www.businessinsider.com
   image: ""
-- curated_id: 1ac65dca64ca3693a64128e6f6188142
-  item_date: "2016-04-25 00:00:00"
-  title: Obama Stresses Need to Monitor Data in Fighting Terrorism
-  url: http://www.nytimes.com/2016/04/26/technology/obama-europe-privacy-terrorism.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: e0db60a4681facf7ea410b78f4c8d827
   item_date: "2016-04-27 00:00:00"
   title: Vote on whether Feds need search warrant for email searches
   url: http://disruptiveviews.com/vote-on-whether-feds-need-search-warrant-for-email-searches/
   domain: disruptiveviews.com
-  image: ""
-- curated_id: 1fce977ef86a7f2d90ebca3fd0dcfa50
-  item_date: "2016-04-29 00:00:00"
-  title: Documenting the Chilling Effects of NSA Surveillance
-  url: https://www.schneier.com/blog/archives/2016/04/documenting_the.html
-  domain: www.schneier.com
   image: ""
 - curated_id: 7598f007f266a497a7c38e5780d783e8
   item_date: "2016-04-29 00:00:00"
@@ -1141,23 +1135,29 @@
   url: http://www.businessinsider.com/fbi-apple-iphone-5c-models-san-bernardino-2016-42016-4
   domain: www.businessinsider.com
   image: ""
+- curated_id: 1fce977ef86a7f2d90ebca3fd0dcfa50
+  item_date: "2016-04-29 00:00:00"
+  title: Documenting the Chilling Effects of NSA Surveillance
+  url: https://www.schneier.com/blog/archives/2016/04/documenting_the.html
+  domain: www.schneier.com
+  image: ""
 - curated_id: 11ea49525c8a2e73162660b20424f8f6
   item_date: "2016-04-30 00:00:00"
   title: US surveillance court reportedly rejected zero spying requests last year
   url: http://www.theverge.com/2016/4/30/11545982/us-surveillance-spying-court-requests-memo-2015
   domain: www.theverge.com
   image: ""
-- curated_id: 0886db32bfde2f80e65911edb2f8317b
-  item_date: "2016-05-02 00:00:00"
-  title: Graphing Citizen Data With ETL
-  url: https://dzone.com/articles/a-graph-specialized-etl-taking-citizens-into-a-gra
-  domain: dzone.com
-  image: ""
 - curated_id: f2a100e102433d495bba320b703c1849
   item_date: "2016-05-02 00:00:00"
   title: In Your Face! Figuring Out Apple?s Face Detection API
   url: http://www.codeproject.com/Articles/1097378/In-Your-Face-Figuring-Out-Apple-s-Face-Detection-A
   domain: www.codeproject.com
+  image: ""
+- curated_id: 0886db32bfde2f80e65911edb2f8317b
+  item_date: "2016-05-02 00:00:00"
+  title: Graphing Citizen Data With ETL
+  url: https://dzone.com/articles/a-graph-specialized-etl-taking-citizens-into-a-gra
+  domain: dzone.com
   image: ""
 - curated_id: 549c9f4119588905e3f7025961538f57
   item_date: "2016-05-03 00:00:00"
@@ -1257,17 +1257,17 @@
   url: http://evercam.io/blog/google-timelapse-via-satellite/
   domain: evercam.io
   image: ""
-- curated_id: bb1552c9ad9e4019bfbdb32aff68e53d
-  item_date: "2016-06-14 00:00:00"
-  title: Terrorist uses Facebook Live to deliver chilling message after police murder
-  url: http://thenextweb.com/insider/2016/06/14/terrorist-uses-facebook-live-to-deliver-chilling-message-after-police-murder/
-  domain: thenextweb.com
-  image: ""
 - curated_id: ba1a28cc3b33ecea946a7af009bf2cc5
   item_date: "2016-06-14 00:00:00"
   title: French terror suspect reportedly streamed attack on Facebook Live
   url: http://www.theverge.com/2016/6/14/11930916/france-terrorist-larossi-abballa-facebook-live-video
   domain: www.theverge.com
+  image: ""
+- curated_id: bb1552c9ad9e4019bfbdb32aff68e53d
+  item_date: "2016-06-14 00:00:00"
+  title: Terrorist uses Facebook Live to deliver chilling message after police murder
+  url: http://thenextweb.com/insider/2016/06/14/terrorist-uses-facebook-live-to-deliver-chilling-message-after-police-murder/
+  domain: thenextweb.com
   image: ""
 - curated_id: a57fc599784ff8160e059ce0e6da8ad4
   item_date: "2016-06-15 00:00:00"
@@ -1282,23 +1282,17 @@
   url: http://www.nytimes.com/2016/06/21/technology/personaltech/tracing-your-google-history.html
   domain: www.nytimes.com
   image: ""
-- curated_id: c6ddd302809f1e7e2a2ab16086c0728e
-  item_date: "2016-06-22 00:00:00"
-  title: 'Your Local Broadcast: Centric Finds the Cameras in Your Neighborhood'
-  url: http://streetfightmag.com/2016/06/22/your-local-broadcast-centric-finds-the-cameras-in-your-neighborhood/
-  domain: streetfightmag.com
-  image: ""
 - curated_id: 544b37bee59830f44e556c6c23b66297
   item_date: "2016-06-22 00:00:00"
   title: US Senate likely to expand FBI surveillance rules after Orlando
   url: http://disruptiveviews.com/us-senate-likely-expand-fbi-surveillance-rules-orlando/
   domain: disruptiveviews.com
   image: ""
-- curated_id: de81aeace1bc5382a7d7cb8feafb5821
-  item_date: "2016-06-23 00:00:00"
-  title: IP and User Agent Lookup API Search Tool (Search)
-  url: https://codecanyon.net/item/ip-and-user-agent-lookup-api-search-tool/16750113
-  domain: codecanyon.net
+- curated_id: c6ddd302809f1e7e2a2ab16086c0728e
+  item_date: "2016-06-22 00:00:00"
+  title: 'Your Local Broadcast: Centric Finds the Cameras in Your Neighborhood'
+  url: http://streetfightmag.com/2016/06/22/your-local-broadcast-centric-finds-the-cameras-in-your-neighborhood/
+  domain: streetfightmag.com
   image: ""
 - curated_id: cb0b36a5c701ea0167b95a30e9dfa0a3
   item_date: "2016-06-23 00:00:00"
@@ -1306,6 +1300,12 @@
     Data
   url: http://www.activecampaign.com/blog/using-activecampaign-and-segment-to-get-the-most-our-of-your-contacts-behavioral-data/
   domain: www.activecampaign.com
+  image: ""
+- curated_id: de81aeace1bc5382a7d7cb8feafb5821
+  item_date: "2016-06-23 00:00:00"
+  title: IP and User Agent Lookup API Search Tool (Search)
+  url: https://codecanyon.net/item/ip-and-user-agent-lookup-api-search-tool/16750113
+  domain: codecanyon.net
   image: ""
 - curated_id: 846a0e801856e7c760e0ffeda3a00885
   item_date: "2016-06-27 00:00:00"
@@ -1319,17 +1319,17 @@
   url: http://www.businessinsider.com/judge-fbi-ruling-computer-2016-7
   domain: www.businessinsider.com
   image: ""
-- curated_id: 81b02843f44e0c0f97c1bef662e5daa2
-  item_date: "2016-07-07 00:00:00"
-  title: Critics of Police Welcome Facebook Live and Other Tools to Stream Video
-  url: http://www.nytimes.com/2016/07/08/us/critics-of-police-welcome-facebook-live-and-other-tools-to-stream-video.html
-  domain: www.nytimes.com
-  image: ""
 - curated_id: 38ffe373c62054e6371abcc05b8905e7
   item_date: "2016-07-07 00:00:00"
   title: The Difficulty of Routing around Internet Surveillance States
   url: https://www.schneier.com/blog/archives/2016/07/the_difficulty_.html
   domain: www.schneier.com
+  image: ""
+- curated_id: 81b02843f44e0c0f97c1bef662e5daa2
+  item_date: "2016-07-07 00:00:00"
+  title: Critics of Police Welcome Facebook Live and Other Tools to Stream Video
+  url: http://www.nytimes.com/2016/07/08/us/critics-of-police-welcome-facebook-live-and-other-tools-to-stream-video.html
+  domain: www.nytimes.com
   image: ""
 - curated_id: ed6d1fa9515794be08119b0544c513e2
   item_date: "2016-07-09 00:00:00"
@@ -1350,17 +1350,17 @@
   url: https://twitter.com/evrcm/statuses/752459203428519936
   domain: twitter.com
   image: ""
-- curated_id: 113d47fb438f51c2bbf77c8e1a4095e8
-  item_date: "2016-07-14 00:00:00"
-  title: Schneider Electric Pelco Digital Sentry Video Management System Vulnerability
-  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-01
-  domain: ics-cert.us-cert.gov
-  image: ""
 - curated_id: 178b9ab8e31cb253e5e9c3e9fa567c02
   item_date: "2016-07-14 00:00:00"
   title: Big Privacy Ruling Says Feds Can?t Grab Data Abroad With a Warrant
   url: https://www.wired.com/2016/07/big-privacy-ruling-says-feds-cant-grab-data-abroad-warrant/
   domain: www.wired.com
+  image: ""
+- curated_id: 113d47fb438f51c2bbf77c8e1a4095e8
+  item_date: "2016-07-14 00:00:00"
+  title: Schneider Electric Pelco Digital Sentry Video Management System Vulnerability
+  url: https://ics-cert.us-cert.gov/advisories/ICSA-16-196-01
+  domain: ics-cert.us-cert.gov
   image: ""
 - curated_id: f42612178eb08346c735f2f16560fa40
   item_date: "2016-07-15 00:00:00"
@@ -1392,17 +1392,17 @@
   url: https://blog.ouseful.info/2016/07/20/community-detection-and-is-your-phone-a-cookie/
   domain: blog.ouseful.info
   image: ""
-- curated_id: 22864632616ddc4d129b0f173392807c
-  item_date: "2016-07-22 00:00:00"
-  title: 'Bipartisan Caucus Launches in the House to Defend Fourth Amendment '
-  url: https://www.eff.org/deeplinks/2016/07/bipartisan-caucus-launches-house-defend-fourth-amendment
-  domain: www.eff.org
-  image: ""
 - curated_id: 90a941e283f1716e708a352183538dbd
   item_date: "2016-07-22 00:00:00"
   title: Facial biometric authentication on your connected devices
   url: http://www.codeproject.com/Articles/1109462/Facial-biometric-authentication-on-your-connected
   domain: www.codeproject.com
+  image: ""
+- curated_id: 22864632616ddc4d129b0f173392807c
+  item_date: "2016-07-22 00:00:00"
+  title: 'Bipartisan Caucus Launches in the House to Defend Fourth Amendment '
+  url: https://www.eff.org/deeplinks/2016/07/bipartisan-caucus-launches-house-defend-fourth-amendment
+  domain: www.eff.org
   image: ""
 - curated_id: 0119f2871b74fd9ada402a5ec441ef03
   item_date: "2016-07-22 16:30:12"
@@ -1417,17 +1417,17 @@
   url: https://www.muckrock.com/news/archives/2015/jun/23/cia-can-give-specialized-equipment-other-agencies-/
   domain: www.muckrock.com
   image: ""
-- curated_id: 33b00bcf7a159683298a93b7d130826a
-  item_date: "2016-07-27 00:00:00"
-  title: Eagle Eye Networks Managed PoE Switch
-  url: https://www.eagleeyenetworks.com/managed-poe-switch/
-  domain: www.eagleeyenetworks.com
-  image: ""
 - curated_id: e53c902d4c86536c03969d8a27570cca
   item_date: "2016-07-27 00:00:00"
   title: Eye-in-the-sky surveillance cameras will be watching over Rio 2016
   url: http://www.businessinsider.com/rio-olympics-logos-simera-camera-surveillance-2016-7
   domain: www.businessinsider.com
+  image: ""
+- curated_id: 33b00bcf7a159683298a93b7d130826a
+  item_date: "2016-07-27 00:00:00"
+  title: Eagle Eye Networks Managed PoE Switch
+  url: https://www.eagleeyenetworks.com/managed-poe-switch/
+  domain: www.eagleeyenetworks.com
   image: ""
 - curated_id: a00ece016562f7deaee02fec7b603ae9
   item_date: "2016-07-29 00:00:00"
@@ -1441,17 +1441,12 @@
   url: http://motherboard.vice.com/read/facebook-listening-through-microphone-conspiracy-theory
   domain: motherboard.vice.com
   image: ""
-- curated_id: 3594874249c6247bf61b3cdc4804c932
+- curated_id: 74a5999f37e366b13189cdc9e581d7cd
   item_date: "2016-08-01 00:00:00"
-  title: "Data Shows How the UK Grants Licences to Export Interception Tech\r\n"
-  url: http://motherboard.vice.com/read/data-shows-how-the-uk-grants-licences-to-export-interception-tech-imsi-catchers
+  title: "Privacy Activists Launch Database to Track Global Sales of Surveillance
+    Tech\r\n"
+  url: http://motherboard.vice.com/read/privacy-activists-launch-database-to-track-global-sales-of-surveillance-tech
   domain: motherboard.vice.com
-  image: ""
-- curated_id: f75b2e1bb7d6d6db479d36e6a0470488
-  item_date: "2016-08-01 00:00:00"
-  title: In-car cameras let autonomous vehicles track passengers as well as pedestrians
-  url: https://techcrunch.com/2016/08/01/in-car-cameras-let-autonomous-vehicles-track-passengers-as-well-as-pedestrians/
-  domain: techcrunch.com
   image: ""
 - curated_id: 969112f241c2cb5fa4eed5a35196a176
   item_date: "2016-08-01 00:00:00"
@@ -1459,11 +1454,16 @@
   url: http://www.theverge.com/2016/8/1/12340348/surveillance-industry-index-database-privacy-international
   domain: www.theverge.com
   image: ""
-- curated_id: 74a5999f37e366b13189cdc9e581d7cd
+- curated_id: f75b2e1bb7d6d6db479d36e6a0470488
   item_date: "2016-08-01 00:00:00"
-  title: "Privacy Activists Launch Database to Track Global Sales of Surveillance
-    Tech\r\n"
-  url: http://motherboard.vice.com/read/privacy-activists-launch-database-to-track-global-sales-of-surveillance-tech
+  title: In-car cameras let autonomous vehicles track passengers as well as pedestrians
+  url: https://techcrunch.com/2016/08/01/in-car-cameras-let-autonomous-vehicles-track-passengers-as-well-as-pedestrians/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 3594874249c6247bf61b3cdc4804c932
+  item_date: "2016-08-01 00:00:00"
+  title: "Data Shows How the UK Grants Licences to Export Interception Tech\r\n"
+  url: http://motherboard.vice.com/read/data-shows-how-the-uk-grants-licences-to-export-interception-tech-imsi-catchers
   domain: motherboard.vice.com
   image: ""
 - curated_id: cf8f318645a33e98f2e99a3c7856e7f0
@@ -1484,17 +1484,17 @@
   url: http://motherboard.vice.com/read/faceless-recognition-system-can-identify-you-even-when-you-hide-your-face
   domain: motherboard.vice.com
   image: ""
-- curated_id: a02c506f6fc4adbeef0612723dfdcd37
-  item_date: "2016-08-08 00:00:00"
-  title: Satellites auto detect buildings in OpenStreetMap
-  url: https://medium.com/@astrodigital/satellites-auto-detect-buildings-in-openstreetmap-b5bfb8840114
-  domain: medium.com
-  image: ""
 - curated_id: 33ead1a5ee1864597f07fd7323809717
   item_date: "2016-08-08 00:00:00"
   title: Video Surveillance Considerations for Night Time Operation
   url: http://www.remotemagazine.com/main/articles/video-surveillance-considerations-for-night-time-operation/
   domain: www.remotemagazine.com
+  image: ""
+- curated_id: a02c506f6fc4adbeef0612723dfdcd37
+  item_date: "2016-08-08 00:00:00"
+  title: Satellites auto detect buildings in OpenStreetMap
+  url: https://medium.com/@astrodigital/satellites-auto-detect-buildings-in-openstreetmap-b5bfb8840114
+  domain: medium.com
   image: ""
 - curated_id: d058cf13a33affe04d3388d8cbdc7f82
   item_date: "2016-08-08 09:31:56"
@@ -1510,18 +1510,6 @@
   url: https://twitter.com/EFF/statuses/762721764883390464
   domain: twitter.com
   image: ""
-- curated_id: e13cb6f5aba62188cf0ba762927205d5
-  item_date: "2016-08-09 00:00:00"
-  title: "Local Police In Canada Used ?Stingray Surveillance Device Without a Warrant\r\n"
-  url: http://motherboard.vice.com/read/local-police-canada-stingray-surveillance-without-warrant-vancouver-pd-imsi-catcher-rcmp
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: 0bc4419df5c4a3e3b190e730f4854523
-  item_date: "2016-08-09 00:00:00"
-  title: "Here?s the Internal Presentation the FBI Uses to Train Surveillance Pilots\r\n"
-  url: http://motherboard.vice.com/read/heres-the-internal-presentation-the-fbi-uses-to-train-surveillance-pilots
-  domain: motherboard.vice.com
-  image: ""
 - curated_id: 3656f72e15b68705573fa5f36427855c
   item_date: "2016-08-09 00:00:00"
   title: Thai telcoms regulator wants tourists to use location-tracking SIMs
@@ -1533,6 +1521,18 @@
   title: How To Detect And Find Rogue Cell Towers
   url: https://hackaday.com/2016/08/09/how-to-detect-and-find-rogue-cell-towers/
   domain: hackaday.com
+  image: ""
+- curated_id: 0bc4419df5c4a3e3b190e730f4854523
+  item_date: "2016-08-09 00:00:00"
+  title: "Here?s the Internal Presentation the FBI Uses to Train Surveillance Pilots\r\n"
+  url: http://motherboard.vice.com/read/heres-the-internal-presentation-the-fbi-uses-to-train-surveillance-pilots
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: e13cb6f5aba62188cf0ba762927205d5
+  item_date: "2016-08-09 00:00:00"
+  title: "Local Police In Canada Used ?Stingray Surveillance Device Without a Warrant\r\n"
+  url: http://motherboard.vice.com/read/local-police-canada-stingray-surveillance-without-warrant-vancouver-pd-imsi-catcher-rcmp
+  domain: motherboard.vice.com
   image: ""
 - curated_id: 73990b894e756724bb4076386fe93c15
   item_date: "2016-08-10 00:00:00"
@@ -1546,12 +1546,6 @@
   url: http://motherboard.vice.com/read/edmonton-police-admit-to-owning-stingray-surveillance-device
   domain: motherboard.vice.com
   image: ""
-- curated_id: b879cae6c1dedd03fcdcbb5ee84ae3eb
-  item_date: "2016-08-12 00:00:00"
-  title: Making Sure the Revolution Gets Televised
-  url: https://www.aclu.org/blog/free-future/making-sure-revolution-gets-televised
-  domain: www.aclu.org
-  image: ""
 - curated_id: a68a62a2f270e1cb816297a9f21bb431
   item_date: "2016-08-12 00:00:00"
   title: "The Internet Doesn?t Route Around Surveillance\r\n"
@@ -1563,6 +1557,12 @@
   title: 'The Tor Projects social contract: we will not backdoor Tor'
   url: http://boingboing.net/2016/08/12/the-tor-projects-social-cont.html
   domain: boingboing.net
+  image: ""
+- curated_id: b879cae6c1dedd03fcdcbb5ee84ae3eb
+  item_date: "2016-08-12 00:00:00"
+  title: Making Sure the Revolution Gets Televised
+  url: https://www.aclu.org/blog/free-future/making-sure-revolution-gets-televised
+  domain: www.aclu.org
   image: ""
 - curated_id: 3142a12f38678850c004e4b9b42db8db
   item_date: "2016-08-12 13:00:31"
@@ -1595,19 +1595,6 @@
   url: http://www.reuters.com/article/us-germany-security-idUSKCN10W0AV
   domain: www.reuters.com
   image: ""
-- curated_id: 3f5164e0d91641df33c8a8cd18feed32
-  item_date: "2016-08-22 00:00:00"
-  title: U.S. Customs and Border Protection Wants to Know Who You Are on Twitter?But
-    It?s a Flawed Plan
-  url: https://www.eff.org/deeplinks/2016/08/us-customs-and-border-protection-wants-know-who-you-are-twitter-its-flawed-plan
-  domain: www.eff.org
-  image: ""
-- curated_id: a451c8fe42a755bed8d9d2e89ab4a008
-  item_date: "2016-08-22 00:00:00"
-  title: How the NSA snooped on encrypted Internet traffic for a decade
-  url: http://www.itsecurityguru.org/2016/08/22/how-the-nsa-snooped-on-encrypted-internet-traffic-for-a-decade/
-  domain: www.itsecurityguru.org
-  image: ""
 - curated_id: 6f77d7d096c48a414487bf2e18907cbf
   item_date: "2016-08-22 00:00:00"
   title: "Canadian Police Don?t Want to Talk About How They Spend Surveillance Dollars\r\n"
@@ -1620,11 +1607,18 @@
   url: https://www.accessnow.org/thousands-object-u-s-government-plan-collect-social-media-information-border/
   domain: www.accessnow.org
   image: ""
-- curated_id: ed8bdfd972977716825758e124971083
-  item_date: "2016-08-23 00:00:00"
-  title: U.S. plan to collect social media info from visitors faces fierce opposition
-  url: http://www.pcworld.com/article/3111067/security/groups-oppose-us-plan-to-collect-social-media-info-from-visitors.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: a451c8fe42a755bed8d9d2e89ab4a008
+  item_date: "2016-08-22 00:00:00"
+  title: How the NSA snooped on encrypted Internet traffic for a decade
+  url: http://www.itsecurityguru.org/2016/08/22/how-the-nsa-snooped-on-encrypted-internet-traffic-for-a-decade/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: 3f5164e0d91641df33c8a8cd18feed32
+  item_date: "2016-08-22 00:00:00"
+  title: U.S. Customs and Border Protection Wants to Know Who You Are on Twitter?But
+    It?s a Flawed Plan
+  url: https://www.eff.org/deeplinks/2016/08/us-customs-and-border-protection-wants-know-who-you-are-twitter-its-flawed-plan
+  domain: www.eff.org
   image: ""
 - curated_id: 0a03781be53787818e3ca1079728b611
   item_date: "2016-08-23 00:00:00"
@@ -1633,16 +1627,28 @@
   url: http://www.businessinsider.com/baltimore-police-hired-a-company-to-conduct-aerial-surveillance-of-the-city-2016-8
   domain: www.businessinsider.com
   image: ""
+- curated_id: ed8bdfd972977716825758e124971083
+  item_date: "2016-08-23 00:00:00"
+  title: U.S. plan to collect social media info from visitors faces fierce opposition
+  url: http://www.pcworld.com/article/3111067/security/groups-oppose-us-plan-to-collect-social-media-info-from-visitors.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
 - curated_id: ea930ef058a5335fe9c12e96054bf168
   item_date: "2016-08-23 17:38:29"
   title: Tell FCC to Enforce Its Rules Against Police Using Stingrays
   url: https://act.eff.org/action/tell-fcc-to-enforce-its-rules-against-police-using-stingrays
   domain: act.eff.org
   image: ""
-- curated_id: 51663d205b1d7cbece425d9daf283df1
+- curated_id: dacbc31974134364353d5585e0904925
   item_date: "2016-08-24 00:00:00"
-  title: 'Security Sales News: Eagle Eye Networks looking out for School Safety'
-  url: https://www.eagleeyenetworks.com/security-sales-news-eagle-eye-networks-looking-out-for-school-safety/
+  title: Baltimore Police Secretly Running Aerial Mass-Surveillance Eye in the Sky
+  url: https://www.aclu.org/blog/free-future/baltimore-police-secretly-running-aerial-mass-surveillance-eye-sky
+  domain: www.aclu.org
+  image: ""
+- curated_id: ac78fbd9427581625ab749aeb05b0ab8
+  item_date: "2016-08-24 00:00:00"
+  title: Eagle Eye Networks Awards $1.25 M in Drako Cloud Security Grants for Schools
+  url: https://www.eagleeyenetworks.com/awards-1-25-m-in-drako-cloud-security-grants-for-schools/
   domain: www.eagleeyenetworks.com
   image: ""
 - curated_id: 41a3f350b996a3a9cb66b987b09adb73
@@ -1652,23 +1658,11 @@
   url: https://www.eagleeyenetworks.com/11578/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: ac78fbd9427581625ab749aeb05b0ab8
+- curated_id: 51663d205b1d7cbece425d9daf283df1
   item_date: "2016-08-24 00:00:00"
-  title: Eagle Eye Networks Awards $1.25 M in Drako Cloud Security Grants for Schools
-  url: https://www.eagleeyenetworks.com/awards-1-25-m-in-drako-cloud-security-grants-for-schools/
+  title: 'Security Sales News: Eagle Eye Networks looking out for School Safety'
+  url: https://www.eagleeyenetworks.com/security-sales-news-eagle-eye-networks-looking-out-for-school-safety/
   domain: www.eagleeyenetworks.com
-  image: ""
-- curated_id: dacbc31974134364353d5585e0904925
-  item_date: "2016-08-24 00:00:00"
-  title: Baltimore Police Secretly Running Aerial Mass-Surveillance Eye in the Sky
-  url: https://www.aclu.org/blog/free-future/baltimore-police-secretly-running-aerial-mass-surveillance-eye-sky
-  domain: www.aclu.org
-  image: ""
-- curated_id: f2e13e90dd6399edda4a6d00b671ca5a
-  item_date: "2016-08-25 00:00:00"
-  title: Relative vs. Absolute Approaches to the Content/Metadata Line
-  url: https://www.lawfareblog.com/relative-vs-absolute-approaches-contentmetadata-line
-  domain: www.lawfareblog.com
   image: ""
 - curated_id: a7d729718c36ebbbfb257a9f073a3140
   item_date: "2016-08-25 00:00:00"
@@ -1677,17 +1671,23 @@
   url: http://motherboard.vice.com/read/baltimore-police-cant-explain-why-their-all-seeing-spy-planes-were-kept-secret
   domain: motherboard.vice.com
   image: ""
-- curated_id: 961eb7cff4208bfdba10631c59130e7e
-  item_date: "2016-08-26 00:00:00"
-  title: Snapchat plans to use your behavioural data to target you with ads
-  url: http://www.computermagazine.com/syndicated/snapchat-plans-to-use-your-behavioural-data-to-target-you-with-ads/
-  domain: www.computermagazine.com
+- curated_id: f2e13e90dd6399edda4a6d00b671ca5a
+  item_date: "2016-08-25 00:00:00"
+  title: Relative vs. Absolute Approaches to the Content/Metadata Line
+  url: https://www.lawfareblog.com/relative-vs-absolute-approaches-contentmetadata-line
+  domain: www.lawfareblog.com
   image: ""
 - curated_id: 8bdef97820e32264f9efd7e7bf063524
   item_date: "2016-08-26 00:00:00"
   title: Researchers Develop Facial Recognition that Works in Poor Lighting
   url: https://dzone.com/articles/researchers-develop-facial-recognition-that-works
   domain: dzone.com
+  image: ""
+- curated_id: 961eb7cff4208bfdba10631c59130e7e
+  item_date: "2016-08-26 00:00:00"
+  title: Snapchat plans to use your behavioural data to target you with ads
+  url: http://www.computermagazine.com/syndicated/snapchat-plans-to-use-your-behavioural-data-to-target-you-with-ads/
+  domain: www.computermagazine.com
   image: ""
 - curated_id: c981777535ff1b29710f5a7a27897978
   item_date: "2016-08-26 16:20:26"
@@ -1751,18 +1751,12 @@
   url: http://motherboard.vice.com/read/nsa-wargrams-show-how-nsa-built-surveillance-apparatus
   domain: motherboard.vice.com
   image: ""
-- curated_id: 7e6a4ae11c8610b9aeea111995c25f51
+- curated_id: 0f784e76ab067230f5ddceeb3ee77513
   item_date: "2016-09-08 00:00:00"
-  title: 'Must Watch: Senator Ron Wyden Heads to the Senate Floor Today to Oppose
-    Mass Hacking'
-  url: https://www.eff.org/deeplinks/2016/09/must-watch-senator-ron-wyden-heads-senate-floor-today-oppose-mass-hacking
-  domain: www.eff.org
-  image: ""
-- curated_id: 3905543e5446513ffcf6bb74a497e65d
-  item_date: "2016-09-08 00:00:00"
-  title: "Watchdog Finds UK Cops Snooped on Journalists Sources Without Approval\r\n"
-  url: http://motherboard.vice.com/read/watchdog-iocco-finds-uk-cops-snooped-on-journalists-sources-without-approval
-  domain: motherboard.vice.com
+  title: Tech Firms and Rights Groups Slam DHS Proposals to Inspect US Visitors? Social
+    Media Accounts
+  url: http://www.techspot.com/news/66062-tech-firms-rights-groups-slam-dhs-proposals-inspect.html
+  domain: www.techspot.com
   image: ""
 - curated_id: 7ff6649f607212475a32204961c23f61
   item_date: "2016-09-08 00:00:00"
@@ -1771,25 +1765,24 @@
   url: https://www.eagleeyenetworks.com/security-sales-integration-eagle-eye-networks-unveils-eagle-eye-cloud-video-replication/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: 0f784e76ab067230f5ddceeb3ee77513
+- curated_id: 3905543e5446513ffcf6bb74a497e65d
   item_date: "2016-09-08 00:00:00"
-  title: Tech Firms and Rights Groups Slam DHS Proposals to Inspect US Visitors? Social
-    Media Accounts
-  url: http://www.techspot.com/news/66062-tech-firms-rights-groups-slam-dhs-proposals-inspect.html
-  domain: www.techspot.com
+  title: "Watchdog Finds UK Cops Snooped on Journalists Sources Without Approval\r\n"
+  url: http://motherboard.vice.com/read/watchdog-iocco-finds-uk-cops-snooped-on-journalists-sources-without-approval
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 7e6a4ae11c8610b9aeea111995c25f51
+  item_date: "2016-09-08 00:00:00"
+  title: 'Must Watch: Senator Ron Wyden Heads to the Senate Floor Today to Oppose
+    Mass Hacking'
+  url: https://www.eff.org/deeplinks/2016/09/must-watch-senator-ron-wyden-heads-senate-floor-today-oppose-mass-hacking
+  domain: www.eff.org
   image: ""
 - curated_id: f18ad1cc78a35407ab6aeae7a61a214e
   item_date: "2016-09-08 09:07:05"
   title: Cuba is blocking text messages that contain words like democracy
   url: http://www.theverge.com/2016/9/7/12828202/cuba-filtering-blocking-text-message
   domain: www.theverge.com
-  image: ""
-- curated_id: c13871d7779ef0730c8e357ec89d2a29
-  item_date: "2016-09-09 00:00:00"
-  title: '3D-Printed Raspberry Pi Skycam for Drone-Free Aerial Video #piday #Raspberrypi
-    @Raspberry_Pi'
-  url: https://blog.adafruit.com/2016/09/09/3d-printed-raspberry-pi-skycam-for-drone-free-aerial-video-piday-raspberrypi-raspberry_pi/
-  domain: blog.adafruit.com
   image: ""
 - curated_id: 7c9f596580c1a59225edca8a28052130
   item_date: "2016-09-09 00:00:00"
@@ -1798,12 +1791,25 @@
   url: http://boingboing.net/2016/09/09/leaked-catalog-from-uk-surveil.html
   domain: boingboing.net
   image: ""
+- curated_id: c13871d7779ef0730c8e357ec89d2a29
+  item_date: "2016-09-09 00:00:00"
+  title: '3D-Printed Raspberry Pi Skycam for Drone-Free Aerial Video #piday #Raspberrypi
+    @Raspberry_Pi'
+  url: https://blog.adafruit.com/2016/09/09/3d-printed-raspberry-pi-skycam-for-drone-free-aerial-video-piday-raspberrypi-raspberry_pi/
+  domain: blog.adafruit.com
+  image: ""
 - curated_id: 926d5865c26efc15767dc488522bce03
   item_date: "2016-09-10 08:17:22"
   title: This employee ID badge monitors and listens to you at work ? except in the
     bathroom
   url: https://www.washingtonpost.com/news/business/wp/2016/09/07/this-employee-badge-knows-not-only-where-you-are-but-whether-you-are-talking-to-your-co-workers/
   domain: www.washingtonpost.com
+  image: ""
+- curated_id: 41efb69a4ef351b36fed2557d2db2fc8
+  item_date: "2016-09-14 00:00:00"
+  title: Researcher Questions Google Play Location Tracking
+  url: http://www.pcmag.com/news/347845/researcher-questions-google-play-location-tracking
+  domain: www.pcmag.com
   image: ""
 - curated_id: 72a0e351020ffad12cade5b91510c771
   item_date: "2016-09-14 00:00:00"
@@ -1816,12 +1822,6 @@
   title: CBP Fails to Meaningfully Address Risks of Gathering Social Media Handles
   url: https://www.eff.org/deeplinks/2016/09/cbp-fails-meaningfully-address-risks-gathering-social-media-handles
   domain: www.eff.org
-  image: ""
-- curated_id: 41efb69a4ef351b36fed2557d2db2fc8
-  item_date: "2016-09-14 00:00:00"
-  title: Researcher Questions Google Play Location Tracking
-  url: http://www.pcmag.com/news/347845/researcher-questions-google-play-location-tracking
-  domain: www.pcmag.com
   image: ""
 - curated_id: 2173f917e55ae57149580974982799bd
   item_date: "2016-09-14 10:02:11"
@@ -1851,24 +1851,6 @@
   url: https://www.wired.com/2016/09/police-trace-cellphones-ieds-like-ones-nyc/
   domain: www.wired.com
   image: ""
-- curated_id: e50a79977a69ff92b65da7769d7849ad
-  item_date: "2016-09-21 00:00:00"
-  title: Swiss voters likely to back new law on surveillance - survey
-  url: http://www.reuters.com/article/us-swiss-surveillance-idUSKCN11R1AB
-  domain: www.reuters.com
-  image: ""
-- curated_id: cc0dabf42dcbfc91eedb65953a78a4f9
-  item_date: "2016-09-21 00:00:00"
-  title: U.S. cities push for local laws to oversee police surveillance
-  url: http://www.reuters.com/article/us-usa-police-surveillance-idUSKCN11R304
-  domain: www.reuters.com
-  image: ""
-- curated_id: a41f5b8e407cf5e8923a1467a45d3fb6
-  item_date: "2016-09-21 00:00:00"
-  title: "Should Hacking a Tor User to Get an IP Address Require a Warrant?\r\n"
-  url: http://motherboard.vice.com/read/should-hacking-a-tor-user-to-get-an-ip-address-require-a-warrant
-  domain: motherboard.vice.com
-  image: ""
 - curated_id: 1ecbb882faec606e867a63faa3f9b41d
   item_date: "2016-09-21 00:00:00"
   title: Juncker intervenes in surveillance software export battle
@@ -1880,6 +1862,24 @@
   title: ?Your passport, Facebook, and Twitter please.?
   url: https://www.accessnow.org/passport-facebook-twitter-please/
   domain: www.accessnow.org
+  image: ""
+- curated_id: cc0dabf42dcbfc91eedb65953a78a4f9
+  item_date: "2016-09-21 00:00:00"
+  title: U.S. cities push for local laws to oversee police surveillance
+  url: http://www.reuters.com/article/us-usa-police-surveillance-idUSKCN11R304
+  domain: www.reuters.com
+  image: ""
+- curated_id: e50a79977a69ff92b65da7769d7849ad
+  item_date: "2016-09-21 00:00:00"
+  title: Swiss voters likely to back new law on surveillance - survey
+  url: http://www.reuters.com/article/us-swiss-surveillance-idUSKCN11R1AB
+  domain: www.reuters.com
+  image: ""
+- curated_id: a41f5b8e407cf5e8923a1467a45d3fb6
+  item_date: "2016-09-21 00:00:00"
+  title: "Should Hacking a Tor User to Get an IP Address Require a Warrant?\r\n"
+  url: http://motherboard.vice.com/read/should-hacking-a-tor-user-to-get-an-ip-address-require-a-warrant
+  domain: motherboard.vice.com
   image: ""
 - curated_id: 2e3f9c5ec3feff4cc93b76bd1351ab7d
   item_date: "2016-09-21 13:15:12"
@@ -1920,12 +1920,23 @@
   url: http://boingboing.net/2016/09/24/tour-new-yorks-invisible-ne.html
   domain: boingboing.net
   image: ""
-- curated_id: 0895a37a8e13fae2e128c08e63a28e4e
+- curated_id: be5152d2c053221c74d6c89c131ba62a
   item_date: "2016-09-26 00:00:00"
-  title: 'Nest Cam Outdoor review: Nest goes outside with a fully weatherized security
-    camera'
-  url: http://www.pcworld.com/article/3122025/home-tech/nest-cam-outdoor-review-nest-goes-outside-with-a-fully-weatherized-security-camera.html#tk.rss_all
-  domain: www.pcworld.com
+  title: Geo enabled social media monitoring
+  url: http://www.socialreport.com/blog/geo-enabled-social-media-monitoring/
+  domain: www.socialreport.com
+  image: ""
+- curated_id: 0722feb07456752f6ed721d8cb752db4
+  item_date: "2016-09-26 00:00:00"
+  title: Swiss public back law expanding surveillance powers
+  url: https://techcrunch.com/2016/09/26/swiss-public-back-law-expanding-surveillance-powers/
+  domain: techcrunch.com
+  image: ""
+- curated_id: d1799a7939c7b70e4b228b4ae149198e
+  item_date: "2016-09-26 00:00:00"
+  title: 'Dog microchips: Outdated contact details leave animals unclaimed'
+  url: http://www.bbc.co.uk/news/uk-37475055
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 3849d120fa6d72a3f8385cf982f6c79d
   item_date: "2016-09-26 00:00:00"
@@ -1934,35 +1945,12 @@
   url: http://www.techhive.com/article/3122025/home-tech/nest-cam-outdoor-review-nest-goes-outside-with-a-fully-weatherized-security-camera.html#tk.rss_all
   domain: www.techhive.com
   image: ""
-- curated_id: 0722feb07456752f6ed721d8cb752db4
+- curated_id: 0895a37a8e13fae2e128c08e63a28e4e
   item_date: "2016-09-26 00:00:00"
-  title: Swiss public back law expanding surveillance powers
-  url: https://techcrunch.com/2016/09/26/swiss-public-back-law-expanding-surveillance-powers/
-  domain: techcrunch.com
-  image: ""
-- curated_id: be5152d2c053221c74d6c89c131ba62a
-  item_date: "2016-09-26 00:00:00"
-  title: Geo enabled social media monitoring
-  url: http://www.socialreport.com/blog/geo-enabled-social-media-monitoring/
-  domain: www.socialreport.com
-  image: ""
-- curated_id: d1799a7939c7b70e4b228b4ae149198e
-  item_date: "2016-09-26 00:00:00"
-  title: 'Dog microchips: Outdated contact details leave animals unclaimed'
-  url: http://www.bbc.co.uk/news/uk-37475055
-  domain: www.bbc.co.uk
-  image: ""
-- curated_id: af5b93390a95894dbb3364daa3867f07
-  item_date: "2016-09-27 00:00:00"
-  title: Using Neural Networks to Identify Blurred Faces
-  url: https://www.schneier.com/blog/archives/2016/09/using_neural_ne.html
-  domain: www.schneier.com
-  image: ""
-- curated_id: f0ce84d02dbf0c300aaf9555a9250243
-  item_date: "2016-09-27 00:00:00"
-  title: 'Tracking Dog Barks with the Intel Edison #IoT #IoTuesday'
-  url: https://blog.adafruit.com/2016/09/27/tracking-dog-barks-with-the-intel-edison-iot-iotuesday/
-  domain: blog.adafruit.com
+  title: 'Nest Cam Outdoor review: Nest goes outside with a fully weatherized security
+    camera'
+  url: http://www.pcworld.com/article/3122025/home-tech/nest-cam-outdoor-review-nest-goes-outside-with-a-fully-weatherized-security-camera.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: 96c38a3e06d04f0d45065bf03aa9590e
   item_date: "2016-09-27 00:00:00"
@@ -1975,6 +1963,36 @@
   title: Shadowy Data-Mining Firm Palantir Hit With Discrimination Suit
   url: http://www.pcmag.com/news/348234/shadowy-data-mining-firm-palantir-hit-with-discrimination-su
   domain: www.pcmag.com
+  image: ""
+- curated_id: f0ce84d02dbf0c300aaf9555a9250243
+  item_date: "2016-09-27 00:00:00"
+  title: 'Tracking Dog Barks with the Intel Edison #IoT #IoTuesday'
+  url: https://blog.adafruit.com/2016/09/27/tracking-dog-barks-with-the-intel-edison-iot-iotuesday/
+  domain: blog.adafruit.com
+  image: ""
+- curated_id: af5b93390a95894dbb3364daa3867f07
+  item_date: "2016-09-27 00:00:00"
+  title: Using Neural Networks to Identify Blurred Faces
+  url: https://www.schneier.com/blog/archives/2016/09/using_neural_ne.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: eee4261e21712e90fa4da931719ab99f
+  item_date: "2016-09-29 00:00:00"
+  title: Social media in defence intelligence gathering
+  url: http://www.defenceweb.co.za/index.php
+  domain: www.defenceweb.co.za
+  image: ""
+- curated_id: 64769189b33bd3d2c0feeeeb6f824eb3
+  item_date: "2016-09-29 00:00:00"
+  title: ""
+  url: http://www.cxotoday.com/story/pokmon-go-hangover-some-lessons-on-surveillance/
+  domain: www.cxotoday.com
+  image: ""
+- curated_id: d8c7832c3b7b2d6654012d7402739e62
+  item_date: "2016-09-29 00:00:00"
+  title: Video security setup shielded Cleveland during Republican National Convention
+  url: http://americancityandcounty.com/products-work/video-security-setup-shielded-cleveland-during-republican-national-convention
+  domain: americancityandcounty.com
   image: ""
 - curated_id: 642e92d2ee3aaec33e4db2d9fa3f1499
   item_date: "2016-09-29 00:00:00"
@@ -1995,24 +2013,6 @@
   url: |
     http://thehill.com/policy/cybersecurity/298500-privacy-suit-pokes-five-eyes-nations
   domain: thehill.com
-  image: ""
-- curated_id: eee4261e21712e90fa4da931719ab99f
-  item_date: "2016-09-29 00:00:00"
-  title: Social media in defence intelligence gathering
-  url: http://www.defenceweb.co.za/index.php
-  domain: www.defenceweb.co.za
-  image: ""
-- curated_id: d8c7832c3b7b2d6654012d7402739e62
-  item_date: "2016-09-29 00:00:00"
-  title: Video security setup shielded Cleveland during Republican National Convention
-  url: http://americancityandcounty.com/products-work/video-security-setup-shielded-cleveland-during-republican-national-convention
-  domain: americancityandcounty.com
-  image: ""
-- curated_id: 64769189b33bd3d2c0feeeeb6f824eb3
-  item_date: "2016-09-29 00:00:00"
-  title: ""
-  url: http://www.cxotoday.com/story/pokmon-go-hangover-some-lessons-on-surveillance/
-  domain: www.cxotoday.com
   image: ""
 - curated_id: b6ef9b92cdbaf8ae58ac957d2f450b93
   item_date: "2016-09-29 14:30:52"
@@ -2039,18 +2039,18 @@
   url: http://jerrygamblin.com/2016/05/28/a-docker-container-to-capture-all-traffic-from-host/
   domain: jerrygamblin.com
   image: ""
-- curated_id: ca71c5cc9e820492f97bf449dc9fd4a5
-  item_date: "2016-10-04 00:00:00"
-  title: Signal messaging app turns over minimal data in first subpoena
-  url: http://www.reuters.com/article/us-usa-cyber-signal-idUSKCN1241JM
-  domain: www.reuters.com
-  image: ""
 - curated_id: 49f6542b89d5caa2b843b7d2aed21895
   item_date: "2016-10-04 00:00:00"
   title: Snowden?s favorite messaging app receives first federal subpoena
   url: |
     http://thehill.com/policy/national-security/299169-snowdens-favorite-messaging-app-received-first-federal-subpoena
   domain: thehill.com
+  image: ""
+- curated_id: ca71c5cc9e820492f97bf449dc9fd4a5
+  item_date: "2016-10-04 00:00:00"
+  title: Signal messaging app turns over minimal data in first subpoena
+  url: http://www.reuters.com/article/us-usa-cyber-signal-idUSKCN1241JM
+  domain: www.reuters.com
   image: ""
 - curated_id: b87623dc5da18babb90d4d9a702e38c8
   item_date: "2016-10-04 11:54:01"
@@ -2078,17 +2078,12 @@
   url: https://twitter.com/B_Meson/status/783669554799140865
   domain: twitter.com
   image: ""
-- curated_id: 04cdad053ea9d67ccdcbb455c70691ea
+- curated_id: 4e046d7568bf163efd72845902af5d2c
   item_date: "2016-10-06 00:00:00"
-  title: Attackers Can Use Legit Webcam Sessions To Spy On Mac Users, Researcher Warns
-  url: http://www.darkreading.com/vulnerabilities---threats/attackers-can-use-legit-webcam-sessions-to-spy-on-mac-users-researcher-warns/d/d-id/1327122
-  domain: www.darkreading.com
-  image: ""
-- curated_id: 38429d35db52738bdfe79b7466cbe334
-  item_date: "2016-10-06 00:00:00"
-  title: The Next Challenge for Video Surveillance as a Service
-  url: http://www.remotemagazine.com/main/news/the-next-challenge-for-video-surveillance-as-a-service/
-  domain: www.remotemagazine.com
+  title: Mac researcher solves camera hijacking woes
+  url: |
+    http://thehill.com/policy/cybersecurity/299698-mac-researcher-solves-camera-hijacking-woes
+  domain: thehill.com
   image: ""
 - curated_id: d19634b5e92d600ede3cb4f46d96c341
   item_date: "2016-10-06 00:00:00"
@@ -2096,12 +2091,17 @@
   url: https://www.eff.org/deeplinks/2016/08/fcc-created-stingray-problem-now-it-needs-fix-it
   domain: www.eff.org
   image: ""
-- curated_id: 4e046d7568bf163efd72845902af5d2c
+- curated_id: 38429d35db52738bdfe79b7466cbe334
   item_date: "2016-10-06 00:00:00"
-  title: Mac researcher solves camera hijacking woes
-  url: |
-    http://thehill.com/policy/cybersecurity/299698-mac-researcher-solves-camera-hijacking-woes
-  domain: thehill.com
+  title: The Next Challenge for Video Surveillance as a Service
+  url: http://www.remotemagazine.com/main/news/the-next-challenge-for-video-surveillance-as-a-service/
+  domain: www.remotemagazine.com
+  image: ""
+- curated_id: 04cdad053ea9d67ccdcbb455c70691ea
+  item_date: "2016-10-06 00:00:00"
+  title: Attackers Can Use Legit Webcam Sessions To Spy On Mac Users, Researcher Warns
+  url: http://www.darkreading.com/vulnerabilities---threats/attackers-can-use-legit-webcam-sessions-to-spy-on-mac-users-researcher-warns/d/d-id/1327122
+  domain: www.darkreading.com
   image: ""
 - curated_id: 53500ef0c6710f288f6f7f51b0a8e9fb
   item_date: "2016-10-07 00:00:00"
@@ -2116,18 +2116,6 @@
   url: http://www.siliconbeat.com/2016/10/06/yahoo-eyes-billboard-that-can-spy-on-drivers-inside-their-cars/
   domain: www.siliconbeat.com
   image: ""
-- curated_id: 91cddf4a4de198208d7255dfd8147696
-  item_date: "2016-10-10 00:00:00"
-  title: Finding candidates? closet skeletons with help of artificial intellect
-  url: http://www.recruitingblogs.com/profiles/blogs/finding-candidates-closet-skeletons-with-help-of-artificial
-  domain: www.recruitingblogs.com
-  image: ""
-- curated_id: 990cbd9151972e45991db7f7a2384915
-  item_date: "2016-10-10 00:00:00"
-  title: 'Unblinking Eyes: The State of Communications Surveillance in Latin America'
-  url: https://www.eff.org/deeplinks/2016/10/unblinking-eyes-latinamerica-surveillance
-  domain: www.eff.org
-  image: ""
 - curated_id: c22a97924338375cd34c913b319e6a2c
   item_date: "2016-10-10 00:00:00"
   title: Tailgating Detection at Remote Facilities
@@ -2141,43 +2129,17 @@
   url: https://www.eff.org/press/releases/comprehensive-legal-reform-needed-restrain-widespread-surveillance-latin-america
   domain: www.eff.org
   image: ""
-- curated_id: 72a03c5caa8af044aa884ef36a94c645
-  item_date: "2016-10-11 00:00:00"
-  title: Intelligence Information Gathering ? Collecting Twitter Followers with 25
-    lines of Python
-  url: http://resources.infosecinstitute.com/intelligence-information-gathering-collecting-twitter-followers-with-25-lines-of-python/
-  domain: resources.infosecinstitute.com
+- curated_id: 990cbd9151972e45991db7f7a2384915
+  item_date: "2016-10-10 00:00:00"
+  title: 'Unblinking Eyes: The State of Communications Surveillance in Latin America'
+  url: https://www.eff.org/deeplinks/2016/10/unblinking-eyes-latinamerica-surveillance
+  domain: www.eff.org
   image: ""
-- curated_id: 3e6eeec60f58877f2697e2eb13af3fc3
-  item_date: "2016-10-11 00:00:00"
-  title: The ACLU revealed on Tuesday that the technology corporations gave special
-    access to Geofeedia
-  url: http://whozwholive.ning.com/profiles/blogs/the-aclu-revealed-on-tuesday-that-the-technology-corporations
-  domain: whozwholive.ning.com
-  image: ""
-- curated_id: ef5567786a5e28b82a373e3a213467ca
-  item_date: "2016-10-11 00:00:00"
-  title: When Minority Report Becomes New Yorkers Reality
-  url: https://www.aclu.org/blog/speak-freely/when-minority-report-becomes-new-yorkers-reality
-  domain: www.aclu.org
-  image: ""
-- curated_id: ad709dcfb83710fb5f2f3eca37aeabd0
-  item_date: "2016-10-11 00:00:00"
-  title: US start-up Geofeedia allowed police to track protesters
-  url: http://www.bbc.co.uk/news/world-us-canada-37627086
-  domain: www.bbc.co.uk
-  image: ""
-- curated_id: 6138bbd3b939fcc48be8f9554088f4d0
-  item_date: "2016-10-11 00:00:00"
-  title: "The Weird Facebook Politics of Dakota Pipeline Protests\r\n"
-  url: http://motherboard.vice.com/read/the-weird-facebook-politics-of-dakota-pipeline-protests-shailene-woodley-arrest
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: a5dd431ccf0a4cd0408e774acfaec47c
-  item_date: "2016-10-11 00:00:00"
-  title: Facebook, Twitter cut access to monitoring tool used by police
-  url: http://www.pcworld.com/article/3130178/security/facebook-twitter-cut-access-to-monitoring-tool-used-by-police.html#tk.rss_all
-  domain: www.pcworld.com
+- curated_id: 91cddf4a4de198208d7255dfd8147696
+  item_date: "2016-10-10 00:00:00"
+  title: Finding candidates? closet skeletons with help of artificial intellect
+  url: http://www.recruitingblogs.com/profiles/blogs/finding-candidates-closet-skeletons-with-help-of-artificial
+  domain: www.recruitingblogs.com
   image: ""
 - curated_id: 42594a7261337eaeca143be88dfd1bc0
   item_date: "2016-10-11 00:00:00"
@@ -2199,6 +2161,12 @@
   url: http://www.siliconbeat.com/2016/10/11/facebook-twitter-instagram-data-helped-cops-track-activists-protesters-aclu-report/
   domain: www.siliconbeat.com
   image: ""
+- curated_id: a5dd431ccf0a4cd0408e774acfaec47c
+  item_date: "2016-10-11 00:00:00"
+  title: Facebook, Twitter cut access to monitoring tool used by police
+  url: http://www.pcworld.com/article/3130178/security/facebook-twitter-cut-access-to-monitoring-tool-used-by-police.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
 - curated_id: f1467befc84534dce70d2870cc84186c
   item_date: "2016-10-11 00:00:00"
   title: Facebook, Instagram, and Twitter Provided Data Access for a Surveillance
@@ -2206,11 +2174,37 @@
   url: https://www.aclu.org/blog/free-future/facebook-instagram-and-twitter-provided-data-access-surveillance-product-marketed
   domain: www.aclu.org
   image: ""
-- curated_id: a16edab6b73c20cd6336bd3e07b5034a
-  item_date: "2016-10-12 00:00:00"
-  title: Police Use Surveillance Tool to Scan Social Media, A.C.L.U. Says
-  url: http://www.nytimes.com/2016/10/12/technology/aclu-facebook-twitter-instagram-geofeedia.html
-  domain: www.nytimes.com
+- curated_id: 72a03c5caa8af044aa884ef36a94c645
+  item_date: "2016-10-11 00:00:00"
+  title: Intelligence Information Gathering ? Collecting Twitter Followers with 25
+    lines of Python
+  url: http://resources.infosecinstitute.com/intelligence-information-gathering-collecting-twitter-followers-with-25-lines-of-python/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: 6138bbd3b939fcc48be8f9554088f4d0
+  item_date: "2016-10-11 00:00:00"
+  title: "The Weird Facebook Politics of Dakota Pipeline Protests\r\n"
+  url: http://motherboard.vice.com/read/the-weird-facebook-politics-of-dakota-pipeline-protests-shailene-woodley-arrest
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: 3e6eeec60f58877f2697e2eb13af3fc3
+  item_date: "2016-10-11 00:00:00"
+  title: The ACLU revealed on Tuesday that the technology corporations gave special
+    access to Geofeedia
+  url: http://whozwholive.ning.com/profiles/blogs/the-aclu-revealed-on-tuesday-that-the-technology-corporations
+  domain: whozwholive.ning.com
+  image: ""
+- curated_id: ef5567786a5e28b82a373e3a213467ca
+  item_date: "2016-10-11 00:00:00"
+  title: When Minority Report Becomes New Yorkers Reality
+  url: https://www.aclu.org/blog/speak-freely/when-minority-report-becomes-new-yorkers-reality
+  domain: www.aclu.org
+  image: ""
+- curated_id: ad709dcfb83710fb5f2f3eca37aeabd0
+  item_date: "2016-10-11 00:00:00"
+  title: US start-up Geofeedia allowed police to track protesters
+  url: http://www.bbc.co.uk/news/world-us-canada-37627086
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 25f93088ec938ec45d8c48a24b50808d
   item_date: "2016-10-12 00:00:00"
@@ -2218,11 +2212,23 @@
   url: http://motherboard.vice.com/read/british-transport-police-spent-40000-on-social-media-surveillance-software
   domain: motherboard.vice.com
   image: ""
+- curated_id: a16edab6b73c20cd6336bd3e07b5034a
+  item_date: "2016-10-12 00:00:00"
+  title: Police Use Surveillance Tool to Scan Social Media, A.C.L.U. Says
+  url: http://www.nytimes.com/2016/10/12/technology/aclu-facebook-twitter-instagram-geofeedia.html
+  domain: www.nytimes.com
+  image: ""
 - curated_id: 30a1ccfc9878b308cf03d07655fd7507
   item_date: "2016-10-12 20:00:02"
   title: 'Cook?s County Sheriff among #surveillance software #Geofeedia?s customers'
   url: https://www.muckrock.com/news/archives/2016/oct/12/geofeedia-crowdsource/
   domain: www.muckrock.com
+  image: ""
+- curated_id: 7b389521d4ee2eadd80375f9bf160fc3
+  item_date: "2016-10-13 00:00:00"
+  title: Facebook, Instagram, Twitter Block Geofeedia Over Protest Surveillance
+  url: http://www.scienceworldreport.com/articles/49811/20161013/facebook-instagram-twitter-block-geofeedia-over-protest-surveillance.htm
+  domain: www.scienceworldreport.com
   image: ""
 - curated_id: 2d2de4ab31bd54207c732658fbfb7782
   item_date: "2016-10-13 00:00:00"
@@ -2230,12 +2236,6 @@
     economy'
   url: http://boingboing.net/2016/10/13/the-attention-merchants-a-dee.html
   domain: boingboing.net
-  image: ""
-- curated_id: 7b389521d4ee2eadd80375f9bf160fc3
-  item_date: "2016-10-13 00:00:00"
-  title: Facebook, Instagram, Twitter Block Geofeedia Over Protest Surveillance
-  url: http://www.scienceworldreport.com/articles/49811/20161013/facebook-instagram-twitter-block-geofeedia-over-protest-surveillance.htm
-  domain: www.scienceworldreport.com
   image: ""
 - curated_id: 77637cad58e5122e494060f72475b26d
   item_date: "2016-10-14 00:00:00"
@@ -2250,17 +2250,30 @@
   url: https://www.eff.org/deeplinks/2016/10/eff-goes-washington-fight-against-changes-rule-41
   domain: www.eff.org
   image: ""
+- curated_id: e6aa9622414821e4b8d1f29b1cf36dfd
+  item_date: "2016-10-17 00:00:00"
+  title: 'Minnesota Sheriff Must Release Emails on Use of Biometric Technology '
+  url: https://www.eff.org/deeplinks/2016/10/minnesota-sheriff-must-release-emails-police-use-biometric-technology
+  domain: www.eff.org
+  image: ""
 - curated_id: 01fe0a9c43875bcde58a9f82e410d1cc
   item_date: "2016-10-17 00:00:00"
   title: UK admits it spied illegally for 17 years, is sorry, wont stop
   url: http://www.theverge.com/2016/10/17/13305270/uk-illegal-surveillance-gchq-investigatory-powers-tribunal
   domain: www.theverge.com
   image: ""
-- curated_id: e6aa9622414821e4b8d1f29b1cf36dfd
-  item_date: "2016-10-17 00:00:00"
-  title: 'Minnesota Sheriff Must Release Emails on Use of Biometric Technology '
-  url: https://www.eff.org/deeplinks/2016/10/minnesota-sheriff-must-release-emails-police-use-biometric-technology
+- curated_id: 73d3035e6d06f5a193cd3793ddaed345
+  item_date: "2016-10-18 00:00:00"
+  title: 'Memo to the DOJ: Facial Recognition?s Threat to Privacy is Worse Than Anyone
+    Thought'
+  url: https://www.eff.org/deeplinks/2016/10/memo-doj-facial-recognitions-threat-privacy-worse-anyone-thought
   domain: www.eff.org
+  image: ""
+- curated_id: cff9bf3569107a743214c87f1996214d
+  item_date: "2016-10-18 00:00:00"
+  title: Police should rein in facial recognition programs, says new report
+  url: http://www.theverge.com/2016/10/18/13315628/facial-recognition-dmv-photos-georgetown-law-perpetual-lineup
+  domain: www.theverge.com
   image: ""
 - curated_id: d19ed8baaea7aa8c79f4049b8dbb4642
   item_date: "2016-10-18 00:00:00"
@@ -2273,38 +2286,6 @@
   title: Half of U.S. adults are profiled in police facial recognition databases
   url: http://www.pcworld.com/article/3132408/security/half-of-us-adults-are-profiled-in-police-facial-recognition-databases.html#tk.rss_all
   domain: www.pcworld.com
-  image: ""
-- curated_id: cff9bf3569107a743214c87f1996214d
-  item_date: "2016-10-18 00:00:00"
-  title: Police should rein in facial recognition programs, says new report
-  url: http://www.theverge.com/2016/10/18/13315628/facial-recognition-dmv-photos-georgetown-law-perpetual-lineup
-  domain: www.theverge.com
-  image: ""
-- curated_id: 73d3035e6d06f5a193cd3793ddaed345
-  item_date: "2016-10-18 00:00:00"
-  title: 'Memo to the DOJ: Facial Recognition?s Threat to Privacy is Worse Than Anyone
-    Thought'
-  url: https://www.eff.org/deeplinks/2016/10/memo-doj-facial-recognitions-threat-privacy-worse-anyone-thought
-  domain: www.eff.org
-  image: ""
-- curated_id: ae32b46f868b08c2c4e79b49dadc4d86
-  item_date: "2016-10-19 00:00:00"
-  title: This wearable badge links to software that could blur your face in unwanted
-    social media photos
-  url: http://www.businessinsider.com/do-not-snap-badge-protect-privacy-facial-recognition-unwelcome-photos-avg-innovation-labs-2016-10
-  domain: www.businessinsider.com
-  image: ""
-- curated_id: a4f5b32bfda8251e5c1337a863726ceb
-  item_date: "2016-10-19 00:00:00"
-  title: Yahoo, ACLU press U.S. to disclose secret surveillance orders
-  url: http://www.reuters.com/article/us-yahoo-nsa-idUSKCN12J2FB
-  domain: www.reuters.com
-  image: ""
-- curated_id: 2f2bc463e5eb43858b1db48def66b269
-  item_date: "2016-10-19 00:00:00"
-  title: Fingerprint Cards sensor in new Oppo smartphones
-  url: http://www.reuters.com/article/fingerpint-cards-smartphone-idUSL8N1CP49O
-  domain: www.reuters.com
   image: ""
 - curated_id: bf3a2ff1d6a97ab25b7627187b9f2d8d
   item_date: "2016-10-19 00:00:00"
@@ -2319,12 +2300,24 @@
   url: http://motherboard.vice.com/read/cops-monitoring-social-media-is-much-more-than-just-collecting-tweets
   domain: motherboard.vice.com
   image: ""
-- curated_id: 935aa4363cb52099f660d82b32a65bfe
-  item_date: "2016-10-20 00:00:00"
-  title: Yahoo, ACLU press US feds to disclose email snooping orders, surveillance
-    laws
-  url: http://www.zdnet.com/article/yahoo-aclu-press-us-feds-to-disclose-email-snooping-orders-surveillance-laws/
-  domain: www.zdnet.com
+- curated_id: 2f2bc463e5eb43858b1db48def66b269
+  item_date: "2016-10-19 00:00:00"
+  title: Fingerprint Cards sensor in new Oppo smartphones
+  url: http://www.reuters.com/article/fingerpint-cards-smartphone-idUSL8N1CP49O
+  domain: www.reuters.com
+  image: ""
+- curated_id: a4f5b32bfda8251e5c1337a863726ceb
+  item_date: "2016-10-19 00:00:00"
+  title: Yahoo, ACLU press U.S. to disclose secret surveillance orders
+  url: http://www.reuters.com/article/us-yahoo-nsa-idUSKCN12J2FB
+  domain: www.reuters.com
+  image: ""
+- curated_id: ae32b46f868b08c2c4e79b49dadc4d86
+  item_date: "2016-10-19 00:00:00"
+  title: This wearable badge links to software that could blur your face in unwanted
+    social media photos
+  url: http://www.businessinsider.com/do-not-snap-badge-protect-privacy-facial-recognition-unwelcome-photos-avg-innovation-labs-2016-10
+  domain: www.businessinsider.com
   image: ""
 - curated_id: b935d97922667fe86e7c8e684924349c
   item_date: "2016-10-20 00:00:00"
@@ -2332,11 +2325,24 @@
   url: http://boingboing.net/2016/10/20/aclu-asks-court-to-reveal-23-s.html
   domain: boingboing.net
   image: ""
+- curated_id: 935aa4363cb52099f660d82b32a65bfe
+  item_date: "2016-10-20 00:00:00"
+  title: Yahoo, ACLU press US feds to disclose email snooping orders, surveillance
+    laws
+  url: http://www.zdnet.com/article/yahoo-aclu-press-us-feds-to-disclose-email-snooping-orders-surveillance-laws/
+  domain: www.zdnet.com
+  image: ""
 - curated_id: f93584b3e970f4dce45a4ddde9ca49b3
   item_date: "2016-10-21 00:00:00"
   title: Google Has Dropped Ban on Personally Identifiable Web Tracking
   url: https://www.propublica.org/article/google-has-quietly-dropped-ban-on-personally-identifiable-web-tracking
   domain: www.propublica.org
+  image: ""
+- curated_id: 8b309fc9b11bf7266dbe0b723fa95e13
+  item_date: "2016-10-31 00:00:00"
+  title: Mass surveillance at public gatherings is why we need oversight policies
+  url: https://www.eff.org/deeplinks/2016/10/mass-surveillance-public-gatherings-why-we-need-oversight-policies
+  domain: www.eff.org
   image: ""
 - curated_id: 2dc3eca507415fa5c2d066a75ba43b9a
   item_date: "2016-10-31 00:00:00"
@@ -2345,12 +2351,6 @@
   url: https://techcrunch.com/2016/10/31/morton-county-sheriffs-department-denies-that-facebook-check-ins-are-a-tactic-in-use-at-standing-rock/
   domain: techcrunch.com
   image: ""
-- curated_id: 8b309fc9b11bf7266dbe0b723fa95e13
-  item_date: "2016-10-31 00:00:00"
-  title: Mass surveillance at public gatherings is why we need oversight policies
-  url: https://www.eff.org/deeplinks/2016/10/mass-surveillance-public-gatherings-why-we-need-oversight-policies
-  domain: www.eff.org
-  image: ""
 - curated_id: 988306968d3d90382f49a6b0d2000f33
   item_date: "2016-11-01 00:00:00"
   title: Satellite watchers busted an illegal fishing vessel, and they?re coming for
@@ -2358,11 +2358,11 @@
   url: http://www.businessinsider.com/global-fishing-watch-catches-illegal-fishing-vessel-2016-11
   domain: www.businessinsider.com
   image: ""
-- curated_id: f60ef0d87d9e0454bd3b65f06a44740f
+- curated_id: da65923d9b0b377442a6d0bf5ed21ede
   item_date: "2016-11-03 00:00:00"
-  title: Researchers Matched Images on Tattoo Websites to a German Police Database
-  url: https://www.eff.org/deeplinks/2016/11/researchers-matched-images-tattoo-websites-german-police-database
-  domain: www.eff.org
+  title: Bringing Eyes to the Internet of Things
+  url: http://spectrum.ieee.org/view-from-the-valley/computing/embedded-systems/bringing-eyes-to-the-internet-of-things
+  domain: spectrum.ieee.org
   image: ""
 - curated_id: ab7426162551a41a0077191aba22a69d
   item_date: "2016-11-03 00:00:00"
@@ -2370,11 +2370,11 @@
   url: https://www.schneier.com/blog/archives/2016/11/google_linking_.html
   domain: www.schneier.com
   image: ""
-- curated_id: da65923d9b0b377442a6d0bf5ed21ede
+- curated_id: f60ef0d87d9e0454bd3b65f06a44740f
   item_date: "2016-11-03 00:00:00"
-  title: Bringing Eyes to the Internet of Things
-  url: http://spectrum.ieee.org/view-from-the-valley/computing/embedded-systems/bringing-eyes-to-the-internet-of-things
-  domain: spectrum.ieee.org
+  title: Researchers Matched Images on Tattoo Websites to a German Police Database
+  url: https://www.eff.org/deeplinks/2016/11/researchers-matched-images-tattoo-websites-german-police-database
+  domain: www.eff.org
   image: ""
 - curated_id: e999b9fab554314dc2f735eeee5c5152
   item_date: "2016-11-04 00:00:00"
@@ -2394,17 +2394,17 @@
   url: http://www.bbc.co.uk/news/technology-37911135
   domain: www.bbc.co.uk
   image: ""
-- curated_id: 0de56e8b9e7d916e98c911a6ae96c848
-  item_date: "2016-11-09 00:00:00"
-  title: The Social Impacts of Biometric Technology
-  url: http://resources.infosecinstitute.com/the-social-impacts-of-biometric-technology/
-  domain: resources.infosecinstitute.com
-  image: ""
 - curated_id: 62c4a423acd4e2f1a3bc04a0c8786b02
   item_date: "2016-11-09 00:00:00"
   title: 'The Spy Who Loved Me: The Slippery Slope of Digital Surveillance'
   url: http://www.nytimes.com/2016/11/10/style/family-digital-surveillance-tracking-smartphones.html
   domain: www.nytimes.com
+  image: ""
+- curated_id: 0de56e8b9e7d916e98c911a6ae96c848
+  item_date: "2016-11-09 00:00:00"
+  title: The Social Impacts of Biometric Technology
+  url: http://resources.infosecinstitute.com/the-social-impacts-of-biometric-technology/
+  domain: resources.infosecinstitute.com
   image: ""
 - curated_id: 4583bd007fce18ae95fce78115c59339
   item_date: "2016-11-10 00:00:00"
@@ -2425,6 +2425,19 @@
   url: https://www.cs.cmu.edu/~sbhagava/papers/face-rec-ccs16.pdf
   domain: www.cs.cmu.edu
   image: ""
+- curated_id: c03d6c02f45201de458c77d0cfa74bdf
+  item_date: "2016-12-13 00:00:00"
+  title: The NSA Has Been Listening to In-Flight Cell Phone Calls for Years
+  url: https://www.engadget.com/2016/12/08/the-nsa-has-been-listening-to-in-flight-cell-phone-calls-for-yea/
+  domain: www.engadget.com
+  image: ""
+- curated_id: 72f7f97e1f53eec6ac0eb68143a9f2e6
+  item_date: "2016-12-13 00:00:00"
+  title: The Government May Be Spying on You Through Inflight Wi-Fi, Leaked Documents
+    Reveal
+  url: https://www.smartertravel.com/2016/12/07/government-spying-through-inflight-wi-fi-leaked-documents-reveal/
+  domain: www.smartertravel.com
+  image: ""
 - curated_id: 3c50a61a78c70b2490a7aa4ca71e694b
   item_date: "2016-12-13 00:00:00"
   title: Snowden Leaks Reveal NSA Snooped on In-Flight Mobile Calls
@@ -2437,24 +2450,32 @@
   url: https://www.accessnow.org/new-call-u-s-surveillance-reform/
   domain: www.accessnow.org
   image: ""
-- curated_id: 72f7f97e1f53eec6ac0eb68143a9f2e6
-  item_date: "2016-12-13 00:00:00"
-  title: The Government May Be Spying on You Through Inflight Wi-Fi, Leaked Documents
-    Reveal
-  url: https://www.smartertravel.com/2016/12/07/government-spying-through-inflight-wi-fi-leaked-documents-reveal/
-  domain: www.smartertravel.com
-  image: ""
-- curated_id: c03d6c02f45201de458c77d0cfa74bdf
-  item_date: "2016-12-13 00:00:00"
-  title: The NSA Has Been Listening to In-Flight Cell Phone Calls for Years
-  url: https://www.engadget.com/2016/12/08/the-nsa-has-been-listening-to-in-flight-cell-phone-calls-for-yea/
-  domain: www.engadget.com
-  image: ""
 - curated_id: 2a7a9d080d503a2c464c2ae407b06386
   item_date: "2016-12-14 00:00:00"
   title: Expanded Government Hacking Powers Need Accompanying Safeguards
   url: https://www.eff.org/deeplinks/2016/12/expanded-government-hacking-powers-need-accompanying-safeguards
   domain: www.eff.org
+  image: ""
+- curated_id: 98d17fb910fb4a254edc7e36bf93835a
+  item_date: "2016-12-15 00:00:00"
+  title: "Russia launches facial recognition programme to find anyone\u2019s face
+    on..."
+  url: http://infloria.com/canada/russia-launches-facial-recognition-programme-to-find-anyones-face-on-twitter/
+  domain: infloria.com
+  image: ""
+- curated_id: d0ec76d00923cd002f4c21a358d89d5e
+  item_date: "2016-12-15 00:00:00"
+  title: "Twitter Cuts Off Fusion Spy Centers\u2019 Access to Social Media Surveillance
+    Tool"
+  url: https://www.aclu.org/blog/free-future/twitter-cuts-fusion-spy-centers-access-social-media-surveillance-tool
+  domain: www.aclu.org
+  image: ""
+- curated_id: ba9a33b6ffdbfd0775d6d3100494ad29
+  item_date: "2016-12-15 00:00:00"
+  title: "Access Now issues a \u201Cmenu of options\u201D to reform warrantless mass
+    surveillance"
+  url: https://www.accessnow.org/access-now-issues-menu-options-reform-warrantless-mass-surveillance/
+  domain: www.accessnow.org
   image: ""
 - curated_id: 58b7bb00c2983f7e5bc77b21cf7df98f
   item_date: "2016-12-15 00:00:00"
@@ -2476,27 +2497,6 @@
   url: https://www.eff.org/deeplinks/2016/12/investigating-law-enforcements-use-technology-surveil-and-disrupt-nodapl-water
   domain: www.eff.org
   image: ""
-- curated_id: d0ec76d00923cd002f4c21a358d89d5e
-  item_date: "2016-12-15 00:00:00"
-  title: "Twitter Cuts Off Fusion Spy Centers\u2019 Access to Social Media Surveillance
-    Tool"
-  url: https://www.aclu.org/blog/free-future/twitter-cuts-fusion-spy-centers-access-social-media-surveillance-tool
-  domain: www.aclu.org
-  image: ""
-- curated_id: 98d17fb910fb4a254edc7e36bf93835a
-  item_date: "2016-12-15 00:00:00"
-  title: "Russia launches facial recognition programme to find anyone\u2019s face
-    on..."
-  url: http://infloria.com/canada/russia-launches-facial-recognition-programme-to-find-anyones-face-on-twitter/
-  domain: infloria.com
-  image: ""
-- curated_id: ba9a33b6ffdbfd0775d6d3100494ad29
-  item_date: "2016-12-15 00:00:00"
-  title: "Access Now issues a \u201Cmenu of options\u201D to reform warrantless mass
-    surveillance"
-  url: https://www.accessnow.org/access-now-issues-menu-options-reform-warrantless-mass-surveillance/
-  domain: www.accessnow.org
-  image: ""
 - curated_id: a2399cfcc8811ecd57ffb4210eeece3b
   item_date: "2016-12-15 11:07:16"
   title: Twitter cuts Dataminr access for law enforcement fusion centers
@@ -2509,17 +2509,17 @@
   url: http://www.reuters.com/article/us-usa-cyber-surveillance-idUSKBN1452FX
   domain: www.reuters.com
   image: ""
-- curated_id: 3873decddb6bde4c98636e9ad35e9c2f
-  item_date: "2016-12-19 00:00:00"
-  title: Stingray use could be unconstitutional, finds House report
-  url: http://www.pcworld.com/article/3151858/security/stingray-use-could-be-unconstitutional-finds-house-report.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
 - curated_id: 50e8159f1da1ad0f7510735ae3de029f
   item_date: "2016-12-19 00:00:00"
   title: Twitter Yanks Spy Center Data Access
   url: http://www.pcmag.com/news/350390/twitter-yanks-spy-center-data-access
   domain: www.pcmag.com
+  image: ""
+- curated_id: 3873decddb6bde4c98636e9ad35e9c2f
+  item_date: "2016-12-19 00:00:00"
+  title: Stingray use could be unconstitutional, finds House report
+  url: http://www.pcworld.com/article/3151858/security/stingray-use-could-be-unconstitutional-finds-house-report.html#tk.rss_all
+  domain: www.pcworld.com
   image: ""
 - curated_id: edcb17990e146dae325fb313c39500c9
   item_date: "2016-12-25 00:00:00"
@@ -2527,18 +2527,18 @@
   url: https://hackaday.com/2016/12/25/track-wi-fi-devices-in-your-home/
   domain: hackaday.com
   image: ""
-- curated_id: c099ccf98c08375ba6217583637f9afd
-  item_date: "2016-12-27 00:00:00"
-  title: Amazon Alexa Data Wanted in Murder Investigation
-  url: http://www.pcmag.com/news/350625/amazon-alexa-data-wanted-in-murder-investigation
-  domain: www.pcmag.com
-  image: ""
 - curated_id: 280b3c85dc249b1086dccdd1384fa096
   item_date: "2016-12-27 00:00:00"
   title: Amazon refuses to give police the voice data from an Echo owned by a man
     charged with murder (AMZN)
   url: http://www.businessinsider.com/amazon-refuses-to-give-police-echo-voice-data-in-murder-case-2016-12
   domain: www.businessinsider.com
+  image: ""
+- curated_id: c099ccf98c08375ba6217583637f9afd
+  item_date: "2016-12-27 00:00:00"
+  title: Amazon Alexa Data Wanted in Murder Investigation
+  url: http://www.pcmag.com/news/350625/amazon-alexa-data-wanted-in-murder-investigation
+  domain: www.pcmag.com
   image: ""
 - curated_id: c31bda0920c229ea8d432bed519b0be5
   item_date: "2016-12-27 15:01:16"
@@ -2552,23 +2552,17 @@
   url: http://www.siliconbeat.com/2016/12/28/alexa-knows-will-amazon-tell/
   domain: www.siliconbeat.com
   image: ""
-- curated_id: 89772e8fcb6df3ece3ff6f6c0fd9acd4
-  item_date: "2017-01-02 00:00:00"
-  title: 'CES 2017: Light bulb streams video to the internet'
-  url: http://www.bbc.co.uk/news/technology-38461790
-  domain: www.bbc.co.uk
-  image: ""
 - curated_id: c8623316ac47f5d75fb1587de0dab8d8
   item_date: "2017-01-02 00:00:00"
   title: 'Surveillance in Latin America: 2016 in Review'
   url: https://www.eff.org/deeplinks/2016/12/surveillance-latin-america
   domain: www.eff.org
   image: ""
-- curated_id: 5b79e8d4f7cd6661bcf057a9023d4fa6
-  item_date: "2017-01-03 00:00:00"
-  title: New AL-500 LiDAR System from Acuity Technologies
-  url: http://www.pobonline.com/articles/100735-new-al-500-lidar-system-from-acuity-technologies
-  domain: www.pobonline.com
+- curated_id: 89772e8fcb6df3ece3ff6f6c0fd9acd4
+  item_date: "2017-01-02 00:00:00"
+  title: 'CES 2017: Light bulb streams video to the internet'
+  url: http://www.bbc.co.uk/news/technology-38461790
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: e19d00d6c26a31c45c3a74e5ef839aad
   item_date: "2017-01-03 00:00:00"
@@ -2576,36 +2570,11 @@
   url: http://www.itsecurityguru.org/2017/01/03/smart-devices-may-soon-provide-uk-police-evidence-crime-report/
   domain: www.itsecurityguru.org
   image: ""
-- curated_id: f64fabd84f9c2e276559eaa4d421f18b
-  item_date: "2017-01-04 00:00:00"
-  title: "This browser extension shows you just how smart Facebook\u2019s image recognition
-    is"
-  url: http://thenextweb.com/apps/2017/01/04/this-chrome-extension-shows-you-just-how-smart-facebooks-image-recognition-is/
-  domain: thenextweb.com
-  image: ""
-- curated_id: df2afb378f4f5a7234236058eeaec1d7
-  item_date: "2017-01-04 00:00:00"
-  title: D-Link shows off three new home security cameras in its Connected Home series
-  url: http://www.pcworld.com/article/3153811/security-cameras/d-link-shows-off-three-new-home-security-cameras-in-its-connected-home-series.html#tk.rss_all
-  domain: www.pcworld.com
-  image: ""
-- curated_id: 62249419b5a97167f50eaaaad96f36b8
-  item_date: "2017-01-04 00:00:00"
-  title: 'CES 2017 preview: Announcing the 3rd generation FLIR ONE'
-  url: https://developer.flir.com/news-and-updates/ces-2017-preview-announcing-the-3rd-generation-flir-one/
-  domain: developer.flir.com
-  image: ""
-- curated_id: 9491f84240b956dcdebba6bc1b89be76
-  item_date: "2017-01-04 00:00:00"
-  title: System Configuration of Biometrics-The Network Topologies
-  url: http://resources.infosecinstitute.com/system-configuration-of-biometrics-the-network-topologies/
-  domain: resources.infosecinstitute.com
-  image: ""
-- curated_id: 4550c1537120a79e1d4dc3e613b56d09
-  item_date: "2017-01-04 00:00:00"
-  title: Anti-surveillance apparel hides your face from facial recognition software
-  url: http://thenextweb.com/tech/2017/01/04/anti-facial-recognition-apprel/
-  domain: thenextweb.com
+- curated_id: 5b79e8d4f7cd6661bcf057a9023d4fa6
+  item_date: "2017-01-03 00:00:00"
+  title: New AL-500 LiDAR System from Acuity Technologies
+  url: http://www.pobonline.com/articles/100735-new-al-500-lidar-system-from-acuity-technologies
+  domain: www.pobonline.com
   image: ""
 - curated_id: 2fe6f82664061e36f22a32a003c71d1c
   item_date: "2017-01-04 00:00:00"
@@ -2619,6 +2588,37 @@
   title: Drones Can Scan You in Infrared With Flirs New Camera
   url: http://www.pcmag.com/news/350736/drones-can-scan-you-in-infrared-with-flirs-new-camera
   domain: www.pcmag.com
+  image: ""
+- curated_id: 4550c1537120a79e1d4dc3e613b56d09
+  item_date: "2017-01-04 00:00:00"
+  title: Anti-surveillance apparel hides your face from facial recognition software
+  url: http://thenextweb.com/tech/2017/01/04/anti-facial-recognition-apprel/
+  domain: thenextweb.com
+  image: ""
+- curated_id: f64fabd84f9c2e276559eaa4d421f18b
+  item_date: "2017-01-04 00:00:00"
+  title: "This browser extension shows you just how smart Facebook\u2019s image recognition
+    is"
+  url: http://thenextweb.com/apps/2017/01/04/this-chrome-extension-shows-you-just-how-smart-facebooks-image-recognition-is/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 9491f84240b956dcdebba6bc1b89be76
+  item_date: "2017-01-04 00:00:00"
+  title: System Configuration of Biometrics-The Network Topologies
+  url: http://resources.infosecinstitute.com/system-configuration-of-biometrics-the-network-topologies/
+  domain: resources.infosecinstitute.com
+  image: ""
+- curated_id: df2afb378f4f5a7234236058eeaec1d7
+  item_date: "2017-01-04 00:00:00"
+  title: D-Link shows off three new home security cameras in its Connected Home series
+  url: http://www.pcworld.com/article/3153811/security-cameras/d-link-shows-off-three-new-home-security-cameras-in-its-connected-home-series.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 62249419b5a97167f50eaaaad96f36b8
+  item_date: "2017-01-04 00:00:00"
+  title: 'CES 2017 preview: Announcing the 3rd generation FLIR ONE'
+  url: https://developer.flir.com/news-and-updates/ces-2017-preview-announcing-the-3rd-generation-flir-one/
+  domain: developer.flir.com
   image: ""
 - curated_id: 059aac6de04fd6ed50a112fa699f7e3c
   item_date: "2017-01-04 08:32:41"
@@ -2644,6 +2644,12 @@
   url: https://www.eff.org/deeplinks/2017/01/finally-revealed-cloudflare-has-been-fighting-nsls-years
   domain: www.eff.org
   image: ""
+- curated_id: 0d0c07a8bcbab7f734fdc42bc706304c
+  item_date: "2017-01-11 00:00:00"
+  title: FBI row over Geek Squad child abuse find
+  url: http://www.bbc.co.uk/news/technology-38583351
+  domain: www.bbc.co.uk
+  image: ""
 - curated_id: d9e152926c6fff70f482a3c835086583
   item_date: "2017-01-11 00:00:00"
   title: House Intelligence votes to give all members access to classified Russian
@@ -2652,43 +2658,18 @@
     http://thehill.com/policy/cybersecurity/313867-intel-committee-votes-whole-house-can-see-full-hacking-report
   domain: thehill.com
   image: ""
-- curated_id: bd3ccf30be49b8773800058274cd3a99
-  item_date: "2017-01-11 00:00:00"
-  title: 'American Spies: Modern Surveillance, Why You Should Care, and What To Do
-    About It'
-  url: http://cyberlaw.stanford.edu/press/american-spies-modern-surveillance-why-you-should-care-and-what-do-about-it
-  domain: cyberlaw.stanford.edu
-  image: ""
 - curated_id: a72797ef96d94d26facef6555417eff9
   item_date: "2017-01-11 00:00:00"
   title: Cloudflare explains how FBI gag order impacted business
   url: https://techcrunch.com/2017/01/11/cloudflare-explains-how-fbi-gag-order-impacted-business/
   domain: techcrunch.com
   image: ""
-- curated_id: 0d0c07a8bcbab7f734fdc42bc706304c
+- curated_id: bd3ccf30be49b8773800058274cd3a99
   item_date: "2017-01-11 00:00:00"
-  title: FBI row over Geek Squad child abuse find
-  url: http://www.bbc.co.uk/news/technology-38583351
-  domain: www.bbc.co.uk
-  image: ""
-- curated_id: 57a1fdb65329b0814d3057a72da3b6c5
-  item_date: "2017-01-12 00:00:00"
-  title: Just in Time for Trump, the NSA Loosens Its Privacy Rules
-  url: https://www.wired.com/2017/01/just-time-trump-nsa-loosens-privacy-rules/
-  domain: www.wired.com
-  image: ""
-- curated_id: 2247ea57bf26c513471d75bd5372931f
-  item_date: "2017-01-12 00:00:00"
-  title: Obama Administration Releases Long Awaited New E.O. 12333 Rules on Sharing
-    of Raw Signals Intelligence Information Within IC
-  url: https://www.lawfareblog.com/obama-administration-releases-long-awaited-new-eo-12333-rules-sharing-raw-signals-intelligence
-  domain: www.lawfareblog.com
-  image: ""
-- curated_id: 44e3a2ed500b4e2b2cc750c65dc933c4
-  item_date: "2017-01-12 00:00:00"
-  title: N.S.A. Gets More Latitude to Share Intercepted Communications
-  url: https://www.nytimes.com/2017/01/12/us/politics/nsa-gets-more-latitude-to-share-intercepted-communications.html
-  domain: www.nytimes.com
+  title: 'American Spies: Modern Surveillance, Why You Should Care, and What To Do
+    About It'
+  url: http://cyberlaw.stanford.edu/press/american-spies-modern-surveillance-why-you-should-care-and-what-do-about-it
+  domain: cyberlaw.stanford.edu
   image: ""
 - curated_id: 240afa60eb7a6d50f01089e088f4d26e
   item_date: "2017-01-12 00:00:00"
@@ -2702,43 +2683,24 @@
   url: https://www.schneier.com/blog/archives/2017/01/nsa_given_more_.html
   domain: www.schneier.com
   image: ""
-- curated_id: a87b3dcb3d24082fa64bb0ef6e7d5352
-  item_date: "2017-01-13 00:00:00"
-  title: Thiel confirms Palantir will not help build Trumps Muslim database
-  url: https://pando.com/2017/01/13/thiel-confirms-palantir-will-not-help-build-trumps-muslim-database/
-  domain: pando.com
+- curated_id: 44e3a2ed500b4e2b2cc750c65dc933c4
+  item_date: "2017-01-12 00:00:00"
+  title: N.S.A. Gets More Latitude to Share Intercepted Communications
+  url: https://www.nytimes.com/2017/01/12/us/politics/nsa-gets-more-latitude-to-share-intercepted-communications.html
+  domain: www.nytimes.com
   image: ""
-- curated_id: a24b93accc5252593147319362e9f029
-  item_date: "2017-01-13 00:00:00"
-  title: "Tech workers are protesting Palantir\u2019s involvement with immigration
-    data"
-  url: http://www.theverge.com/2017/1/13/14264804/palantir-immigration-trump-protest-tech-workers
-  domain: www.theverge.com
+- curated_id: 2247ea57bf26c513471d75bd5372931f
+  item_date: "2017-01-12 00:00:00"
+  title: Obama Administration Releases Long Awaited New E.O. 12333 Rules on Sharing
+    of Raw Signals Intelligence Information Within IC
+  url: https://www.lawfareblog.com/obama-administration-releases-long-awaited-new-eo-12333-rules-sharing-raw-signals-intelligence
+  domain: www.lawfareblog.com
   image: ""
-- curated_id: 41727dace6f937b26b74cd06a23158d5
-  item_date: "2017-01-13 00:00:00"
-  title: 'Top security expert: There is no WhatsApp backdoor (FB)'
-  url: http://www.businessinsider.com/top-security-expert-there-is-no-whatsapp-backdoor-2017-1
-  domain: www.businessinsider.com
-  image: ""
-- curated_id: 91d2e92f1f4a483c643c95d7b4e97212
-  item_date: "2017-01-13 00:00:00"
-  title: The NSA can now share unfiltered surveillance data with other intelligence
-    agencies
-  url: https://techcrunch.com/2017/01/13/the-nsa-can-now-share-unfiltered-surveillance-data-with-other-intelligence-agencies/
-  domain: techcrunch.com
-  image: ""
-- curated_id: bbe35014259459ac934c491cee908190
-  item_date: "2017-01-13 00:00:00"
-  title: 'Thanks, Obama: NSA to stream raw intelligence into FBI, DEA and pals'
-  url: http://www.itsecurityguru.org/2017/01/13/thanks-obama-nsa-stream-raw-intelligence-fbi-dea-pals/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: d365c536c6311bf4ed9a35e0b7ac02d3
-  item_date: "2017-01-13 00:00:00"
-  title: Hacker snatches 900GB of data from pay-for-hire phone-hacking agency
-  url: http://thenextweb.com/insider/2017/01/13/hacker-hacks-phone-hacking-agency/
-  domain: thenextweb.com
+- curated_id: 57a1fdb65329b0814d3057a72da3b6c5
+  item_date: "2017-01-12 00:00:00"
+  title: Just in Time for Trump, the NSA Loosens Its Privacy Rules
+  url: https://www.wired.com/2017/01/just-time-trump-nsa-loosens-privacy-rules/
+  domain: www.wired.com
   image: ""
 - curated_id: 31eab67e26abd953c1b1e204d8bac49e
   item_date: "2017-01-13 00:00:00"
@@ -2765,6 +2727,44 @@
     Whatsapp messages
   url: http://boingboing.net/2017/01/13/a-critical-flaw-possibly-a-de.html
   domain: boingboing.net
+  image: ""
+- curated_id: d365c536c6311bf4ed9a35e0b7ac02d3
+  item_date: "2017-01-13 00:00:00"
+  title: Hacker snatches 900GB of data from pay-for-hire phone-hacking agency
+  url: http://thenextweb.com/insider/2017/01/13/hacker-hacks-phone-hacking-agency/
+  domain: thenextweb.com
+  image: ""
+- curated_id: bbe35014259459ac934c491cee908190
+  item_date: "2017-01-13 00:00:00"
+  title: 'Thanks, Obama: NSA to stream raw intelligence into FBI, DEA and pals'
+  url: http://www.itsecurityguru.org/2017/01/13/thanks-obama-nsa-stream-raw-intelligence-fbi-dea-pals/
+  domain: www.itsecurityguru.org
+  image: ""
+- curated_id: a87b3dcb3d24082fa64bb0ef6e7d5352
+  item_date: "2017-01-13 00:00:00"
+  title: Thiel confirms Palantir will not help build Trumps Muslim database
+  url: https://pando.com/2017/01/13/thiel-confirms-palantir-will-not-help-build-trumps-muslim-database/
+  domain: pando.com
+  image: ""
+- curated_id: 91d2e92f1f4a483c643c95d7b4e97212
+  item_date: "2017-01-13 00:00:00"
+  title: The NSA can now share unfiltered surveillance data with other intelligence
+    agencies
+  url: https://techcrunch.com/2017/01/13/the-nsa-can-now-share-unfiltered-surveillance-data-with-other-intelligence-agencies/
+  domain: techcrunch.com
+  image: ""
+- curated_id: a24b93accc5252593147319362e9f029
+  item_date: "2017-01-13 00:00:00"
+  title: "Tech workers are protesting Palantir\u2019s involvement with immigration
+    data"
+  url: http://www.theverge.com/2017/1/13/14264804/palantir-immigration-trump-protest-tech-workers
+  domain: www.theverge.com
+  image: ""
+- curated_id: 41727dace6f937b26b74cd06a23158d5
+  item_date: "2017-01-13 00:00:00"
+  title: 'Top security expert: There is no WhatsApp backdoor (FB)'
+  url: http://www.businessinsider.com/top-security-expert-there-is-no-whatsapp-backdoor-2017-1
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 0fab92f3f13b6716bb0305f5212f83c8
   item_date: "2017-01-13 11:49:12"
@@ -2794,17 +2794,23 @@
   url: https://www.techdirt.com/articles/20170117/07341536499/legal-netherworld-traffic-cam-tickets-where-everything-is-both-civil-criminal-while-also-being-mostly-neither.shtml
   domain: www.techdirt.com
   image: ""
+- curated_id: bcafafba628c78cc8cd265c259f88ae8
+  item_date: "2017-01-18 00:00:00"
+  title: Palantir, Oracle, Amazon urged to reject creation of Muslim registry
+  url: http://www.siliconbeat.com/2017/01/18/palantir-oracle-amazon-urged-reject-creation-muslim-registry/
+  domain: www.siliconbeat.com
+  image: ""
 - curated_id: adbdb5a299bf25aa1d739762a9fc3628
   item_date: "2017-01-18 00:00:00"
   title: "Turns Out Banks Use Cellebrite Phone Cracking Tech Too\r\n"
   url: http://motherboard.vice.com/read/banks-use-cellebrite-phone-cracking-tech-too
   domain: motherboard.vice.com
   image: ""
-- curated_id: bcafafba628c78cc8cd265c259f88ae8
-  item_date: "2017-01-18 00:00:00"
-  title: Palantir, Oracle, Amazon urged to reject creation of Muslim registry
-  url: http://www.siliconbeat.com/2017/01/18/palantir-oracle-amazon-urged-reject-creation-muslim-registry/
-  domain: www.siliconbeat.com
+- curated_id: c507084ad6de0c274c8000611eea259a
+  item_date: "2017-01-19 00:00:00"
+  title: Connected Devices Give Spies a Powerful New Way to Surveil
+  url: https://www.wired.com/2017/01/connected-devices-give-spies-powerful-new-way-surveil/
+  domain: www.wired.com
   image: ""
 - curated_id: c76d5cefe835508c804ffd2d8d67d650
   item_date: "2017-01-19 00:00:00"
@@ -2817,12 +2823,6 @@
   title: Thinnest-ever electronic tattoos are capable of precision health monitoring
   url: http://boingboing.net/2017/01/19/thinnest-ever-electronic-tatto.html
   domain: boingboing.net
-  image: ""
-- curated_id: c507084ad6de0c274c8000611eea259a
-  item_date: "2017-01-19 00:00:00"
-  title: Connected Devices Give Spies a Powerful New Way to Surveil
-  url: https://www.wired.com/2017/01/connected-devices-give-spies-powerful-new-way-surveil/
-  domain: www.wired.com
   image: ""
 - curated_id: 1d997805240dff09472013da364d255b
   item_date: "2017-01-19 13:30:17"
@@ -2842,17 +2842,17 @@
   url: https://medium.com/@pdehaye/microtargeting-of-low-information-voters-6eb2520cd473#.k0pbjc8ik
   domain: medium.com
   image: ""
-- curated_id: 64ce42bce02dd250f002b1b640cb2445
-  item_date: "2017-01-30 00:00:00"
-  title: Automating Lie Detection in Airports
-  url: https://dzone.com/articles/automating-lie-detection-in-airports
-  domain: dzone.com
-  image: ""
 - curated_id: af8f9321035ca2b8bcf24df5526760f5
   item_date: "2017-01-30 00:00:00"
   title: Trump administration doubles down on alarming social media tracking practices
   url: https://www.accessnow.org/trump-administration-doubles-alarming-social-media-tracking-practices/
   domain: www.accessnow.org
+  image: ""
+- curated_id: 64ce42bce02dd250f002b1b640cb2445
+  item_date: "2017-01-30 00:00:00"
+  title: Automating Lie Detection in Airports
+  url: https://dzone.com/articles/automating-lie-detection-in-airports
+  domain: dzone.com
   image: ""
 - curated_id: 9f51413f30864a547411437d59f71e5d
   item_date: "2017-01-30 05:16:25"
@@ -2873,18 +2873,6 @@
   url: http://www.networkworld.com/article/3162740/security/cops-use-pacemaker-data-as-evidence-to-charge-homeowner-with-arson-insurance-fraud.html#tk.rss_security
   domain: www.networkworld.com
   image: ""
-- curated_id: 0256b62dcc01f61b2efbff6170bc0571
-  item_date: "2017-01-31 00:00:00"
-  title: The Best Wireless Outdoor Home Security Camera
-  url: http://thewirecutter.com/reviews/best-wireless-outdoor-home-security-camera/
-  domain: thewirecutter.com
-  image: ""
-- curated_id: 78e531886aa56b8e3540c005103e81a9
-  item_date: "2017-01-31 00:00:00"
-  title: "Build an Employee Tracker with AngularJS and Web API \u2013 Part 1"
-  url: https://www.codeproject.com/Articles/1168346/Build-an-Employee-Tracker-with-AngularJS-and-Web-A
-  domain: www.codeproject.com
-  image: ""
 - curated_id: 5a2364a5660cf7896665be6d38df86c2
   item_date: "2017-01-31 00:00:00"
   title: FBI Continues To Demand Far More Info Than Its Supposed To With Its National
@@ -2892,11 +2880,17 @@
   url: https://www.techdirt.com/articles/20170130/11251636590/fbi-continues-to-demand-far-more-info-than-supposed-to-with-national-security-letters.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: a0cb5bf56c9cf9d3c797793f33008c56
-  item_date: "2017-02-01 00:00:00"
-  title: 'Invasive Digital Border Searches: Tell EFF Your Story'
-  url: https://www.eff.org/deeplinks/2017/02/invasive-digital-border-searches-tell-eff-your-story
-  domain: www.eff.org
+- curated_id: 78e531886aa56b8e3540c005103e81a9
+  item_date: "2017-01-31 00:00:00"
+  title: "Build an Employee Tracker with AngularJS and Web API \u2013 Part 1"
+  url: https://www.codeproject.com/Articles/1168346/Build-an-Employee-Tracker-with-AngularJS-and-Web-A
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 0256b62dcc01f61b2efbff6170bc0571
+  item_date: "2017-01-31 00:00:00"
+  title: The Best Wireless Outdoor Home Security Camera
+  url: http://thewirecutter.com/reviews/best-wireless-outdoor-home-security-camera/
+  domain: thewirecutter.com
   image: ""
 - curated_id: d500a6064ff56f56b83faf16bc9576f2
   item_date: "2017-02-01 00:00:00"
@@ -2905,11 +2899,11 @@
   url: http://www.pcworld.com/article/3136726/security-cameras/d-link-dcs-8200lh-hd-180-degree-wi-fi-camera-review-an-all-seeing-eye-for-large-spaces.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: 29e30b7609fea5af9491299da478e3c3
-  item_date: "2017-02-02 00:00:00"
-  title: Pacemaker Data Used in Arson Conviction
-  url: https://www.schneier.com/blog/archives/2017/02/pacemaker_data_.html
-  domain: www.schneier.com
+- curated_id: a0cb5bf56c9cf9d3c797793f33008c56
+  item_date: "2017-02-01 00:00:00"
+  title: 'Invasive Digital Border Searches: Tell EFF Your Story'
+  url: https://www.eff.org/deeplinks/2017/02/invasive-digital-border-searches-tell-eff-your-story
+  domain: www.eff.org
   image: ""
 - curated_id: 9ff9f9c3b82dd195851ee10eb48c7678
   item_date: "2017-02-02 00:00:00"
@@ -2918,17 +2912,43 @@
   url: https://www.techdirt.com/articles/20170201/10380736608/court-tosses-lawsuit-brought-brother-sister-against-take-two-interactive-over-nba2k-face-scans.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: e0d0b2a48fbc8c10c31205dacd1b36d6
-  item_date: "2017-02-03 00:00:00"
-  title: "Protecting the Power Grid \u2013 Video Surveillance"
-  url: http://www.puretechsystems.com/blog/protecting-the-power-grid-video-surveillance/
-  domain: www.puretechsystems.com
+- curated_id: 29e30b7609fea5af9491299da478e3c3
+  item_date: "2017-02-02 00:00:00"
+  title: Pacemaker Data Used in Arson Conviction
+  url: https://www.schneier.com/blog/archives/2017/02/pacemaker_data_.html
+  domain: www.schneier.com
   image: ""
 - curated_id: dd80713ffda8ed8c31f34f7d38f14a91
   item_date: "2017-02-03 00:00:00"
   title: Police Could Get Your Location Data Without A Warrant. That Has To End
   url: http://www.huffingtonpost.com/entry/police-could-get-your-location-data-without-a-warrant_us_5894e043e4b02bbb1816ba07
   domain: www.huffingtonpost.com
+  image: ""
+- curated_id: e0d0b2a48fbc8c10c31205dacd1b36d6
+  item_date: "2017-02-03 00:00:00"
+  title: "Protecting the Power Grid \u2013 Video Surveillance"
+  url: http://www.puretechsystems.com/blog/protecting-the-power-grid-video-surveillance/
+  domain: www.puretechsystems.com
+  image: ""
+- curated_id: 6d5287b580301bd62c5a8340879abdde
+  item_date: "2017-02-06 00:00:00"
+  title: US court orders Google to hand over data on foreign servers
+  url: |
+    http://thehill.com/policy/cybersecurity/318056-in-change-from-microsoft-case-google-ordered-to-give-feds-data-on
+  domain: thehill.com
+  image: ""
+- curated_id: cc5a8c6e19425cc4635b74107cc52cf3
+  item_date: "2017-02-06 00:00:00"
+  title: 'Own a Vizio TV? It May Have Spied on You '
+  url: http://www.pcmag.com/news/351582/own-a-vizio-tv-it-may-have-spied-on-you
+  domain: www.pcmag.com
+  image: ""
+- curated_id: bc7c332f915ac83eabbdccb847b0b089
+  item_date: "2017-02-06 00:00:00"
+  title: FBI offers employers alerts when their employees are arrested, regardless
+    of charges or convictions
+  url: http://boingboing.net/2017/02/06/fbi-offers-employers-alerts-wh.html
+  domain: boingboing.net
   image: ""
 - curated_id: 0259c4e74897a4fc1878a67ff6c2fe58
   item_date: "2017-02-06 00:00:00"
@@ -2955,25 +2975,11 @@
   url: http://www.pcworld.com/article/3131626/computers/why-you-should-cover-up-your-laptops-webcam.html#tk.rss_all
   domain: www.pcworld.com
   image: ""
-- curated_id: bc7c332f915ac83eabbdccb847b0b089
-  item_date: "2017-02-06 00:00:00"
-  title: FBI offers employers alerts when their employees are arrested, regardless
-    of charges or convictions
-  url: http://boingboing.net/2017/02/06/fbi-offers-employers-alerts-wh.html
-  domain: boingboing.net
-  image: ""
-- curated_id: 6d5287b580301bd62c5a8340879abdde
-  item_date: "2017-02-06 00:00:00"
-  title: US court orders Google to hand over data on foreign servers
-  url: |
-    http://thehill.com/policy/cybersecurity/318056-in-change-from-microsoft-case-google-ordered-to-give-feds-data-on
-  domain: thehill.com
-  image: ""
-- curated_id: cc5a8c6e19425cc4635b74107cc52cf3
-  item_date: "2017-02-06 00:00:00"
-  title: 'Own a Vizio TV? It May Have Spied on You '
-  url: http://www.pcmag.com/news/351582/own-a-vizio-tv-it-may-have-spied-on-you
-  domain: www.pcmag.com
+- curated_id: 57b4d3e83cc3f485aaec22eaa6da75f8
+  item_date: "2017-02-07 00:00:00"
+  title: "It\u2019s Not Foreigners Who are Plotting Here: What the Data Really Show"
+  url: https://www.lawfareblog.com/its-not-foreigners-who-are-plotting-here-what-data-really-show
+  domain: www.lawfareblog.com
   image: ""
 - curated_id: 63d0ad7a1ec471467735962906bc3670
   item_date: "2017-02-07 00:00:00"
@@ -2987,12 +2993,6 @@
     About My Work for the ACLU"
   url: https://www.aclu.org/blog/speak-freely/flying-home-abroad-border-agent-stopped-and-questioned-me-about-my-work-aclu
   domain: www.aclu.org
-  image: ""
-- curated_id: 57b4d3e83cc3f485aaec22eaa6da75f8
-  item_date: "2017-02-07 00:00:00"
-  title: "It\u2019s Not Foreigners Who are Plotting Here: What the Data Really Show"
-  url: https://www.lawfareblog.com/its-not-foreigners-who-are-plotting-here-what-data-really-show
-  domain: www.lawfareblog.com
   image: ""
 - curated_id: 711c18e707dfe30ab94c3e98eafd3036
   item_date: "2017-02-08 00:00:00"
@@ -3043,12 +3043,11 @@
   url: https://motherboard.vice.com/en_us/article/trevor-paglen-is-making-art-out-of-the-surveillance-state
   domain: motherboard.vice.com
   image: ""
-- curated_id: 687529039a11f3cf3c97638c06d776b5
+- curated_id: 385020a00b6d395dce3014cf27e4255c
   item_date: "2017-02-14 00:00:00"
-  title: New clues into how FBI cracked the iPhone
-  url: |
-    http://thehill.com/policy/technology/319587-new-clues-into-how-fbi-cracked-the-iphone
-  domain: thehill.com
+  title: Matt Mitchell Is Arming Underserved Communities With Anti-Surveillance Tools
+  url: https://motherboard.vice.com/en_us/article/matt-mitchell-is-arming-underserved-communities-with-anti-surveillance-tools
+  domain: motherboard.vice.com
   image: ""
 - curated_id: a5b0508c53281b6d8bdbbaa805177793
   item_date: "2017-02-14 00:00:00"
@@ -3056,11 +3055,32 @@
   url: https://www.accessnow.org/give-us-twitter-facebook-passwords-guarding-free-expression/
   domain: www.accessnow.org
   image: ""
-- curated_id: 385020a00b6d395dce3014cf27e4255c
+- curated_id: 687529039a11f3cf3c97638c06d776b5
   item_date: "2017-02-14 00:00:00"
-  title: Matt Mitchell Is Arming Underserved Communities With Anti-Surveillance Tools
-  url: https://motherboard.vice.com/en_us/article/matt-mitchell-is-arming-underserved-communities-with-anti-surveillance-tools
-  domain: motherboard.vice.com
+  title: New clues into how FBI cracked the iPhone
+  url: |
+    http://thehill.com/policy/technology/319587-new-clues-into-how-fbi-cracked-the-iphone
+  domain: thehill.com
+  image: ""
+- curated_id: c6314f87eb5b0a3f0c1a92154f04c951
+  item_date: "2017-02-15 00:00:00"
+  title: "Crossing Border Security? Here\u2019s How You Protect Your Data | Graham
+    Cluley"
+  url: https://www.grahamcluley.com/crossing-border-security-heres-protect-data/
+  domain: www.grahamcluley.com
+  image: ""
+- curated_id: 00d9926d36e9729d9c479362b56bcafe
+  item_date: "2017-02-15 00:00:00"
+  title: Internal Documents Show Undercover TSA Officers Routinely Spy on Flyers
+  url: https://skift.com/2017/02/08/internal-documents-show-undercover-tsa-officers-routinely-spy-on-flyers/
+  domain: skift.com
+  image: ""
+- curated_id: 6fbf844fa6ae71fa2437412ec90aae7e
+  item_date: "2017-02-15 00:00:00"
+  title: GOP reps demand investigation of EPA employees using encrypted chat
+  url: |
+    http://thehill.com/policy/cybersecurity/319711-gop-reps-ding-epa-employees-use-of-encrypted-chat
+  domain: thehill.com
   image: ""
 - curated_id: 81ce38c5a875bb6a6ef3011f1cabba62
   item_date: "2017-02-15 00:00:00"
@@ -3082,26 +3102,6 @@
   url: https://www.techdirt.com/articles/20170214/03215936704/scottish-sheriff-awards-couple-compensation-distress-caused-neighbors-use-cctv.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: 6fbf844fa6ae71fa2437412ec90aae7e
-  item_date: "2017-02-15 00:00:00"
-  title: GOP reps demand investigation of EPA employees using encrypted chat
-  url: |
-    http://thehill.com/policy/cybersecurity/319711-gop-reps-ding-epa-employees-use-of-encrypted-chat
-  domain: thehill.com
-  image: ""
-- curated_id: c6314f87eb5b0a3f0c1a92154f04c951
-  item_date: "2017-02-15 00:00:00"
-  title: "Crossing Border Security? Here\u2019s How You Protect Your Data | Graham
-    Cluley"
-  url: https://www.grahamcluley.com/crossing-border-security-heres-protect-data/
-  domain: www.grahamcluley.com
-  image: ""
-- curated_id: 00d9926d36e9729d9c479362b56bcafe
-  item_date: "2017-02-15 00:00:00"
-  title: Internal Documents Show Undercover TSA Officers Routinely Spy on Flyers
-  url: https://skift.com/2017/02/08/internal-documents-show-undercover-tsa-officers-routinely-spy-on-flyers/
-  domain: skift.com
-  image: ""
 - curated_id: 32dafd92e75f58026fb5e3b85c830940
   item_date: "2017-02-16 19:06:01"
   title: 'Twitter to judge: Let us tell everyone exactly how many secret orders we
@@ -3115,23 +3115,17 @@
   url: http://www.npr.org/2017/02/17/515841069/local-police-departments-invest-in-cell-phone-spy-tools
   domain: www.npr.org
   image: ""
-- curated_id: 50b3b16161cce5ae9dea20b9f96d1fab
-  item_date: "2017-02-20 00:00:00"
-  title: Neural Nets And Game Boy Cameras
-  url: https://hackaday.com/2017/02/20/neural-nets-and-game-boy-cameras/
-  domain: hackaday.com
-  image: ""
 - curated_id: e5bb4191a785880d4ea9b0295ae3ed72
   item_date: "2017-02-20 00:00:00"
   title: Eagle Eye Networks Launches Camera Cyber Lockdown
   url: https://www.eagleeyenetworks.com/eagle-eye-networks-launches-camera-cyber-lockdown/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: 23026c2716c0637429d6d6dc4362366c
-  item_date: "2017-02-21 00:00:00"
-  title: FBI pressured on cost of iPhone hack tool
-  url: http://www.bbc.co.uk/news/technology-39038936
-  domain: www.bbc.co.uk
+- curated_id: 50b3b16161cce5ae9dea20b9f96d1fab
+  item_date: "2017-02-20 00:00:00"
+  title: Neural Nets And Game Boy Cameras
+  url: https://hackaday.com/2017/02/20/neural-nets-and-game-boy-cameras/
+  domain: hackaday.com
   image: ""
 - curated_id: d6341db622afebd287e8726a5856fc64
   item_date: "2017-02-21 00:00:00"
@@ -3141,17 +3135,17 @@
     http://thehill.com/policy/cybersecurity/320427-senator-to-introduce-legislation-requiring-warrants-for-device-searches
   domain: thehill.com
   image: ""
-- curated_id: f6fc3d916e4a1b3461e4d3b137a9d8d7
-  item_date: "2017-02-22 00:00:00"
-  title: Coalition Slams DHS Plans To Demand Social Media Passwords
-  url: https://www.techdirt.com/articles/20170221/11135336758/coalition-slams-dhs-plans-to-demand-social-media-passwords.shtml
-  domain: www.techdirt.com
+- curated_id: 23026c2716c0637429d6d6dc4362366c
+  item_date: "2017-02-21 00:00:00"
+  title: FBI pressured on cost of iPhone hack tool
+  url: http://www.bbc.co.uk/news/technology-39038936
+  domain: www.bbc.co.uk
   image: ""
-- curated_id: d86b0d1bf2ef0196b55ec330868675c3
+- curated_id: 601f9a723b994563acf1baba0c1456fd
   item_date: "2017-02-22 00:00:00"
-  title: Tech coalition slams Homeland Security proposal to collect social media passwords
-  url: https://techcrunch.com/2017/02/22/tech-coalition-slams-homeland-security-proposal-to-collect-social-media-passwords/
-  domain: techcrunch.com
+  title: Border Digital Safety for Journalists
+  url: http://blog.erratasec.com/2017/02/border-digital-safety-for-journalists.html
+  domain: blog.erratasec.com
   image: ""
 - curated_id: 4f135a23aec497cc8f7edd710002ab40
   item_date: "2017-02-22 00:00:00"
@@ -3166,38 +3160,17 @@
   url: https://blogs.dropbox.com/tech/2017/02/meet-securitybot-open-sourcing-automated-security-at-scale/
   domain: blogs.dropbox.com
   image: ""
-- curated_id: 601f9a723b994563acf1baba0c1456fd
+- curated_id: d86b0d1bf2ef0196b55ec330868675c3
   item_date: "2017-02-22 00:00:00"
-  title: Border Digital Safety for Journalists
-  url: http://blog.erratasec.com/2017/02/border-digital-safety-for-journalists.html
-  domain: blog.erratasec.com
-  image: ""
-- curated_id: 32c8ec780eb26e03fc0af315887c5f30
-  item_date: "2017-02-23 00:00:00"
-  title: Sen. Wyden Wants Answers From New DHS Head, Introducing Legislation To Create
-    Warrant Requirement For Border Phone Searches
-  url: https://www.techdirt.com/articles/20170222/11492136768/sen-wyden-wants-answers-new-dhs-head-introducing-legislation-to-create-warrant-requirement-border-phone-searches.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: 022204dc2b313a475049fb87d9a03f12
-  item_date: "2017-02-23 00:00:00"
-  title: "Politwoops adds realtime stats for politicians\u2019 deleted tweets across
-    54 countries"
-  url: https://techcrunch.com/2017/02/23/politwoops-adds-realtime-stats-for-politicians-deleted-tweets-across-54-countries/
+  title: Tech coalition slams Homeland Security proposal to collect social media passwords
+  url: https://techcrunch.com/2017/02/22/tech-coalition-slams-homeland-security-proposal-to-collect-social-media-passwords/
   domain: techcrunch.com
   image: ""
-- curated_id: 1322518a1e8aa425e72cc264f6efe091
-  item_date: "2017-02-23 00:00:00"
-  title: Protect Biometric Privacy in Montana
-  url: https://www.eff.org/deeplinks/2017/02/protect-biometric-privacy-montana
-  domain: www.eff.org
-  image: ""
-- curated_id: a06b0e5504cae30f76647f6ded270b3c
-  item_date: "2017-02-23 00:00:00"
-  title: House panel to hold hearing on foreign surveillance law
-  url: |
-    http://thehill.com/policy/cybersecurity/320841-house-panel-to-hold-hearing-on-controversial-foreign-surveillance-law
-  domain: thehill.com
+- curated_id: f6fc3d916e4a1b3461e4d3b137a9d8d7
+  item_date: "2017-02-22 00:00:00"
+  title: Coalition Slams DHS Plans To Demand Social Media Passwords
+  url: https://www.techdirt.com/articles/20170221/11135336758/coalition-slams-dhs-plans-to-demand-social-media-passwords.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: 0d2d7d837232be343e90a8b3b430310e
   item_date: "2017-02-23 00:00:00"
@@ -3214,18 +3187,32 @@
     http://thehill.com/policy/cybersecurity/320806-federal-judge-says-police-cant-force-entire-room-of-people-to-unlock-an
   domain: thehill.com
   image: ""
-- curated_id: 78a4be9a870ee27072b7dc33b42f1373
-  item_date: "2017-02-24 00:00:00"
-  title: Using Cloud to Avoid Traffic
-  url: https://www.eagleeyenetworks.com/using-cloud-avoid-traffic/
-  domain: www.eagleeyenetworks.com
+- curated_id: a06b0e5504cae30f76647f6ded270b3c
+  item_date: "2017-02-23 00:00:00"
+  title: House panel to hold hearing on foreign surveillance law
+  url: |
+    http://thehill.com/policy/cybersecurity/320841-house-panel-to-hold-hearing-on-controversial-foreign-surveillance-law
+  domain: thehill.com
   image: ""
-- curated_id: 86a0c0a786c399530133978d90bb61a2
-  item_date: "2017-02-24 00:00:00"
-  title: Judge Rejects Warrant Seeking To Force Everyone At A Searched Location To
-    Unlock Seized Electronic Devices
-  url: https://www.techdirt.com/articles/20170222/13234436769/judge-rejects-warrant-seeking-to-force-everyone-searched-location-to-unlock-seized-electronic-devices.shtml
+- curated_id: 32c8ec780eb26e03fc0af315887c5f30
+  item_date: "2017-02-23 00:00:00"
+  title: Sen. Wyden Wants Answers From New DHS Head, Introducing Legislation To Create
+    Warrant Requirement For Border Phone Searches
+  url: https://www.techdirt.com/articles/20170222/11492136768/sen-wyden-wants-answers-new-dhs-head-introducing-legislation-to-create-warrant-requirement-border-phone-searches.shtml
   domain: www.techdirt.com
+  image: ""
+- curated_id: 1322518a1e8aa425e72cc264f6efe091
+  item_date: "2017-02-23 00:00:00"
+  title: Protect Biometric Privacy in Montana
+  url: https://www.eff.org/deeplinks/2017/02/protect-biometric-privacy-montana
+  domain: www.eff.org
+  image: ""
+- curated_id: 022204dc2b313a475049fb87d9a03f12
+  item_date: "2017-02-23 00:00:00"
+  title: "Politwoops adds realtime stats for politicians\u2019 deleted tweets across
+    54 countries"
+  url: https://techcrunch.com/2017/02/23/politwoops-adds-realtime-stats-for-politicians-deleted-tweets-across-54-countries/
+  domain: techcrunch.com
   image: ""
 - curated_id: ae6f0397dd1df55a3544d7fb5e12bb4b
   item_date: "2017-02-24 00:00:00"
@@ -3241,11 +3228,31 @@
   url: http://boingboing.net/2017/02/24/papers-please.html
   domain: boingboing.net
   image: ""
+- curated_id: 86a0c0a786c399530133978d90bb61a2
+  item_date: "2017-02-24 00:00:00"
+  title: Judge Rejects Warrant Seeking To Force Everyone At A Searched Location To
+    Unlock Seized Electronic Devices
+  url: https://www.techdirt.com/articles/20170222/13234436769/judge-rejects-warrant-seeking-to-force-everyone-searched-location-to-unlock-seized-electronic-devices.shtml
+  domain: www.techdirt.com
+  image: ""
+- curated_id: 78a4be9a870ee27072b7dc33b42f1373
+  item_date: "2017-02-24 00:00:00"
+  title: Using Cloud to Avoid Traffic
+  url: https://www.eagleeyenetworks.com/using-cloud-avoid-traffic/
+  domain: www.eagleeyenetworks.com
+  image: ""
 - curated_id: 3263828c40235c4b78a8ad9965e73387
   item_date: "2017-02-25 09:39:55"
   title: "How Peter Thiel\u2019s Palantir Helped the NSA Spy on the Whole World"
   url: https://theintercept.com/2017/02/22/how-peter-thiels-palantir-helped-the-nsa-spy-on-the-whole-world/
   domain: theintercept.com
+  image: ""
+- curated_id: c058de65d883a78ed144982a119a3f2a
+  item_date: "2017-02-28 00:00:00"
+  title: How This Internet of Things Stuffed Animal Can Be Remotely Turned Into a
+    Spy Device
+  url: https://motherboard.vice.com/en_us/article/how-this-internet-of-things-teddy-bear-can-be-remotely-turned-into-a-spy-device
+  domain: motherboard.vice.com
   image: ""
 - curated_id: ccb213a1cf4c70e208702109d113fdec
   item_date: "2017-02-28 00:00:00"
@@ -3254,12 +3261,18 @@
     http://thehill.com/policy/cybersecurity/321665-dni-confirmation-offers-preview-of-surveillance-debate
   domain: thehill.com
   image: ""
-- curated_id: c058de65d883a78ed144982a119a3f2a
-  item_date: "2017-02-28 00:00:00"
-  title: How This Internet of Things Stuffed Animal Can Be Remotely Turned Into a
-    Spy Device
-  url: https://motherboard.vice.com/en_us/article/how-this-internet-of-things-teddy-bear-can-be-remotely-turned-into-a-spy-device
-  domain: motherboard.vice.com
+- curated_id: affe913aefac15938a35b565cdeae3b8
+  item_date: "2017-03-01 00:00:00"
+  title: "An Illinois Court Just Didn\u2019t Get It: We Are Entitled to Expect Privacy
+    In Our Smart Meter Data, Which Reveals What\u2019s Going On Inside Our Homes"
+  url: https://www.eff.org/deeplinks/2017/03/illinois-court-just-didnt-get-it-we-are-entitled-expect-privacy-our-smart
+  domain: www.eff.org
+  image: ""
+- curated_id: b456df739b1e3cb6d757a667ba87e7b6
+  item_date: "2017-03-01 00:00:00"
+  title: Device detection for Logstash !
+  url: https://www.handsetdetection.com/blog/device-detection-for-logstash
+  domain: www.handsetdetection.com
   image: ""
 - curated_id: b3f72182de8d0cb7c7e44b21a7e27306
   item_date: "2017-03-01 00:00:00"
@@ -3269,18 +3282,11 @@
     http://thehill.com/policy/cybersecurity/321889-house-judiciary-signals-reauthorization-of-nsa-surveillance-powers-with
   domain: thehill.com
   image: ""
-- curated_id: b456df739b1e3cb6d757a667ba87e7b6
-  item_date: "2017-03-01 00:00:00"
-  title: Device detection for Logstash !
-  url: https://www.handsetdetection.com/blog/device-detection-for-logstash
-  domain: www.handsetdetection.com
-  image: ""
-- curated_id: affe913aefac15938a35b565cdeae3b8
-  item_date: "2017-03-01 00:00:00"
-  title: "An Illinois Court Just Didn\u2019t Get It: We Are Entitled to Expect Privacy
-    In Our Smart Meter Data, Which Reveals What\u2019s Going On Inside Our Homes"
-  url: https://www.eff.org/deeplinks/2017/03/illinois-court-just-didnt-get-it-we-are-entitled-expect-privacy-our-smart
-  domain: www.eff.org
+- curated_id: b3ce1c069b56bc0b1715c3c4a078c02b
+  item_date: "2017-03-02 00:00:00"
+  title: A WiFi camera that makes home and office security a bargain
+  url: http://boingboing.net/2017/03/02/a-wifi-camera-that-makes-home.html
+  domain: boingboing.net
   image: ""
 - curated_id: 7517ada8ae522fb30d8a7495a0f80524
   item_date: "2017-03-02 00:00:00"
@@ -3288,30 +3294,11 @@
   url: http://blog.quantum.com/biometric-security-and-surveillance-more-than-the-subject-of-science-fiction/
   domain: blog.quantum.com
   image: ""
-- curated_id: b3ce1c069b56bc0b1715c3c4a078c02b
-  item_date: "2017-03-02 00:00:00"
-  title: A WiFi camera that makes home and office security a bargain
-  url: http://boingboing.net/2017/03/02/a-wifi-camera-that-makes-home.html
-  domain: boingboing.net
-  image: ""
 - curated_id: 5b65abd4c4839b0bebdab9f1f7cd9756
   item_date: "2017-03-02 11:00:52"
   title: "Palantir Provides the Engine for Donald Trump\u2019s Deportation Machine"
   url: https://theintercept.com/2017/03/02/palantir-provides-the-engine-for-donald-trumps-deportation-machine/
   domain: theintercept.com
-  image: ""
-- curated_id: 4f346a9ca41a25d25a698896d0f84c41
-  item_date: "2017-03-03 00:00:00"
-  title: UK Bill Would Force Service Providers To Set Up Fake Cell Towers For Surveillance
-    Of Prisoners Communications
-  url: https://www.techdirt.com/articles/20170227/10171736797/uk-bill-would-force-service-providers-to-set-up-fake-cell-towers-surveillance-prisoners-communications.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: 607a921faf134cc2f9b39bfd33a8a7f0
-  item_date: "2017-03-03 00:00:00"
-  title: Even Googles latest budget phone has a fingerprint sensor
-  url: http://www.theverge.com/circuitbreaker/2017/3/3/14800660/android-one-general-mobile-gm6-fingerprint-sensor
-  domain: www.theverge.com
   image: ""
 - curated_id: fc6ead73b1b626c8d7b78fcfe5f7e1f4
   item_date: "2017-03-03 00:00:00"
@@ -3320,11 +3307,18 @@
   url: https://www.techdirt.com/articles/20170302/06563736823/eff-data-collected-utility-smart-meters-should-be-protected-fourth-amendment.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: 29bbf9f45311b1521a6c054fd7c28024
-  item_date: "2017-03-06 00:00:00"
-  title: Uber Uses Ubiquitous Surveillance to Identify and Block Regulators
-  url: https://www.schneier.com/blog/archives/2017/03/uber_uses_ubiqu.html
-  domain: www.schneier.com
+- curated_id: 607a921faf134cc2f9b39bfd33a8a7f0
+  item_date: "2017-03-03 00:00:00"
+  title: Even Googles latest budget phone has a fingerprint sensor
+  url: http://www.theverge.com/circuitbreaker/2017/3/3/14800660/android-one-general-mobile-gm6-fingerprint-sensor
+  domain: www.theverge.com
+  image: ""
+- curated_id: 4f346a9ca41a25d25a698896d0f84c41
+  item_date: "2017-03-03 00:00:00"
+  title: UK Bill Would Force Service Providers To Set Up Fake Cell Towers For Surveillance
+    Of Prisoners Communications
+  url: https://www.techdirt.com/articles/20170227/10171736797/uk-bill-would-force-service-providers-to-set-up-fake-cell-towers-surveillance-prisoners-communications.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: 46f01ae9ab4dddb40b03a1a8c9a5ec9f
   item_date: "2017-03-06 00:00:00"
@@ -3332,6 +3326,12 @@
     the Constitution'
   url: https://www.eff.org/deeplinks/2017/03/eff-court-forcing-someone-unlock-and-decrypt-their-phone-violates-constitution
   domain: www.eff.org
+  image: ""
+- curated_id: 29bbf9f45311b1521a6c054fd7c28024
+  item_date: "2017-03-06 00:00:00"
+  title: Uber Uses Ubiquitous Surveillance to Identify and Block Regulators
+  url: https://www.schneier.com/blog/archives/2017/03/uber_uses_ubiqu.html
+  domain: www.schneier.com
   image: ""
 - curated_id: 8ef5b860afb1d634fbab3c07ea5757ce
   item_date: "2017-03-07 00:00:00"
@@ -3346,12 +3346,6 @@
     http://thehill.com/policy/cybersecurity/323131-aclu-challenges-police-effort-to-search-facebook-page-of-dakota-access
   domain: thehill.com
   image: ""
-- curated_id: 74e14ae3958e56931c7bf36a07c2856c
-  item_date: "2017-03-10 00:00:00"
-  title: The smart button controlled by your fingerprints
-  url: http://www.bbc.co.uk/news/technology-39229217
-  domain: www.bbc.co.uk
-  image: ""
 - curated_id: 34a5590b19535c2d74ee76706f1657a3
   item_date: "2017-03-10 00:00:00"
   title: Republicans Are Dismantling the Law That Protects Your DNA From Your Boss
@@ -3365,12 +3359,43 @@
   url: https://www.techdirt.com/articles/20170303/12152936833/new-accountability-add-on-triggers-cameras-when-police-officers-unholster-their-guns.shtml
   domain: www.techdirt.com
   image: ""
+- curated_id: 74e14ae3958e56931c7bf36a07c2856c
+  item_date: "2017-03-10 00:00:00"
+  title: The smart button controlled by your fingerprints
+  url: http://www.bbc.co.uk/news/technology-39229217
+  domain: www.bbc.co.uk
+  image: ""
 - curated_id: f3369137889f1171b80d24786b112f48
   item_date: "2017-03-11 00:00:00"
   title: Uber-driving lawyer explains to cop why he doesnt have to stop video recording
     him
   url: http://boingboing.net/2017/03/11/you-goin-need-a-warrant-for-th.html
   domain: boingboing.net
+  image: ""
+- curated_id: 2855c3ab4d98963156af94ef5a697165
+  item_date: "2017-03-13 00:00:00"
+  title: Eagle Eye Networks, Inc. Releases Verizon MiFi Cellular Modem Integration
+  url: https://www.eagleeyenetworks.com/eagle-eye-networks-inc-releases-verizon-mifi-cellular-modem-integration/
+  domain: www.eagleeyenetworks.com
+  image: ""
+- curated_id: 35651a7420b6e515fe60e1cd0ed156a4
+  item_date: "2017-03-13 00:00:00"
+  title: "Facebook says its data shouldn\u2019t be used for surveillance"
+  url: http://www.siliconbeat.com/2017/03/13/facebook-says-its-data-shouldnt-be-used-for-surveillance/
+  domain: www.siliconbeat.com
+  image: ""
+- curated_id: ab6f473dc1c202f32d8bf3796784d481
+  item_date: "2017-03-13 00:00:00"
+  title: "Facebook warns developers against using data for \u2018surveillance\u2019"
+  url: |
+    http://thehill.com/policy/cybersecurity/323712-facebook-warns-developers-against-using-data-for-surveillance
+  domain: thehill.com
+  image: ""
+- curated_id: 34e04e72a53dba0e7f1250ec363ed820
+  item_date: "2017-03-13 00:00:00"
+  title: FBIs Exploit Against Tor
+  url: https://www.schneier.com/blog/archives/2017/03/fbis_exploit_ag.html
+  domain: www.schneier.com
   image: ""
 - curated_id: 6427f53759fcc97bbecebc8773c5fdcc
   item_date: "2017-03-13 00:00:00"
@@ -3390,37 +3415,30 @@
   url: http://www.theverge.com/2017/3/13/14909248/facebook-platform-surveillance-policy-developers-data
   domain: www.theverge.com
   image: ""
-- curated_id: 34e04e72a53dba0e7f1250ec363ed820
-  item_date: "2017-03-13 00:00:00"
-  title: FBIs Exploit Against Tor
-  url: https://www.schneier.com/blog/archives/2017/03/fbis_exploit_ag.html
-  domain: www.schneier.com
+- curated_id: 1981c455f3b9ad0226fe410a24bf1faf
+  item_date: "2017-03-14 00:00:00"
+  title: Facebook bans creation of spying tools through data slurping
+  url: http://www.zdnet.com/article/facebook-bows-to-pressure-bans-data-slurping-from-spy-agencies/
+  domain: www.zdnet.com
   image: ""
-- curated_id: 35651a7420b6e515fe60e1cd0ed156a4
-  item_date: "2017-03-13 00:00:00"
-  title: "Facebook says its data shouldn\u2019t be used for surveillance"
-  url: http://www.siliconbeat.com/2017/03/13/facebook-says-its-data-shouldnt-be-used-for-surveillance/
-  domain: www.siliconbeat.com
+- curated_id: 1c2f92c192a4c2349601aea0252ae779
+  item_date: "2017-03-14 00:00:00"
+  title: Facebook and Instagram ban developers from using data for surveillance
+  url: http://www.itsecurityguru.org/2017/03/14/facebook-instagram-ban-developers-using-data-surveillance/
+  domain: www.itsecurityguru.org
   image: ""
-- curated_id: 2855c3ab4d98963156af94ef5a697165
-  item_date: "2017-03-13 00:00:00"
-  title: Eagle Eye Networks, Inc. Releases Verizon MiFi Cellular Modem Integration
-  url: https://www.eagleeyenetworks.com/eagle-eye-networks-inc-releases-verizon-mifi-cellular-modem-integration/
+- curated_id: b6787629a3fbf02e4e945f6eab8d254c
+  item_date: "2017-03-14 00:00:00"
+  title: Eagle Eye Networks and Hikvision Announce Preferred Technology Partnership
+    and Deep Product Integration
+  url: https://www.eagleeyenetworks.com/eagle-eye-networks-hikvision-announce-preferred-technology-partnership-deep-product-integration/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: ab6f473dc1c202f32d8bf3796784d481
-  item_date: "2017-03-13 00:00:00"
-  title: "Facebook warns developers against using data for \u2018surveillance\u2019"
-  url: |
-    http://thehill.com/policy/cybersecurity/323712-facebook-warns-developers-against-using-data-for-surveillance
-  domain: thehill.com
-  image: ""
-- curated_id: f48615798ced1ad0dd8f357e03084b06
+- curated_id: 125a6b3c8f1bc7bca4120f06579e54ed
   item_date: "2017-03-14 00:00:00"
-  title: Trump And Congress Complain About Surveillance, But Want to Enable Spying
-    By Internet Companies
-  url: https://www.aclu.org/blog/free-future/trump-and-congress-complain-about-surveillance-want-enable-spying-internet
-  domain: www.aclu.org
+  title: Facebook data off-limits for spy tools
+  url: http://cyberlaw.stanford.edu/press/facebook-data-limits-spy-tools
+  domain: cyberlaw.stanford.edu
   image: ""
 - curated_id: 89e6cec22eba60326e307e53c402dcab
   item_date: "2017-03-14 00:00:00"
@@ -3440,30 +3458,12 @@
   url: https://www.eagleeyenetworks.com/verizon-mifi-cellular-modem-integration/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: 125a6b3c8f1bc7bca4120f06579e54ed
+- curated_id: f48615798ced1ad0dd8f357e03084b06
   item_date: "2017-03-14 00:00:00"
-  title: Facebook data off-limits for spy tools
-  url: http://cyberlaw.stanford.edu/press/facebook-data-limits-spy-tools
-  domain: cyberlaw.stanford.edu
-  image: ""
-- curated_id: b6787629a3fbf02e4e945f6eab8d254c
-  item_date: "2017-03-14 00:00:00"
-  title: Eagle Eye Networks and Hikvision Announce Preferred Technology Partnership
-    and Deep Product Integration
-  url: https://www.eagleeyenetworks.com/eagle-eye-networks-hikvision-announce-preferred-technology-partnership-deep-product-integration/
-  domain: www.eagleeyenetworks.com
-  image: ""
-- curated_id: 1981c455f3b9ad0226fe410a24bf1faf
-  item_date: "2017-03-14 00:00:00"
-  title: Facebook bans creation of spying tools through data slurping
-  url: http://www.zdnet.com/article/facebook-bows-to-pressure-bans-data-slurping-from-spy-agencies/
-  domain: www.zdnet.com
-  image: ""
-- curated_id: 1c2f92c192a4c2349601aea0252ae779
-  item_date: "2017-03-14 00:00:00"
-  title: Facebook and Instagram ban developers from using data for surveillance
-  url: http://www.itsecurityguru.org/2017/03/14/facebook-instagram-ban-developers-using-data-surveillance/
-  domain: www.itsecurityguru.org
+  title: Trump And Congress Complain About Surveillance, But Want to Enable Spying
+    By Internet Companies
+  url: https://www.aclu.org/blog/free-future/trump-and-congress-complain-about-surveillance-want-enable-spying-internet
+  domain: www.aclu.org
   image: ""
 - curated_id: 90234a4bcbb7b8fd45d24c4696611910
   item_date: "2017-03-15 00:00:00"
@@ -3471,11 +3471,11 @@
   url: http://www.pewresearch.org/fact-tank/2017/03/15/many-smartphone-owners-dont-take-steps-to-secure-their-devices/
   domain: www.pewresearch.org
   image: ""
-- curated_id: c9425852d9df47b43d3a7ceb497826cd
+- curated_id: d1998b7b0892fa62d061e776880177b3
   item_date: "2017-03-16 00:00:00"
-  title: Canadas Privacy Watchdog Lacks the Teeth to Curb Phone Searches at the Border
-  url: https://motherboard.vice.com/en_us/article/canadas-privacy-watchdog-lacks-the-teeth-to-curb-phone-searches-at-the-border
-  domain: motherboard.vice.com
+  title: How to Increase Your Conversion Rate by Identifying Anonymous Web Traffic
+  url: http://blog.clearbit.com/how-to-increase-your-conversion-rate-by-identifying-anonymous-web-traffic/
+  domain: blog.clearbit.com
   image: ""
 - curated_id: a5bc1f4331940dcc56fbadd816bd9584
   item_date: "2017-03-16 00:00:00"
@@ -3484,23 +3484,23 @@
   url: https://www.techdirt.com/articles/20170315/18000836927/once-again-senator-wyden-wants-to-know-how-many-americans-are-being-surveilled-nsa.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: d1998b7b0892fa62d061e776880177b3
+- curated_id: c9425852d9df47b43d3a7ceb497826cd
   item_date: "2017-03-16 00:00:00"
-  title: How to Increase Your Conversion Rate by Identifying Anonymous Web Traffic
-  url: http://blog.clearbit.com/how-to-increase-your-conversion-rate-by-identifying-anonymous-web-traffic/
-  domain: blog.clearbit.com
-  image: ""
-- curated_id: a00c793e8810c04d01781edeb54c1c5a
-  item_date: "2017-03-17 00:00:00"
-  title: "Google won\u2019t be able to resist listening in on your conversations"
-  url: https://medium.com/m/global-identity
-  domain: medium.com
+  title: Canadas Privacy Watchdog Lacks the Teeth to Curb Phone Searches at the Border
+  url: https://motherboard.vice.com/en_us/article/canadas-privacy-watchdog-lacks-the-teeth-to-curb-phone-searches-at-the-border
+  domain: motherboard.vice.com
   image: ""
 - curated_id: 9700334feb9106c88e3a334c7d96b19b
   item_date: "2017-03-17 00:00:00"
   title: Analyzing Identity in Movies
   url: https://auth0.com/blog/analyzing-identity-in-movies/
   domain: auth0.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2017-03-17 00:00:00"
+  title: "Google won\u2019t be able to resist listening in on your conversations"
+  url: https://medium.com/m/global-identity
+  domain: medium.com
   image: ""
 - curated_id: 568587162d55ceb2df7cb84365d9e6d4
   item_date: "2017-03-21 00:00:00"
@@ -3534,6 +3534,12 @@
   url: https://www.techdirt.com/articles/20170402/09315737060/canadian-appeals-court-says-vice-media-must-turn-over-communications-with-source-to-law-enforcement.shtml
   domain: www.techdirt.com
   image: ""
+- curated_id: 16b33e1a98e1684c7377c4a2fc0216d3
+  item_date: "2017-04-04 00:00:00"
+  title: A real-life company is implanting microchips in employees
+  url: https://thenextweb.com/insider/2017/04/04/a-real-life-company-is-implanting-microchips-in-employees/
+  domain: thenextweb.com
+  image: ""
 - curated_id: 77ff76ec61bfa0cb11ccdf2576496f14
   item_date: "2017-04-04 00:00:00"
   title: Lawmakers introduce bill to end warrantless phone searches at border
@@ -3547,24 +3553,11 @@
   url: http://www.activecampaign.com/blog/personalizing-email-campaigns/
   domain: www.activecampaign.com
   image: ""
-- curated_id: 16b33e1a98e1684c7377c4a2fc0216d3
-  item_date: "2017-04-04 00:00:00"
-  title: A real-life company is implanting microchips in employees
-  url: https://thenextweb.com/insider/2017/04/04/a-real-life-company-is-implanting-microchips-in-employees/
-  domain: thenextweb.com
-  image: ""
 - curated_id: eb7f3ac4ac2ad37d281011d5f9381b4a
   item_date: "2017-04-04 13:15:56"
   title: New Bill Would Outlaw Warrantless Phone Searches At The Border
   url: https://www.buzzfeed.com/hamzashaban/new-bill-would-outlaw-warrantless-phone-searches-at-the#.tlkbE5LJ5
   domain: www.buzzfeed.com
-  image: ""
-- curated_id: 60e606ad5649ae1d825b765636bb5d14
-  item_date: "2017-04-05 00:00:00"
-  title: Intel Movidius Helps Bring Artificial Intelligence to Video Surveillance
-    Cameras
-  url: https://newsroom.intel.com/news/intel-movidius-helps-bring-artificial-intelligence-video-surveillance-cameras/
-  domain: newsroom.intel.com
   image: ""
 - curated_id: 780a125892024be28bde82247b765b0c
   item_date: "2017-04-05 00:00:00"
@@ -3572,17 +3565,12 @@
   url: https://motherboard.vice.com/en_us/article/activists-need-to-watch-out-for-fake-encryption-keys
   domain: motherboard.vice.com
   image: ""
-- curated_id: 7ab58eb00af7215830fc9659c6e3f0fb
-  item_date: "2017-04-06 00:00:00"
-  title: The Company Behind the Samsung Galaxy S8 Iris Scanner
-  url: http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/the-company-behind-the-samsung-galaxy-s8-iris-scanner
-  domain: spectrum.ieee.org
-  image: ""
-- curated_id: da0eb50e94c6a39b32b7672a8696e0e1
-  item_date: "2017-04-06 00:00:00"
-  title: Introducing Reveal for Dynamic Web Personalization
-  url: http://blog.clearbit.com/introducing-reveal-for-dynamic-web-personalization/
-  domain: blog.clearbit.com
+- curated_id: 60e606ad5649ae1d825b765636bb5d14
+  item_date: "2017-04-05 00:00:00"
+  title: Intel Movidius Helps Bring Artificial Intelligence to Video Surveillance
+    Cameras
+  url: https://newsroom.intel.com/news/intel-movidius-helps-bring-artificial-intelligence-video-surveillance-cameras/
+  domain: newsroom.intel.com
   image: ""
 - curated_id: 4b2d647e8dffff19391b6248d24b83d1
   item_date: "2017-04-06 00:00:00"
@@ -3597,6 +3585,18 @@
   url: https://www.eff.org/deeplinks/2017/04/four-flavors-automated-license-plate-reader-technology
   domain: www.eff.org
   image: ""
+- curated_id: da0eb50e94c6a39b32b7672a8696e0e1
+  item_date: "2017-04-06 00:00:00"
+  title: Introducing Reveal for Dynamic Web Personalization
+  url: http://blog.clearbit.com/introducing-reveal-for-dynamic-web-personalization/
+  domain: blog.clearbit.com
+  image: ""
+- curated_id: 7ab58eb00af7215830fc9659c6e3f0fb
+  item_date: "2017-04-06 00:00:00"
+  title: The Company Behind the Samsung Galaxy S8 Iris Scanner
+  url: http://spectrum.ieee.org/tech-talk/consumer-electronics/gadgets/the-company-behind-the-samsung-galaxy-s8-iris-scanner
+  domain: spectrum.ieee.org
+  image: ""
 - curated_id: 6e67202883712f87038a4a1583016b3c
   item_date: "2017-04-06 00:37:25"
   title: Microsoft tries to appease Windows 10 data collection critics
@@ -3609,11 +3609,10 @@
   url: https://www.eff.org/deeplinks/2017/04/border-search-bill-would-rein-cbp
   domain: www.eff.org
   image: ""
-- curated_id: 9f725eb64d5ad85b25446a8c5685b354
+- curated_id: 2b0a094d8222c99d949e46020db69252
   item_date: "2017-04-07 00:00:00"
-  title: Oh, Sure, Now Congress Is Serious About Asking NSA About Surveillance On
-    Americans
-  url: https://www.techdirt.com/articles/20170407/11143137108/sure-now-congress-is-serious-about-asking-nsa-about-surveillance-americans.shtml
+  title: 'Researcher: 90% Of Smart TVs Can Be Compromised Remotely'
+  url: https://www.techdirt.com/articles/20170329/14530537039/researcher-90-smart-tvs-can-be-compromised-remotely.shtml
   domain: www.techdirt.com
   image: ""
 - curated_id: 534be0e3b89ae12729de3ca96af189c0
@@ -3622,10 +3621,11 @@
   url: http://www.reuters.com/article/us-experian-fraud-idUSKBN1792XT
   domain: www.reuters.com
   image: ""
-- curated_id: 2b0a094d8222c99d949e46020db69252
+- curated_id: 9f725eb64d5ad85b25446a8c5685b354
   item_date: "2017-04-07 00:00:00"
-  title: 'Researcher: 90% Of Smart TVs Can Be Compromised Remotely'
-  url: https://www.techdirt.com/articles/20170329/14530537039/researcher-90-smart-tvs-can-be-compromised-remotely.shtml
+  title: Oh, Sure, Now Congress Is Serious About Asking NSA About Surveillance On
+    Americans
+  url: https://www.techdirt.com/articles/20170407/11143137108/sure-now-congress-is-serious-about-asking-nsa-about-surveillance-americans.shtml
   domain: www.techdirt.com
   image: ""
 - curated_id: 5c16ee051f98219abdae2fcdb61ede7e
@@ -3634,17 +3634,23 @@
   url: http://www.trendhunter.com/trends/wifi-security-camera
   domain: www.trendhunter.com
   image: ""
+- curated_id: 645e015d6a6cc202dfad157fe3a5ea69
+  item_date: "2017-04-08 00:00:00"
+  title: Taser Bets Big on the Surveillance State
+  url: https://www.wired.com/2017/04/weeks-security-news-taser-bets-big-surveillance-state/
+  domain: www.wired.com
+  image: ""
 - curated_id: 3e401e3fe19fdde5915d04089569d450
   item_date: "2017-04-08 00:00:00"
   title: Hospitals Are Prescribing Home Surveillance to Save Lives
   url: https://motherboard.vice.com/en_us/article/hospitals-are-prescribing-home-surveillance-to-save-lives-now
   domain: motherboard.vice.com
   image: ""
-- curated_id: 645e015d6a6cc202dfad157fe3a5ea69
-  item_date: "2017-04-08 00:00:00"
-  title: Taser Bets Big on the Surveillance State
-  url: https://www.wired.com/2017/04/weeks-security-news-taser-bets-big-surveillance-state/
-  domain: www.wired.com
+- curated_id: 9e1a4dfa1e36f48908b94eb1da9a1d8d
+  item_date: "2017-04-10 00:00:00"
+  title: Tiered Storage Enables More Sophisticated Surveillance
+  url: http://blog.quantum.com/tiered-storage-enables-more-sophisticated-surveillance/
+  domain: blog.quantum.com
   image: ""
 - curated_id: 44b9d879843771661c7b306fc11462ce
   item_date: "2017-04-10 00:00:00"
@@ -3653,17 +3659,11 @@
   url: https://www.techdirt.com/articles/20170406/10435737097/canadas-national-police-force-officially-confirms-ownership-use-stingray-devices.shtml
   domain: www.techdirt.com
   image: ""
-- curated_id: 9e1a4dfa1e36f48908b94eb1da9a1d8d
-  item_date: "2017-04-10 00:00:00"
-  title: Tiered Storage Enables More Sophisticated Surveillance
-  url: http://blog.quantum.com/tiered-storage-enables-more-sophisticated-surveillance/
-  domain: blog.quantum.com
-  image: ""
-- curated_id: dae8c8603ede2ff0ce7d328b134280b1
+- curated_id: 6a650afc946594608a4366d93371e61e
   item_date: "2017-04-11 00:00:00"
-  title: 'Salesforce Lite: a free Chrome Extension'
-  url: http://blog.clearbit.com/free-salesforce-chrome-extension/
-  domain: blog.clearbit.com
+  title: How the Denver Police Crack and Search Cell Phones
+  url: https://motherboard.vice.com/en_us/article/how-the-denver-police-crack-and-search-cell-phones
+  domain: motherboard.vice.com
   image: ""
 - curated_id: cc0c58bc25121b9de38ab1e70e461546
   item_date: "2017-04-11 00:00:00"
@@ -3671,17 +3671,11 @@
   url: http://www.futurity.org/fingerprint-phone-security-1398662/
   domain: www.futurity.org
   image: ""
-- curated_id: 6a650afc946594608a4366d93371e61e
+- curated_id: dae8c8603ede2ff0ce7d328b134280b1
   item_date: "2017-04-11 00:00:00"
-  title: How the Denver Police Crack and Search Cell Phones
-  url: https://motherboard.vice.com/en_us/article/how-the-denver-police-crack-and-search-cell-phones
-  domain: motherboard.vice.com
-  image: ""
-- curated_id: a5d24371c1e2a58b006e70080a38c4a3
-  item_date: "2017-04-12 00:00:00"
-  title: "TCP/IP headers leak info about what you\u2019re watching on Netflix"
-  url: http://www.itsecurityguru.org/2017/04/12/tcpip-headers-leak-info-youre-watching-netflix/
-  domain: www.itsecurityguru.org
+  title: 'Salesforce Lite: a free Chrome Extension'
+  url: http://blog.clearbit.com/free-salesforce-chrome-extension/
+  domain: blog.clearbit.com
   image: ""
 - curated_id: 9e06f910c89c98605748638da171cc70
   item_date: "2017-04-12 00:00:00"
@@ -3696,6 +3690,12 @@
   url: https://motherboard.vice.com/en_us/article/its-not-chill-at-all-that-canadian-police-misled-the-public-for-years-about-stingrays
   domain: motherboard.vice.com
   image: ""
+- curated_id: a5d24371c1e2a58b006e70080a38c4a3
+  item_date: "2017-04-12 00:00:00"
+  title: "TCP/IP headers leak info about what you\u2019re watching on Netflix"
+  url: http://www.itsecurityguru.org/2017/04/12/tcpip-headers-leak-info-youre-watching-netflix/
+  domain: www.itsecurityguru.org
+  image: ""
 - curated_id: a84c1b43b8b20ba95cb830370575dff7
   item_date: "2017-04-12 07:44:14"
   title: 'Tweet: #Denver police add facial recognition software and powerful cellphone
@@ -3703,11 +3703,12 @@
   url: https://twitter.com/MuckRock/statuses/852170501069975554
   domain: twitter.com
   image: ""
-- curated_id: 4ba6f80237817474fa19dfa963764b07
+- curated_id: 00811181333b25ea57edc24da090b54a
   item_date: "2017-04-13 00:00:00"
-  title: We know What Youre Watching (Even If Its Encrypted)
-  url: http://spectrum.ieee.org/tech-talk/telecom/security/we-know-what-youre-watching-even-if-its-encrypted
-  domain: spectrum.ieee.org
+  title: The company behind the Galaxy S8s iris recognition says its superior to the
+    FBIs fingerprint tech
+  url: http://www.businessinsider.com/samsung-galaxy-s8-iris-scanner-fbi-fingerprint-tech-princeton-identity-2017-4
+  domain: www.businessinsider.com
   image: ""
 - curated_id: 06cf082b5c6bbfbf7e84e2d9d3c18935
   item_date: "2017-04-13 00:00:00"
@@ -3716,12 +3717,11 @@
   url: http://www.reuters.com/article/us-microsoft-surveillance-idUSKBN17F2G7
   domain: www.reuters.com
   image: ""
-- curated_id: 00811181333b25ea57edc24da090b54a
+- curated_id: 4ba6f80237817474fa19dfa963764b07
   item_date: "2017-04-13 00:00:00"
-  title: The company behind the Galaxy S8s iris recognition says its superior to the
-    FBIs fingerprint tech
-  url: http://www.businessinsider.com/samsung-galaxy-s8-iris-scanner-fbi-fingerprint-tech-princeton-identity-2017-4
-  domain: www.businessinsider.com
+  title: We know What Youre Watching (Even If Its Encrypted)
+  url: http://spectrum.ieee.org/tech-talk/telecom/security/we-know-what-youre-watching-even-if-its-encrypted
+  domain: spectrum.ieee.org
   image: ""
 - curated_id: 90f2a8d543ef889a4d51f0c889a189bd
   item_date: "2017-04-14 00:00:00"
@@ -3735,17 +3735,17 @@
   url: https://www.schneier.com/blog/archives/2017/04/surveillance_an_2.html
   domain: www.schneier.com
   image: ""
-- curated_id: 67b5a70cbf369cbf4cd417c1bbab6b13
-  item_date: "2017-04-20 00:00:00"
-  title: Bose sued for logging listening habits
-  url: http://www.bbc.co.uk/news/technology-39654085
-  domain: www.bbc.co.uk
-  image: ""
 - curated_id: babd708732b254a62dadd70af31047a1
   item_date: "2017-04-20 00:00:00"
   title: 'Privacy wars, a twist: Bose sued for the headphones that listen'
   url: https://disruptiveviews.com/bose-sued-headphones-listen/
   domain: disruptiveviews.com
+  image: ""
+- curated_id: 67b5a70cbf369cbf4cd417c1bbab6b13
+  item_date: "2017-04-20 00:00:00"
+  title: Bose sued for logging listening habits
+  url: http://www.bbc.co.uk/news/technology-39654085
+  domain: www.bbc.co.uk
   image: ""
 - curated_id: 38c5d446b7c3568eb19d1616d462452f
   item_date: "2017-04-20 07:54:19"
@@ -3754,6 +3754,13 @@
   url: https://www.washingtonpost.com/news/the-switch/wp/2017/04/19/bose-headphones-have-been-spying-on-their-customers-lawsuit-claims/
   domain: www.washingtonpost.com
   image: ""
+- curated_id: 4cf4edfec74b583d1405e027763f04e7
+  item_date: "2017-04-21 00:00:00"
+  title: Bose says it will fight the inflammatory, misleading accusations claiming
+    it wiretaps its headphone users
+  url: http://www.businessinsider.com/bose-response-spying-headphone-users-app-2017-4
+  domain: www.businessinsider.com
+  image: ""
 - curated_id: 291f3644c51937786cddfc4884e5221b
   item_date: "2017-04-21 00:00:00"
   title: "In Time for the Reform Debate, New Documents Shed Light on the Government\u2019s
@@ -3761,12 +3768,11 @@
   url: https://www.aclu.org/blog/speak-freely/time-reform-debate-new-documents-shed-light-governments-surveillance-americans
   domain: www.aclu.org
   image: ""
-- curated_id: 4cf4edfec74b583d1405e027763f04e7
-  item_date: "2017-04-21 00:00:00"
-  title: Bose says it will fight the inflammatory, misleading accusations claiming
-    it wiretaps its headphone users
-  url: http://www.businessinsider.com/bose-response-spying-headphone-users-app-2017-4
-  domain: www.businessinsider.com
+- curated_id: e323dcc357ac576d766e4cc161a8294b
+  item_date: "2017-04-24 00:00:00"
+  title: Uber rejects claims iPhone app tracked users after being deleted
+  url: http://www.zdnet.com/article/uber-rejects-claims-app-tracked-users-after-being-deleted/
+  domain: www.zdnet.com
   image: ""
 - curated_id: 6dc61dcaef88c4a2cce2b7ed0136d334
   item_date: "2017-04-24 00:00:00"
@@ -3781,11 +3787,12 @@
   url: http://www.theverge.com/2017/4/24/15414006/uber-hell-tracking-software-lyft-drivers-class-action-lawsuit
   domain: www.theverge.com
   image: ""
-- curated_id: e323dcc357ac576d766e4cc161a8294b
-  item_date: "2017-04-24 00:00:00"
-  title: Uber rejects claims iPhone app tracked users after being deleted
-  url: http://www.zdnet.com/article/uber-rejects-claims-app-tracked-users-after-being-deleted/
-  domain: www.zdnet.com
+- curated_id: 927d88bae55e4b1f80ef4760d4777ff7
+  item_date: "2017-04-25 00:00:00"
+  title: That Story About Uber Tracking People After They Deleted The App? Yeah, Thats
+    Not Really Accurate
+  url: https://www.techdirt.com/articles/20170425/00084337228/that-story-about-uber-tracking-people-after-they-deleted-app-yeah-thats-not-really-accurate.shtml
+  domain: www.techdirt.com
   image: ""
 - curated_id: 4a510b637259e28752f76b5bdfcf6e5a
   item_date: "2017-04-25 00:00:00"
@@ -3800,32 +3807,6 @@
   url: https://www.eagleeyenetworks.com/eagle-eye-networks-announces-integration-swift-sensors-cloud-wireless-sensor-system/
   domain: www.eagleeyenetworks.com
   image: ""
-- curated_id: 927d88bae55e4b1f80ef4760d4777ff7
-  item_date: "2017-04-25 00:00:00"
-  title: That Story About Uber Tracking People After They Deleted The App? Yeah, Thats
-    Not Really Accurate
-  url: https://www.techdirt.com/articles/20170425/00084337228/that-story-about-uber-tracking-people-after-they-deleted-app-yeah-thats-not-really-accurate.shtml
-  domain: www.techdirt.com
-  image: ""
-- curated_id: 45ed70234c266f4442db9462d3b75e4a
-  item_date: "2017-04-26 00:00:00"
-  title: "Can Amazon\u2019s Echo Dot Make a Good SIDS Alarm?"
-  url: http://www.cringely.com/2017/04/26/15429/
-  domain: www.cringely.com
-  image: ""
-- curated_id: 5fefc7bd3eb6e6d68e03fa783a2a7bc0
-  item_date: "2017-04-26 00:00:00"
-  title: "Police catch murder suspect with help from victim\u2019s Fitbit data"
-  url: https://thenextweb.com/insider/2017/04/27/police-catch-murder-suspect-help-victims-fitbit-data/
-  domain: thenextweb.com
-  image: ""
-- curated_id: 61cb65ee312bab1b12d06e04e0cc260c
-  item_date: "2017-04-26 00:00:00"
-  title: "Facebook tracks scary-specific details about your life. Here\u2019s how
-    to find what it knows"
-  url: https://thenextweb.com/facebook/2017/04/26/ever-wonder-what-facebook-knows-about-you-heres-how-to-find-out/
-  domain: thenextweb.com
-  image: ""
 - curated_id: cfc88465ba488f93ecae329acf755a26
   item_date: "2017-04-26 00:00:00"
   title: 'Alexa Will See You Now: Why Echo Has A Camera'
@@ -3837,6 +3818,25 @@
   title: Amazons new Echo Look device wants to be your AI-powered stylist
   url: http://www.zdnet.com/article/amazons-new-echo-look-device-wants-to-be-your-ai-powered-stylist/
   domain: www.zdnet.com
+  image: ""
+- curated_id: 61cb65ee312bab1b12d06e04e0cc260c
+  item_date: "2017-04-26 00:00:00"
+  title: "Facebook tracks scary-specific details about your life. Here\u2019s how
+    to find what it knows"
+  url: https://thenextweb.com/facebook/2017/04/26/ever-wonder-what-facebook-knows-about-you-heres-how-to-find-out/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 5fefc7bd3eb6e6d68e03fa783a2a7bc0
+  item_date: "2017-04-26 00:00:00"
+  title: "Police catch murder suspect with help from victim\u2019s Fitbit data"
+  url: https://thenextweb.com/insider/2017/04/27/police-catch-murder-suspect-help-victims-fitbit-data/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 45ed70234c266f4442db9462d3b75e4a
+  item_date: "2017-04-26 00:00:00"
+  title: "Can Amazon\u2019s Echo Dot Make a Good SIDS Alarm?"
+  url: http://www.cringely.com/2017/04/26/15429/
+  domain: www.cringely.com
   image: ""
 - curated_id: b9d36f88c6428cfed34db5b7dce00b3b
   item_date: "2017-04-26 09:22:46"
@@ -3856,17 +3856,42 @@
   url: http://www.reuters.com/article/us-facebook-thailand-technology-idUSKBN17U0J6
   domain: www.reuters.com
   image: ""
+- curated_id: 710dae97e488e8cd21180fdad230769a
+  item_date: "2017-04-27 00:00:00"
+  title: Government Requests for Facebook Data Still Rising
+  url: http://www.pcmag.com/news/353361/government-requests-for-facebook-data-still-rising
+  domain: www.pcmag.com
+  image: ""
 - curated_id: 61c76428e04aa1b198290b8f023c275f
   item_date: "2017-04-27 00:00:00"
   title: Police to use facial recognition at Champions League final
   url: http://www.bbc.co.uk/news/technology-39735637
   domain: www.bbc.co.uk
   image: ""
-- curated_id: 710dae97e488e8cd21180fdad230769a
-  item_date: "2017-04-27 00:00:00"
-  title: Government Requests for Facebook Data Still Rising
-  url: http://www.pcmag.com/news/353361/government-requests-for-facebook-data-still-rising
+- curated_id: 461f11b2d9780b0d87a1f42a1e02e51e
+  item_date: "2017-04-28 00:00:00"
+  title: "The End of the NSAs \u2018About\u2019 Searches Is Just the Beginning"
+  url: https://www.eff.org/deeplinks/2017/04/end-nsas-about-searches-just-beginning
+  domain: www.eff.org
+  image: ""
+- curated_id: 01e73cfbb0410a7085729b4365750c5d
+  item_date: "2017-04-28 00:00:00"
+  title: Amazon Look Is a Camera That Picks Your Outfit
+  url: http://www.pcmag.com/news/353322/amazon-look-is-a-camera-that-picks-your-outfit
   domain: www.pcmag.com
+  image: ""
+- curated_id: 5aa4b034c8d322e7874f945b8fdd3ee6
+  item_date: "2017-04-28 00:00:00"
+  title: Former NSA director explains why the spy agency will end a controversial
+    surveillance technique
+  url: https://techcrunch.com/2017/04/28/general-michael-hayden-interview-nsa-about-collection/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 77e33a6041db3bcb117a368b713fa179
+  item_date: "2017-04-28 00:00:00"
+  title: Someone scraped 40,000 Tinder selfies to make a facial dataset for AI experiments
+  url: https://techcrunch.com/2017/04/28/someone-scraped-40000-tinder-selfies-to-make-a-facial-dataset-for-ai-experiments/
+  domain: techcrunch.com
   image: ""
 - curated_id: e188b3a6f272b7dd4b10843ecc231a6f
   item_date: "2017-04-28 00:00:00"
@@ -3881,6 +3906,13 @@
   url: https://www.aclu.org/blog/speak-freely/nsa-says-it-ending-one-its-most-controversial-spying-practices-it-could-be
   domain: www.aclu.org
   image: ""
+- curated_id: 18430537d9689f3f565eaf445538a962
+  item_date: "2017-04-28 00:00:00"
+  title: 'Uber and Lyft, watch out: SFO airport wants to use license-plate scanners
+    to keep self-driving cars off its roads'
+  url: http://www.siliconbeat.com/2017/04/28/uber-lyft-watch-sfo-airport-wants-use-license-plate-scanners-keep-self-driving-cars-off-roads/
+  domain: www.siliconbeat.com
+  image: ""
 - curated_id: 78d6a66e3de86bf023e6c42cd4eb435b
   item_date: "2017-04-28 00:00:00"
   title: City of Portland may subpoena Uber for details on Greyball program
@@ -3892,38 +3924,6 @@
   title: 'NSA Halts Some of Its Email Surveillance '
   url: http://www.pcmag.com/news/353396/nsa-halts-some-of-its-email-surveillance
   domain: www.pcmag.com
-  image: ""
-- curated_id: 18430537d9689f3f565eaf445538a962
-  item_date: "2017-04-28 00:00:00"
-  title: 'Uber and Lyft, watch out: SFO airport wants to use license-plate scanners
-    to keep self-driving cars off its roads'
-  url: http://www.siliconbeat.com/2017/04/28/uber-lyft-watch-sfo-airport-wants-use-license-plate-scanners-keep-self-driving-cars-off-roads/
-  domain: www.siliconbeat.com
-  image: ""
-- curated_id: 5aa4b034c8d322e7874f945b8fdd3ee6
-  item_date: "2017-04-28 00:00:00"
-  title: Former NSA director explains why the spy agency will end a controversial
-    surveillance technique
-  url: https://techcrunch.com/2017/04/28/general-michael-hayden-interview-nsa-about-collection/
-  domain: techcrunch.com
-  image: ""
-- curated_id: 461f11b2d9780b0d87a1f42a1e02e51e
-  item_date: "2017-04-28 00:00:00"
-  title: "The End of the NSAs \u2018About\u2019 Searches Is Just the Beginning"
-  url: https://www.eff.org/deeplinks/2017/04/end-nsas-about-searches-just-beginning
-  domain: www.eff.org
-  image: ""
-- curated_id: 01e73cfbb0410a7085729b4365750c5d
-  item_date: "2017-04-28 00:00:00"
-  title: Amazon Look Is a Camera That Picks Your Outfit
-  url: http://www.pcmag.com/news/353322/amazon-look-is-a-camera-that-picks-your-outfit
-  domain: www.pcmag.com
-  image: ""
-- curated_id: 77e33a6041db3bcb117a368b713fa179
-  item_date: "2017-04-28 00:00:00"
-  title: Someone scraped 40,000 Tinder selfies to make a facial dataset for AI experiments
-  url: https://techcrunch.com/2017/04/28/someone-scraped-40000-tinder-selfies-to-make-a-facial-dataset-for-ai-experiments/
-  domain: techcrunch.com
   image: ""
 - curated_id: 803a0a33965d49c593f9d73b0026b7d7
   item_date: "2017-04-29 00:00:00"
@@ -3944,17 +3944,17 @@
   url: http://bostoncommons.net/command-and-control-policy-definition/
   domain: bostoncommons.net
   image: ""
-- curated_id: 82bc184dbf72abb1bd45329e6b500216
-  item_date: "2017-05-01 00:00:00"
-  title: "What Don\u2019t You Want the NSA to Know About You?"
-  url: https://www.eff.org/deeplinks/2017/05/what-dont-you-want-nsa-know-about-you
-  domain: www.eff.org
-  image: ""
 - curated_id: afa018d29e59435722fe86ae23ade03d
   item_date: "2017-05-01 00:00:00"
   title: "Facebook research targeting \u2018insecure\u2019 teens sparks privacy concerns"
   url: http://www.siliconbeat.com/2017/05/01/facebook-research-targeting-insecure-teens-sparks-privacy-concerns/
   domain: www.siliconbeat.com
+  image: ""
+- curated_id: 82bc184dbf72abb1bd45329e6b500216
+  item_date: "2017-05-01 00:00:00"
+  title: "What Don\u2019t You Want the NSA to Know About You?"
+  url: https://www.eff.org/deeplinks/2017/05/what-dont-you-want-nsa-know-about-you
+  domain: www.eff.org
   image: ""
 - curated_id: 24b58d655aa4a98511797a877fcb6c22
   item_date: "2017-05-02 00:00:00"
@@ -3968,29 +3968,11 @@
   url: https://www.theverge.com/2017/5/4/15551492/aclu-us-customs-and-border-patrol-aaron-gach-phone-search
   domain: www.theverge.com
   image: ""
-- curated_id: 7cdfba49da573ef845604907f2f0e9bd
-  item_date: "2017-05-05 00:00:00"
-  title: Leaked Document Reveals UK Plans For Wider Internet Surveillance
-  url: http://www.itsecurityguru.org/2017/05/05/leaked-document-reveals-uk-plans-wider-internet-surveillance/
-  domain: www.itsecurityguru.org
-  image: ""
-- curated_id: 5ae9f6950fe340d2b4b204ca69e6da71
-  item_date: "2017-05-05 00:00:00"
-  title: UK surveillance law still fuzzy on decryption rules for comms providers
-  url: https://techcrunch.com/2017/05/05/uk-surveillance-law-still-fuzzy-on-decryption-rules-for-comms-providers/
-  domain: techcrunch.com
-  image: ""
 - curated_id: cff712365497affa16a4c028e5b5249a
   item_date: "2017-05-05 00:00:00"
   title: 'EFF, Sen. Anderson Sponsor California License Plate Privacy Legislation '
   url: https://www.eff.org/press/releases/eff-sen-anderson-sponsor-california-license-plate-privacy-legislation
   domain: www.eff.org
-  image: ""
-- curated_id: a536a69d4a47caac3f6709b74b03a3c1
-  item_date: "2017-05-05 00:00:00"
-  title: 'Lawyers: How can we scrutinize surveillance records that remain sealed?'
-  url: http://cyberlaw.stanford.edu/press/lawyers-how-can-we-scrutinize-surveillance-records-remain-sealed
-  domain: cyberlaw.stanford.edu
   image: ""
 - curated_id: 26ee9d7c19faacb0e0f0b2e3769ced66
   item_date: "2017-05-05 00:00:00"
@@ -3998,17 +3980,29 @@
   url: http://www.bbc.co.uk/news/technology-39817300
   domain: www.bbc.co.uk
   image: ""
+- curated_id: a536a69d4a47caac3f6709b74b03a3c1
+  item_date: "2017-05-05 00:00:00"
+  title: 'Lawyers: How can we scrutinize surveillance records that remain sealed?'
+  url: http://cyberlaw.stanford.edu/press/lawyers-how-can-we-scrutinize-surveillance-records-remain-sealed
+  domain: cyberlaw.stanford.edu
+  image: ""
+- curated_id: 5ae9f6950fe340d2b4b204ca69e6da71
+  item_date: "2017-05-05 00:00:00"
+  title: UK surveillance law still fuzzy on decryption rules for comms providers
+  url: https://techcrunch.com/2017/05/05/uk-surveillance-law-still-fuzzy-on-decryption-rules-for-comms-providers/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 7cdfba49da573ef845604907f2f0e9bd
+  item_date: "2017-05-05 00:00:00"
+  title: Leaked Document Reveals UK Plans For Wider Internet Surveillance
+  url: http://www.itsecurityguru.org/2017/05/05/leaked-document-reveals-uk-plans-wider-internet-surveillance/
+  domain: www.itsecurityguru.org
+  image: ""
 - curated_id: c3b83cbf823e3ce15ca7697a551fc525
   item_date: "2017-05-06 00:00:00"
   title: Community Control of Police Spy Tech in Oakland
   url: https://www.eff.org/deeplinks/2017/05/community-control-police-spy-tech-oakland
   domain: www.eff.org
-  image: ""
-- curated_id: 4c2728ffd9d93fda9d61b8d5240bbcfd
-  item_date: "2017-05-08 00:00:00"
-  title: Eagle Eye History Browser
-  url: https://www.eagleeyenetworks.com/eagle-eye-history-browser/
-  domain: www.eagleeyenetworks.com
   image: ""
 - curated_id: e84fc541683761568f28e53cd4b2ae05
   item_date: "2017-05-08 00:00:00"
@@ -4016,25 +4010,18 @@
   url: http://www.zdnet.com/article/nyc-adopts-streetsmart-to-track-the-homeless/
   domain: www.zdnet.com
   image: ""
+- curated_id: 4c2728ffd9d93fda9d61b8d5240bbcfd
+  item_date: "2017-05-08 00:00:00"
+  title: Eagle Eye History Browser
+  url: https://www.eagleeyenetworks.com/eagle-eye-history-browser/
+  domain: www.eagleeyenetworks.com
+  image: ""
 - curated_id: ebe42a7fa3671443d9a8a6211032435b
   item_date: "2017-05-09 14:30:21"
   title: 'Tweet: Intel#039;s Management Engine is a secret DRM chip in your CPU. It
     has security vulns, but no off switch. https://t.co/IDGdpDTY5n'
   url: https://twitter.com/EFF/statuses/862057177262850048
   domain: twitter.com
-  image: ""
-- curated_id: cd2c30d9c632fb953a55cf3b33025b84
-  item_date: "2017-05-11 00:00:00"
-  title: Keylogger Discovered in Some HP Laptops
-  url: http://www.darkreading.com/vulnerabilities---threats/keylogger-discovered-in-some-hp-laptops/d/d-id/1328857
-  domain: www.darkreading.com
-  image: ""
-- curated_id: 680f4c1ae1cc978f4a6f5de618e9af34
-  item_date: "2017-05-11 00:00:00"
-  title: This Is the Secret Court Order That Forced the NSA to Delete the Data It
-    Collected About You
-  url: https://motherboard.vice.com/en_us/article/this-is-the-secret-court-order-that-forced-the-nsa-to-delete-the-data-it-collected-about-you
-  domain: motherboard.vice.com
   image: ""
 - curated_id: 043d88563d732996699ad423eaff7cd3
   item_date: "2017-05-11 00:00:00"
@@ -4048,6 +4035,19 @@
     Public Process for Surveillance Tech
   url: https://www.eff.org/deeplinks/2017/05/oakland-city-council-committee-advances-measure-require-transparency-and-public
   domain: www.eff.org
+  image: ""
+- curated_id: 680f4c1ae1cc978f4a6f5de618e9af34
+  item_date: "2017-05-11 00:00:00"
+  title: This Is the Secret Court Order That Forced the NSA to Delete the Data It
+    Collected About You
+  url: https://motherboard.vice.com/en_us/article/this-is-the-secret-court-order-that-forced-the-nsa-to-delete-the-data-it-collected-about-you
+  domain: motherboard.vice.com
+  image: ""
+- curated_id: cd2c30d9c632fb953a55cf3b33025b84
+  item_date: "2017-05-11 00:00:00"
+  title: Keylogger Discovered in Some HP Laptops
+  url: http://www.darkreading.com/vulnerabilities---threats/keylogger-discovered-in-some-hp-laptops/d/d-id/1328857
+  domain: www.darkreading.com
   image: ""
 - curated_id: d750697cad4fa4e11d3fd6f209e1ddce
   item_date: "2017-05-11 20:28:52"
