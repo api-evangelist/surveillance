@@ -1,331 +1,226 @@
-- slug: sensr.net
-  name: Sensr.net
+- slug: apache-avro
+  name: Apache Avro
   description: >-
-    We'll keep track of interesting images and alert you when something happens.
-    We're starting off with basic motion detection. We keep the images around
-    and organize them by time and day. We'll send you an email or a text message
-    if you'd like when we detect something. Heading out of town for the weekend?
-    Leave your camera pointed at the front door. If someone comes in, we'll text
-    you. You can also share your cameras with your friends or the whole world.
-    We encourage sharing, but it's best not to share cameras located in ultra
-    private spaces. Sorry, we don't allow adult content on our site. There are
-    plenty of other places on the Internet if you're looking for that kind of
-    stuff.
-  url: 'https://sensr.net/api'
-  short_url: ''
-  twitter: 'https://twitter.com/sensr'
-  blog: 'http://sensr.net/blog'
-  blog_rss: 'http://sensr.net/blog/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/924_logo.png
-  tags: 'Videos,Webcam,Sensors,Devices,Internet of Things,Cameras,Surveillance'
-- slug: urme-surveillance
-  name: URME Surveillance
-  description: >-
-    URME is dedicated to protecting the public from surveillance and creating a
-    safe space to explore our digital identities
-  url: 'http://www.urmesurveillance.com/'
+    Apache Avro is a data serialization system. Avro relies on schemas. When
+    Avro data is read, the schema used when writing it is always present. This
+    permits each datum to be written with no per-value overheads, making
+    serialization both fast and small. This also facilitates use with dynamic,
+    scripting languages, since data, together with its schema, is fully
+    self-describing.
+  url: 'https://avro.apache.org/docs/current/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/URME_Surveillance.png
-  tags: 'Surveillance,Physical'
-- slug: puretechsystems
-  name: PureTechSystems
-  description: ''
-  url: 'http://www.puretechsystems.com/'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apache-avro.png
+  tags: Definitions
+- slug: api-blueprint
+  name: API Blueprint
+  description: >-
+    API Blueprint is a documentation-oriented API description language. A couple
+    of semantic assumptions over the plain Markdown. API Blueprint is perfect
+    for designing your Web API and its comprehensive documentation but also for
+    quick prototyping and collaboration. It is easy to learn and even easier to
+    read &ndash; after all it is just a form of plain text.
+  url: 'https://apiblueprint.org/'
   short_url: ''
-  twitter: 'https://twitter.com/puretechsystems'
-  blog: 'http://www.puretechsystems.com/blog/'
-  blog_rss: 'http://www.puretechsystems.com/blog/feed/'
-  github: ''
-  image: ''
-  tags: 'Surveillance,Drones'
-- slug: emc
-  name: EMC
-  description: ''
-  url: 'http://www.emc.com'
-  short_url: ''
-  twitter: 'https://twitter.com/EMCcorp'
+  twitter: 'https://twitter.com/apiblueprint'
   blog: ''
   blog_rss: ''
-  github: 'https://github.com/emccode'
+  github: 'https://github.com/apiaryio/api-blueprint'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EMC_Corporation_logo.svg.png
-  tags: Surveillance
-- slug: persistent-surveillance-systems
-  name: Persistent Surveillance Systems
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apiblueprint-logo-2.png
+  tags: Definitions
+- slug: api-transformer
+  name: API Transformer
   description: >-
-    PSS develops highly capable, yet affordable, wide area surveillance systems
-    for city, state, national, and international markets.
-  url: 'http://www.pss-1.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/PSSWAS'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: ''
-  tags: Surveillance
-- slug: proximity
-  name: Proximity
-  description: ''
-  url: 'http://www.proximityid.co.za/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: ''
-  tags: Surveillance
-- slug: quantum
-  name: Quantum
-  description: >-
-    Quantum is a leading expert in scale-out storage, archive and data
-    protection, providing intelligent solutions for capturing, sharing and
-    preserving digital assets over the entire data lifecycle. We help customers
-    maximize the value of these assets to achieve their goals, whether
-    it&rsquo;s top movie studios looking to create the next blockbuster,
-    researchers working to accelerate scientific discovery, or small businesses
-    trying to streamline their operations. With a comprehensive portfolio of
-    best-in-class disk, tape and software solutions for physical, virtual and
-    cloud environments, we enable customers to address their most demanding
-    workflow challenges and opportunities.
-  url: 'http://www.quantum.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/QuantumCorp'
-  blog: 'http://blog.quantum.com/'
-  blog_rss: 'http://blog.quantum.com/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/quantum-logo.png
-  tags: Surveillance
-- slug: surveillance-self-defense
-  name: Surveillance Self Defense
-  description: >-
-    Tips, Tools and How-tos for Safer Online Communications. Surveillance
-    Self-Defense is EFF's guide to defending yourself and your friends from
-    surveillance by using secure technology and developing careful practices.
-  url: 'https://ssd.eff.org/en'
+    Transform API Descriptions from/to various formats e.g., Swagger, API
+    Blueprint, RAML, WADL, Google Discovery, I/O Docs. Please contact us for
+    production and high volume usage.
+  url: 'https://apitransformer.com/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/surveillance-self-defense.png
-  tags: Surveillance
-- slug: surveillance-self-defense
-  name: Surveillance Self Defense
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-transformer-screenshot.png
+  tags: 'Definitions,Conversion,My API Stack'
+- slug: elastic-path
+  name: Elastic Path
   description: >-
-    Tips and tools to help you protect your data and communications. Tips and
-    tools to help you more safely access LGBTQ resources, navigate social
-    networks, and avoid snoopers. Modern technology has given those in power new
-    abilities to eavesdrop and collect data on innocent people. Surveillance
-    Self-Defense is EFF's guide to defending yourself and your friends from
-    surveillance by using secure technology and developing careful practices.
-  url: 'https://ssd.eff.org/'
+    Elastic Path builds commerce software that powers the next generation of
+    digital experiences, helping businesses generate more revenue from their
+    goods, services, and content. Our products, including Commerce Engine,
+    Cortex, and Subscriptions, enable companies to unite discovery, buying, and
+    consumption into outstanding customer experiences that drive more engagement
+    and conversion.
+  url: 'http://www.elasticpath.com'
+  short_url: ''
+  twitter: 'https://twitter.com/elasticpath'
+  blog: ''
+  blog_rss: ''
+  github: 'https://github.com/elasticpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/elastic-path.jpeg
+  tags: 'Enterprise,Retail,Commerce,Hypermedia,API LIfeycle,Definitions'
+- slug: frictionless-data
+  name: Frictionless Data
+  description: >-
+    Data Packages are a lightweight containerization format for data. They
+    provide the foundation for frictionless data transport.&nbsp;Tools and
+    integrations to make it easy to integrate Data Packages into your data
+    processing and publishing workflows.&nbsp;Learn how to get started using and
+    developing with Data Packages through our guides, tutorials and
+    documentation.
+  url: 'http://specs.frictionlessdata.io/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
-  github: ''
-  image: ''
-  tags: Surveillance
-- slug: umbc-ebiquity-research-group
-  name: UMBC Ebiquity Research Group
-  description: >-
-    The UMBC Ebiquity Research Group consists of faculty and students from the
-    Department of Computer Science and Electrical Engineering (CSEE) of
-    University of Maryland, Baltimore County (UMBC), located in Baltimore MD.
-  url: 'http://ebiquity.umbc.edu/'
-  short_url: ''
-  twitter: 'https://twitter.com/ebiquity/'
-  blog: 'http://ebiquity.umbc.edu/blogger/'
-  blog_rss: 'http://feeds.feedburner.com/ebiquityStream'
-  github: 'https://github.com/Ebiquity'
+  github: 'https://github.com/frictionlessdata'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/UMBC
-    Ebiquity Lab.png
-  tags: 'Security,Surveillance,Trust'
-- slug: electronic-frontier-foundation
-  name: Electronic Frontier Foundation
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frictionlessdata-logo.png
+  tags: 'Data,Schema,Definitions'
+- slug: postman
+  name: Postman
   description: >-
-    The Electronic Frontier Foundation (EFF) is an international non-profit
-    digital rights group based in San Francisco in the United States. EFF
-    provides funds for legal defense in court, presents amicus curiae briefs,
-    defends individuals and new technologies from what it considers abusive
-    legal threats, works to expose government malfeasance, provides guidance to
-    the government and courts, organizes political action and mass mailings,
-    supports some new technologies which it believes preserve personal freedoms
-    and online civil liberties, maintains a database and web sites of related
-    news and information, monitors and challenges potential legislation that it
-    believes would infringe on personal liberties and fair use, and solicits a
-    list of what it considers patent abuses with intentions to defeat those that
-    it considers without merit.
-  url: 'https://www.eff.org/'
+    Postman on Chrome is the most efficient way to test, develop and document
+    APIs. Create complex requests, go back in time and view results in a
+    beautiful way. Postman has more than 80 features to help you at every
+    step.&nbsp;Our user base is growing rapidly and with more tools in the
+    pipeline, Postman aims to provide the most comprehensive API development and
+    testing solution to developers.
+  url: 'http://www.getpostman.com/'
   short_url: ''
-  twitter: 'https://twitter.com/eff'
-  blog: 'https://www.eff.org/deeplinks'
-  blog_rss: 'https://www.eff.org/rss/updates.xml'
-  github: 'https://github.com/EFForg'
+  twitter: 'https://twitter.com/postmanclient'
+  blog: 'http://blog.getpostman.com/'
+  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
+  github: 'https://github.com/postmanlabs'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/EFF.png
-  tags: 'Privacy,Surveillance,Transparency,Copyright,Patents'
-- slug: access-now
-  name: Access Now
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
+  tags: 'Clients, Testing, Definitions'
+- slug: google-api-discovery-service
+  name: Google API Discovery Service
   description: >-
-    Access Now defends and extends the digital rights of users at risk around
-    the world. By combining innovative policy, global advocacy, and direct
-    technical support, we fight for open and secure communications for all.
-  url: 'https://www.accessnow.org'
-  short_url: ''
-  twitter: 'https://twitter.com/accessnow'
-  blog: 'https://www.accessnow.org/blog/'
-  blog_rss: 'https://www.accessnow.org/feed/'
-  github: 'https://github.com/accessnow'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Access-Logo1.jpg
-  tags: 'Privacy,Surveillance,Transparency,Blog'
-- slug: american-civil-liberties-union-aclu
-  name: American Civil Liberties Union (ACLU)
-  description: >-
-    For almost 100 years, the ACLU has worked to defend and preserve the
-    individual rights and liberties guaranteed by the Constitution and laws of
-    the United States.
-  url: 'https://www.aclu.org'
-  short_url: ''
-  twitter: 'https://twitter.com/aclu'
-  blog: 'https://www.aclu.org/blog-feed/gamut'
-  blog_rss: 'https://www.aclu.org/blog-feed/all/feed'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aclu-logo.png
-  tags: 'Privacy,Surveillance,Transparency'
-- slug: u.s.-army-cyber-command-and-second-army
-  name: U.S. Army Cyber Command and Second Army
-  description: >-
-    United States Cyber Command (USCYBERCOM) is an armed forces sub-unified
-    command subordinate to United States Strategic Command. The command is
-    located in Fort Meade, Maryland, and centralizes command of cyberspace
-    operations, organizes existing cyber resources and synchronizes defense of
-    U.S. military networks.
-  url: 'http://www.arcyber.army.mil/'
-  short_url: ''
-  twitter: 'https://twitter.com/ARCYBER'
-  blog: 'https://www.army.mil/armycyber'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/United_States_Cyber_Command.png
-  tags: >-
-    Military,Cybersecurity,Surveillance,Cybersecurity.Theater,Cybersecurity
-    Character
-- slug: 'bureau-of-alcohol,-tobacco,-firearms,-and-explosives'
-  name: 'Bureau of Alcohol, Tobacco, Firearms, and Explosives'
-  description: >-
-    The Bureau of Alcohol, Tobacco, Firearms and Explosives (ATF, BATF, and
-    BATFE) is a federal law enforcement organization within the United States
-    Department of Justice.[4] Its responsibilities include the investigation and
-    prevention of federal offenses involving the unlawful use, manufacture and
-    possession of firearms and explosives; acts of arson and bombings; and
-    illegal trafficking of alcohol and tobacco products. The ATF also regulates
-    via licensing the sale, possession, and transportation of firearms,
-    ammunition, and explosives in interstate commerce. Many of ATF's activities
-    are carried out in conjunction with task forces made up of state and local
-    law enforcement officers, such as Project Safe Neighborhoods. ATF operates a
-    unique fire research laboratory in Beltsville, Maryland, where full-scale
-    mock-ups of criminal arson can be reconstructed.
-  url: 'https://www.atf.gov'
+    You can use the Google API Discovery Service to build client libraries, IDE
+    plugins, and other tools that interact with Google APIs. It provides a
+    lightweight, JSON-based API that exposes machine-readable metadata about
+    Google APIs.
+  url: 'https://developers.google.com/discovery/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/399px-US-AlcoholTobaccoFirearmsAndExplosives-Seal.svg.png
-  tags: 'Federal Government,Surveillance,Policing'
-- slug: national-security-agency-nsa
-  name: National Security Agency (NSA)
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
+    Shot 2017-03-16 at 9.06.47 PM.png
+  tags: 'Discovery,Google APIs,Definitions'
+- slug: odata.org
+  name: OData
   description: >-
-    The National Security Agency (NSA) is an intelligence organization of the
-    United States government, responsible for global monitoring, collection, and
-    processing of information and data for foreign intelligence and
-    counterintelligence purposes &ndash; a discipline known as signals
-    intelligence (SIGINT). NSA is concurrently charged with protection of U.S.
-    government communications and information systems against penetration and
-    network warfare.
-  url: 'https://www.nsa.gov/'
+    OData (Open Data Protocol) is an OASIS standard that defines the best
+    practice for building and consuming RESTful APIs. OData helps you focus on
+    your business logic while building RESTful APIs without having to worry
+    about the approaches to define request and response headers, status codes,
+    HTTP methods, URL conventions, media types, payload formats and query
+    options etc.
+  url: 'http://www.odata.org/'
+  short_url: 'http://apis.how/byirz5zgt7'
+  twitter: 'https://twitter.com/odataorg'
+  blog: 'http://www.odata.org/blog/'
+  blog_rss: ''
+  github: 'https://github.com/odata'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/odata-logo.png
+  tags: Definitions
+- slug: openapi-spec
+  name: OpenAPIs
+  description: >-
+    The Open API Initiative (OAI) was created by a consortium of forward-looking
+    industry experts who recognize the immense value of standardizing on how
+    REST APIs are described. As an open governance structure under the Linux
+    Foundation, the OAI is focused on creating, evolving and promoting a vendor
+    neutral description format. SmartBear Software is donating the Swagger
+    Specification directly to the OAI as the basis of this Open Specification.
+    &nbsp;
+  url: 'https://openapis.org/'
   short_url: ''
-  twitter: 'https://twitter.com/NSAGov'
+  twitter: 'https://twitter.com/openapispec'
+  blog: 'https://openapis.org/news-faq/blog'
+  blog_rss: 'https://www.openapis.org/feed'
+  github: 'https://github.com/OAI'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oai-logo.png
+  tags: Definitions
+- slug: raml
+  name: RAML
+  description: >-
+    RESTful API Modeling Language (RAML) is a simple and succinct way of
+    describing practically-RESTful APIs. It encourages reuse, enables discovery
+    and pattern-sharing, and aims for merit-based emergence of best practices.
+    The goal is to help our current API ecosystem by solving immediate problems
+    and then encourage ever-better API patterns. RAML is built on broadly-used
+    standards such as YAML and JSON and is a non-proprietary, vendor-neutral
+    open spec.
+  url: 'http://raml.org/'
+  short_url: ''
+  twitter: ''
+  blog: 'http://open-raml.blogspot.com/'
+  blog_rss: 'http://open-raml.blogspot.com/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/raml-logo.jpg
+  tags: Definitions
+- slug: ''
+  name: RESTdesc
+  description: >-
+    Semantic descriptions for hypermedia APIs. RESTdesc allows you to capture
+    the functionality of hypermedia APIs, so automated agents can use them.
+    Despite their powerful capabilities, RESTdesc descriptions are easy to
+    master. Description is not a goal in itself: you want your API to be used.
+    See how RESTdesc opens up your API for discovery, based on its functional
+    characteristics.
+  url: 'http://restdesc.org/'
+  short_url: 'http://apis.how/vymksgxgfl'
+  twitter: ''
   blog: ''
   blog_rss: ''
-  github: 'https://github.com/NationalSecurityAgency'
+  github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nsa-logo.jpg
-  tags: >-
-    Federal
-    Government,Surveillance,Cybersecurity,Cybersecurity.Theater,Cybersecurity
-    Character
-- slug: bureau-of-justice-statistics
-  name: Bureau of Justice Statistics
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restdesc-logo.png
+  tags: Definitions
+- slug: schema.org
+  name: Schema.org
   description: >-
-    The United States Bureau of Justice Statistics (BJS) is a federal government
-    agency belonging to the U.S. Department of Justice and a principal agency of
-    the U.S. Federal Statistical System. Established on December 27, 1979, the
-    bureau collects, analyzes and publishes data relating to crime in the United
-    States. The agency publishes data regarding statistics gathered from the
-    roughly fifty-thousand agencies that comprise the U.S. justice system on its
-    Web site.
-  url: 'http://www.bjs.gov'
+    Schema.org is a collaborative, community activity with a mission to create,
+    maintain, and promote schemas for structured data on the Internet, on web
+    pages, in email messages, and beyond. Schema.org vocabulary can be used with
+    many different encodings, including RDFa, Microdata and JSON-LD.&nbsp;
+  url: 'http://schema.org'
+  short_url: ''
+  twitter: ''
+  blog: 'http://blog.schema.org/'
+  blog_rss: 'http://blog.schema.org/feeds/posts/default?alt=rss'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/schema-org-logo.jpeg
+  tags: 'Definitions, Schema'
+- slug: u.s.-data-federation
+  name: U.S. Data Federation
+  description: >-
+    The U.S. Data Federation supports data interoperability and harmonization
+    across Federal, state, and local government agencies by highlighting common
+    data formats, API specifications, and metadata vocabularies.
+  url: 'http://federation.data.gov/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/US-DeptOfJustice-Seal.svg.png
-  tags: 'Federal Government,Surveillance'
-- slug: department-of-homeland-security
-  name: Department of Homeland Security
-  description: >-
-    The U.S. Department of Homeland Security (DHS) is a cabinet department of
-    the United States federal government, created in response to the September
-    11 attacks, and with the primary responsibilities of protecting the United
-    States and its territories (including protectorates) from and responding to
-    terrorist attacks, man-made accidents, and natural disasters. The Department
-    of Homeland Security, and not the United States Department of the Interior,
-    is equivalent to the Interior ministries of other countries.&nbsp;
-  url: 'http://www.dhs.gov'
-  short_url: ''
-  twitter: ''
-  blog: 'https://www.dhs.gov/news-releases/blog?field_news_type_tid=588'
-  blog_rss: 'https://www.dhs.gov/news_and_updates/rss.xml/blog?field_news_type_tid=588'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/400px-US_Department_of_Homeland_Security_Seal.svg.png
-  tags: 'Federal Government,Surveillance'
-- slug: federal-bureau-of-investigation-fbi
-  name: Federal Bureau of Investigation (FBI)
-  description: >-
-    The Federal Bureau of Investigation (FBI) is the domestic intelligence and
-    security service of the United States, which simultaneously serves as the
-    nation's prime federal law enforcement agency. Operating under the
-    jurisdiction of the U.S. Department of Justice, the FBI is concurrently a
-    member of the U.S. Intelligence Community and reports to both the Attorney
-    General and the Director of National Intelligence. A leading U.S.
-    counterterrorism, counterintelligence, and criminal investigative
-    organization, the FBI has jurisdiction over violations of more than 200
-    categories of federal crimes.
-  url: 'https://www.fbi.gov/'
-  short_url: ''
-  twitter: 'https://twitter.com/FBI'
-  blog: 'https://www.fbi.gov/news'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/2000px-US-FBI-ShadedSeal.svg.png
-  tags: 'Federal Government,Law Enforcement,Surveillance'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/usdf-logo.png
+  tags: 'Federal Government,Definitions'
